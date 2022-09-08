@@ -60,7 +60,7 @@ Learned spells:
 <u>Confuse</u>: Force an enemy within 50 feet to make a constitution saving throw. On failure, deal 1d8 damage to them for three turns. For those three turns, they are confused, and target a random ally instead of low health/weak/close allies. 
  
 ## Session 1: Wednesday, 07/13/2022
-Woke up hungover in a prison cell in the *wastes*. We were captured by the lizard coalition. We were thrown in the mines before we escaped into the desert
+Woke up hungover in a prison cell in the Wastes. We were captured by the lizard coalition. We were thrown in the mines before we escaped into the desert
 
 ## Session 2: Wednesday, 07/27/2022
 In the desert with Jimson Jamson. Aaron insulted him and we fought him until we blinded him and he ran away. We decided to go to a town with some Small nomadic tents and a few permanent settlements. We are headed towards atlantis in a horse carriage 
