@@ -14,20 +14,28 @@
 *** Pitchfork (1d8 Piercing)
 - 1d6  DEX + PROF to hit
 *** Meteorite Whip (1d6 + 1d6 Radiant + 1d6 Fire Damage)
+*** Electric spear (2d8 Electric damage)
 ** Items
 - 1 ticket to Uncle Bungo's circus
 - Reflect spell runes
 - Key to mansion in Atlantis
 - Hourglass with sand to Kareem's domain
+- 5 gold pieces
+- 5 silver pieces
+- 10 platinum
+- Vampire fang
 ** Spells
 *** Translate Speech
 For two minutes, become able to verbally communicate with any intelligent creature of your choosing (DM has discretion on what is considered “intelligent”). Nonverbal creatures will be able to understand you if their intelligence is high enough. Translation is NOT telepathy.
 *** Telekinesis
 Pick one object that is not larger than you to move with your mind. It must be within thirty feet, and you may move it at six inches per second. You may not move animals or NPCs, nor can you move objects in complicated ways.
 *** Recast Recharge (?)
-** Sorcerers
+*** Chameleon
+Disguise yourself as another type of creature until you long rest or decide to cancel the spell. Does not require concentration. You cannot imitate specific beings, but you may choose to belong to another one of the eight available races.
 *** Aura Blast
 Deal 1d10 energy damage to a single creature using a ray, orb, or shockwave. Once one creature is damaged, the aura blast dissipates.
+
+** Sorcerer Spells
 *** Vitality Drain
 Pick an enemy within thirty feet to make a constitution saving throw. On failure, decrease an enemy’s maximum health by the amount of damage they took last turn from one of your allies (you get to pick). Until combat is over, they stick with that maximum health and cannot be healed above it.
 *** Reversion
@@ -36,6 +44,17 @@ Move all people within a 20-foot radius to the location they were in the previou
 On hit, deal 1d10 of a random type of damage to an enemy within 30 feet
 *** Confuse
 Force an enemy within 50 feet to make a constitution saving throw. On failure, deal 1d8 damage to them for three turns. For those three turns, they are confused, and target a random ally instead of low health/weak/close allies.
+*** Retroactive Omen
+Learn what type of damage an enemy is vulnerable to. The last three attacks from your allies were now of that damage type. Adjust enemies health accordingly
+* Allies
+** The bubba: Druid
+Large southern man.
+CANNOT go to hell
+** E. Lectricity: Storm elemental
+** 5 Gum: Gum elemental
+- Is a vampire
+** Bird: Bird person
+** Mimosa: Hobbit
 
 * Session recaps
 ** Session 1: Wednesday, 07/13/2022
@@ -46,5 +65,10 @@ In the desert with Jimson Jamson. Aaron insulted him and we fought him until we 
 We start out traveling on a paved road. 2 miles south of the city we overhear a conversation where we make out these words: Animal, attack, uncle, bungos, circus. 3 billion civilians died. We come on some rubble and squeeze The Bubba through. We defeated some goblins and collected some loot. We met Uncle Bungo. We need to track sun lion, pair of demon jackals, ancient elephant
 ** Session 4: Wednesday, 08/24/2022
 Discover two new areas of city. Undersea catacombs + Merchant district. We learned about the ancient elephant. We decided to go to the marketplace in the city. Gina was kidnapped and met Kareem, Lord of the sands and she goes on a psychedelic trip. We fought a bunch of lizards and met up with Gina. We then decided to kill Uncle Bungo because Kareem had cooler stuff. We decided to set out for Atlantis and loot the mansion we stole the key for.
-** Session 5: <2022-09-07 Wed>
+** Session 5: [2022-09-07 Wed]
 We started towards Atlantis
+** Session 6: [2022-09-28 Wed]
+We shipwrecked on Dragon's roost. The king is on the other side of the beach with his body guards, and one of the body guards has a tragedy mask on. Another boat will be by in 1-2 business days. The guy is firmly on the beach. He is an order premonition sorcerer. Mimosa showed up out of nowhere and everyone beat the shit of our her.
+** Session 7: [2022-10-26 Wed]
+We got off the island and got lots of money for our trip to Atlantis
+** Session 8: [2022-11-09 Wed]

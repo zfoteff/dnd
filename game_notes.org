@@ -26,6 +26,7 @@ For two minutes, become able to verbally communicate with any intelligent creatu
 *** Telekinesis
 Pick one object that is not larger than you to move with your mind. It must be within thirty feet, and you may move it at six inches per second. You may not move animals or NPCs, nor can you move objects in complicated ways.
 *** Recast Recharge: If a spell hits, you can cast it again with no recharge
+*** Chameleon: Disguise yourself as another type of creature until you long rest or decide to cancel the spell. Does not require concentration. You cannot imitate specific beings, but you may choose to belong to another one of the eight available races.
 ** Sorcerers
 *** Aura Blast
 Deal 1d10 energy damage to a single creature using a ray, orb, or shockwave. Once one creature is damaged, the aura blast dissipates.
@@ -37,6 +38,8 @@ Move all people within a 20-foot radius to the location they were in the previou
 On hit, deal 1d10 of a random type of damage to an enemy within 30 feet
 *** Confuse
 Force an enemy within 50 feet to make a constitution saving throw. On failure, deal 1d8 damage to them for three turns. For those three turns, they are confused, and target a random ally instead of low health/weak/close allies.
+*** Return
+Teleport the party to a place you have been some time in the past three campaign sessions. Once there, you must deal with the consequences/current situation
 
 * Session recaps
 ** Session 1: Wednesday, 07/13/2022
