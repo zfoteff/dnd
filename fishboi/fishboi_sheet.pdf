@@ -14574,3 +14574,83 @@ endobj
 startxref
 658981
 %%EOF
+2958 0 obj
+<< /AP << /N 5205 0 R>> /DV 3300 0 R /F 4 /FT /Tx /Ff 8388608 /M (D:20221201235509) /MK <<>> /P 2956 0 R /Rect [270.04 728.18 375.88 743.84] /Subtype /Widget /T (ClassLevel) /Type /Annot /V (Chaos Sorcerer \(9\))>>
+endobj
+2973 0 obj
+<< /AP << /N 5206 0 R>> /DV 3286 0 R /F 4 /FT /Tx /Ff 12582912 /M (D:20221201235509) /MK <<>> /P 2956 0 R /Rect [290.92 584.52 380.2 595.32] /Subtype /Widget /T (HPMax) /Type /Annot /V (34)>>
+endobj
+2976 0 obj
+<< /AP << /N 5207 0 R>> /DV 3283 0 R /F 4 /FT /Tx /Ff 12582912 /M (D:20221201235509) /MK <<>> /P 2956 0 R /Q 1 /Rect [231.16 549.24 380.2 579.48] /Subtype /Widget /T (HPCurrent) /Type /Annot /V (22)>>
+endobj
+3093 0 obj
+<< /AP << /N 5208 0 R>> /DV 3127 0 R /F 4 /FT /Tx /Ff 8392704 /M (D:20221201235509) /MK <<>> /P 2956 0 R /Rect [412.44 35.88 577.52 405.46] /Subtype /Widget /T (Features and Traits) /Type /Annot /V (\nCloud Step \(Can take one step in the air\))>>
+endobj
+3976 0 obj
+<< /BS << /S /S /W 1>> /DV () /F 4 /FT /Tx /Ff 12582912 /MK 4488 0 R /OC 4162 0 R /P 3913 0 R /Q 1 /Rect [51.85 228.87 91.1 249.75] /StructParent 383 /Subtype /Widget /T (SlotsTotal 20) /Type /Annot /V (2) /AP << /N 5209 0 R>> /M (D:20221201235509)>>
+endobj
+3978 0 obj
+<< /BS << /S /S /W 1>> /DV () /F 4 /FT /Tx /Ff 8388608 /MK 4486 0 R /OC 4162 0 R /P 3913 0 R /Q 0 /Rect [40.77 195.73 198.72 205.67] /StructParent 385 /Subtype /Widget /T (Spells 1034) /Type /Annot /V (Retroactive Omen) /AP << /N 5210 0 R>> /M (D:20221201235509)>>
+endobj
+3979 0 obj
+<< /BS << /S /S /W 1>> /DV () /F 4 /FT /Tx /Ff 8388608 /MK 4485 0 R /OC 4162 0 R /P 3913 0 R /Q 0 /Rect [40.77 181.76 198.72 191.7] /StructParent 386 /Subtype /Widget /T (Spells 1035) /Type /Annot /V (Return ) /AP << /N 5211 0 R>> /M (D:20221201235509)>>
+endobj
+5205 0 obj
+<< /Length 91 /Subtype /Form /Resources << /Font << /Helv 870 0 R>>>> /BBox [0 0 105.84 15.66]>> stream
+/Tx BMC q BT /Helv 10.11 Tf 0 g 1 0 0 1 0 0 Tm 2 4.09 Td (Chaos Sorcerer \(9\)) Tj ET Q EMC
+endstream
+endobj
+5206 0 obj
+<< /Length 72 /Subtype /Form /Resources << /Font << /Helv 870 0 R>>>> /BBox [0 0 89.28 10.8]>> stream
+/Tx BMC q BT /Helv 6.51 Tf 0 g 1 0 0 1 0 0 Tm 2 3.35 Td (34) Tj ET Q EMC
+endstream
+endobj
+5207 0 obj
+<< /Length 77 /Subtype /Form /Resources << /Font << /Helv 870 0 R>>>> /BBox [0 0 149.04 30.24]>> stream
+/Tx BMC q BT /Helv 20.91 Tf 0 g 1 0 0 1 0 0 Tm 62.89 6.33 Td (22) Tj ET Q EMC
+endstream
+endobj
+5208 0 obj
+<< /Length 139 /Subtype /Form /Resources << /Font << /Helv 870 0 R>>>> /BBox [0 0 165.08 369.58]>> stream
+/Tx BMC q BT /Helv 11.83 Tf 0 g 1 0 0 1 0 369.58 Tm 2 -11.83 Td (Cloud Step \(Can take one ) Tj
+0 -11.83 Td (step in the air\)) Tj ET Q EMC
+endstream
+endobj
+5209 0 obj
+<< /Length 76 /Subtype /Form /Resources << /Font << /Helv 870 0 R>>>> /BBox [0 0 39.25 20.88]>> stream
+/Tx BMC q BT /Helv 13.98 Tf 0 g 1 0 0 1 0 0 Tm 15.74 4.89 Td (2) Tj ET Q EMC
+endstream
+endobj
+5210 0 obj
+<< /Length 82 /Subtype /Form /Resources << /Font << /Helv 870 0 R>>>> /BBox [0 0 157.95 9.94]>> stream
+/Tx BMC q BT /Helv 5.87 Tf 0 g 1 0 0 1 2 3.21509 Tm (Retroactive Omen) Tj ET Q EMC
+endstream
+endobj
+5211 0 obj
+<< /Length 72 /Subtype /Form /Resources << /Font << /Helv 870 0 R>>>> /BBox [0 0 157.95 9.94]>> stream
+/Tx BMC q BT /Helv 5.87 Tf 0 g 1 0 0 1 2 3.21509 Tm (Return) Tj ET Q EMC
+endstream
+endobj
+5212 0 obj
+<< /Size 5213 /Prev 658981 /Type /XRef /Root 2121 0 R /Info 2119 0 R /Index [0 1 2958 1 2973 1 2976 1 3093 1 3976 1 3978 1 3979 1 5205 1 5206 1 5207 1 5208 1 5209 1 5210 1 5211 1 5212 1] /ID [(¹Œ-ttéIú»nTÉ#¼) (#Eg‰«ÍïþÜº˜vT2)] /W [1 3 2] /Length 96>> stream
+   ÿÿ
+"  
+  
+Ý  
+¸  
+Â  
+Ï  
+ê  
+û  
+Û  
+¦  
+x  
+Š  
+Z  
+0  
+ü  
+endstream
+endobj
+startxref
+662524
+%%EOF
