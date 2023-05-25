@@ -1,0 +1,54 @@
+#+title: Game Notes
+#+author: Zac Foteff
+#+description: Game notes for Fishboi campaign
+
+* Side Quests
+** [X] Collect 4 animals for Uncle Bungo
+- Sun Lion
+- 2 Hell Jackals
+- Ancient Elephant (location varies)
+** [ ] Go to the mansion in Atlantis
+** [ ] Kill the stormborn giant dude
+
+* Inventory
+** Weapons
+*** Pitchfork (1d8 Piercing)
+- 1d6  DEX + PROF to hit
+*** Meteorite Whip (1d6 + 1d6 Radiant + 1d6 Fire Damage)
+** Items
+- 1 ticket to Uncle Bungo's circus
+- Reflect spell runes
+- Key to mansion in Atlantis
+- Hourglass with sand to Kareem's domain
+** Spells
+*** Translate Speech
+For two minutes, become able to verbally communicate with any intelligent creature of your choosing (DM has discretion on what is considered “intelligent”). Nonverbal creatures will be able to understand you if their intelligence is high enough. Translation is NOT telepathy.
+*** Telekinesis
+Pick one object that is not larger than you to move with your mind. It must be within thirty feet, and you may move it at six inches per second. You may not move animals or NPCs, nor can you move objects in complicated ways.
+*** Recast Recharge: If a spell hits, you can cast it again with no recharge
+*** Chameleon: Disguise yourself as another type of creature until you long rest or decide to cancel the spell. Does not require concentration. You cannot imitate specific beings, but you may choose to belong to another one of the eight available races.
+** Sorcerers
+*** Aura Blast
+Deal 1d10 energy damage to a single creature using a ray, orb, or shockwave. Once one creature is damaged, the aura blast dissipates.
+*** Vitality Drain
+Pick an enemy within thirty feet to make a constitution saving throw. On failure, decrease an enemy’s maximum health by the amount of damage they took last turn from one of your allies (you get to pick). Until combat is over, they stick with that maximum health and cannot be healed above it.
+*** Reversion
+Move all people within a 20-foot radius to the location they were in the previous turn. This location can be more than 20 feet away from the Chaos Sorcerer. You cannot send allies or enemies back to Hell or Heaven with this move.
+*** Randomness
+On hit, deal 1d10 of a random type of damage to an enemy within 30 feet
+*** Confuse
+Force an enemy within 50 feet to make a constitution saving throw. On failure, deal 1d8 damage to them for three turns. For those three turns, they are confused, and target a random ally instead of low health/weak/close allies.
+*** Return
+Teleport the party to a place you have been some time in the past three campaign sessions. Once there, you must deal with the consequences/current situation
+
+* Session recaps
+** Session 1: Wednesday, 07/13/2022
+Woke up hungover in a prison cell in the Wastes. We were captured by the lizard coalition. We were thrown in the mines before we escaped into the desert
+** Session 2: Wednesday, 07/27/2022
+In the desert with Jimson Jamson. Aaron insulted him and we fought him until we blinded him and he ran away. We decided to go to a town with some Small nomadic tents and a few permanent settlements. We are headed towards atlantis in a horse carriage
+** Session 3: Wednesday, 08/10/2022
+We start out traveling on a paved road. 2 miles south of the city we overhear a conversation where we make out these words: Animal, attack, uncle, bungos, circus. 3 billion civilians died. We come on some rubble and squeeze The Bubba through. We defeated some goblins and collected some loot. We met Uncle Bungo. We need to track sun lion, pair of demon jackals, ancient elephant
+** Session 4: Wednesday, 08/24/2022
+Discover two new areas of city. Undersea catacombs + Merchant district. We learned about the ancient elephant. We decided to go to the marketplace in the city. Gina was kidnapped and met Kareem, Lord of the sands and she goes on a psychedelic trip. We fought a bunch of lizards and met up with Gina. We then decided to kill Uncle Bungo because Kareem had cooler stuff. We decided to set out for Atlantis and loot the mansion we stole the key for.
+** Session 5: <2022-09-07 Wed>
+We started towards Atlantis by going to a port town. There are two ships to atlantis, as well as other places like the forbidden tunnels, the temple of order, dragons roost, and merman city.  We boarded honest Jack's cruise ship that is heading to Atlantis. We cast illusions to get on the ship. Tanner threatened a kid and almost threw him over. A collossal being picked the ship up and set us on a dragon filled island called Dragon's roost.
