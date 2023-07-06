@@ -1,0 +1,33 @@
+:PROPERTIES:
+:ID:       3e1b93b3-f1ad-4148-bb16-5313b376a707
+:END:
+#+title:    Wizard
+#+author:   zfoteff
+#+date:     [2023-07-05 Wed]
+#+summary:  Wizard class description
+
+* Wizard
+Become a powerful channel of the magical elements. Use spells primarily, cast using the character's *Intelligence* stat.
+
+To begin as a wizard, choose an element to subclass in: [Fire 🔥, Storm 🌩, Radiant ✨]. Each element comes with some special abilities as you get stronger, and a few distinct advantages right off the bat. When choosing new elemental spells, you may only choose spells matching your selected element.
+** Level-up guide
+1. Pick one generic spell, one wizard spell, and one elemental spell (consult your subclass page). You begin the game with three level one spell slots. All three reset on every long rest.
+2. Add one generic spell and one wizard spell to your spell list. Roll 1d6 and add to your health.
+3. Add one elemental spell and 1d6 health. Add one level one spell slot (Total: 4).
+4. Gain Recast Recharge and add 1d6 health.
+5. Add +1 INT and +1 of Any, as well as one level two spell slot. You are now able to learn level two spells (Total: 4,1).
+6. Add one generic spell, one wizard spell, and 1d6 health.
+7. Add one elemental spell, one level two spell slot, and 1d6 health (Total: 4, 2).
+8. Add one elemental trait and 1d6 health.
+9. Add +1 of Any.
+10. Become an Archmage: Evolve, Mutate, or Ascend.
+11. You are now able to learn level three spells. Add two generic spells, one level three spell slot, and 1d6 health. (Total: 4, 2, 1)
+12. Add one wizard spell and 1d6 health (Total: 4, 2, 1)
+13. Add one elemental spell.
+14. Add +1 of Any and 1d6 health and one level two spell slot..
+15. Add one elemental trait, one level three spell slot, and 1d6 health (Total: 4, 3, 2).
+16. You are now able to learn level four spells. Add one level four spell slot. (Total: 4, 3, 2, 1).
+17. Add one generic spell and 1d6 health.
+18. Add one wizard spell and 1d6 health.
+19. Add ONE elemental spell and 1d6 health. Become a Transcendent Archmage.
+20. Multiclass

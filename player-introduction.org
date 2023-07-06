@@ -1,0 +1,30 @@
+:PROPERTIES:
+:ID:       17a96883-cc40-409c-9fb5-80d5ab0c8379
+:END:
+#+title:    Player Introduction
+#+author:   zfoteff
+#+date:     [2023-07-03 Mon]
+#+summary:  Player introduction page with initial character setup instructions
+
+Hello! This is going to be a lot at first, sorry about that. I've simplified where I can, but the initial setup is going to take a little bit of effort on your part. After that, we can get to the real fun.
+
+Please print (or electronically complete) the *blank character* sheet included in the Google Drive. Be sure to check the *reference character* sheet if you feel lost, or just reach out to me and I can help out.
+
+* Character Setup
+1. Pick a [[id:4ef8f616-b62a-42d3-987e-525e4187ae66][race]]
+  Please pick something you'd like to role play as in a long running story, not just a character with the best stats. Each class will have a description of their advantages, disadvantages, class abilities, and other details about a given race in the universe.
+
+  Please complete the instructions on the race sheet to select your race and set the appropriate stats.
+2. Pick a [[id:campaign-classes][class]]
+   Similarly, please pick something you'd like to role play as in a long running story, not just the easiest class to fight with. There are many other important parts of the game to consider! Each class also has a set of subclasses. These can help you specialize your character.
+
+   Please complete the instructions on the class sheet to select your class and subclass. Once you select your class, save that page. It will tell you what to do at each level as your character gains experience. You should also save your subclass page, it will show you what abilities you gain as you level up.
+
+3. Roll dice to determine ability scores
+   You'd think this would be uncomplicated. Its not. Instructions here. Sorry.
+4. Pick your starting gear
+   Select your equipment based on various difficulty members. This gear will quickly be replaced, but it should get you to level 3 easily.
+5. Create a background for your character
+   This part is all up to you. Who do you want to be in this world?
+
+Complete these five steps and you'll be ready to play. Have fun customizing your characters, and good luck!

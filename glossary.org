@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       a3719559-2b06-443a-b75a-96c9aa3f3b26
+:END:
+#+title:    Glossary
+#+author:   zfoteff
+#+date:     [2023-07-05 Wed]
+#+summary:  Glossary of common terms used during the game
+
+_Class_: A archetype of skills and experience a user's character fits into. Every character will fit differently into the definition of a class, no single character can define a class in its entirety.
+_Elemental trait_: Inherent traits applied to a character, based on their subclass.
+_Race:_ A class of beings that exist, or existed, in the game world.
+_Roll With Advantage_: Roll 2d20. Use the higher values.
+_Roll With Disadvantage_: Roll 2d20. Use the lower value.

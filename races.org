@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       4ef8f616-b62a-42d3-987e-525e4187ae66
+:END:
+#+title:    Races
+#+author:   zfoteff
+#+date:     [2023-07-03 Mon]
+#+summary:  Campaign race details
+
+* Overview
+| Name  | Base HP | Advantages | Disadvantages | Bonuses |
+|-------+---------+------------+---------------+---------|
+| Human |       6 | +1 to any  | -1 to any     |         |
+* Human
+:PROPERTIES:
+:ID:       4ef8f616-b62a-42d3-987e-525e4187ae66
+:END:
+The white bread of WORLD's races. Not particularly good at anything, not incompetent either. Favored by Agamemnon.
