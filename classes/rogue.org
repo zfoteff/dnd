@@ -10,23 +10,23 @@
 Sneak, steal, deceive, and assassinate those who oppose your endeavors.
 
 ** Level-up
-Gain the ability to Sneak Attack. If invisible or hidden, gain an extra 1d6 damage on the next attack.
-Subclass Feature. Add 1d6 health.
-Become proficient with a new class of weapon. Your next purchase of this class of weapon is discounted by 50%. Add 1d6 health.
-You are now able to hide in plain sight upon passing a deception check that surpasses a perception check made by your enemy. Your modifier is your Deception - 7.
-Your Deception, Stealth, and Sleight of Hand modifiers all increase by 1. Your Dexterity modifier increases by 1.
-Sneak Attack’s damage increases to 2d6. Add 1d6 health.
-Subclass Feature. Add 1d6 health.
-Become proficient with a new class of weapon. Your next purchase of this class of weapon is discounted by 50%. Add 1d6 health.
-Your Deception, Stealth, and Sleight of Hand modifiers all increase by 1. Your Dexterity score all increases by 1.
-Gain Betrayal. If the creature you are attacking believes you to be their ally, you deal double damage.
-Sneak Attack now applies to enemies who did not target you on their last turn. Add 1d6 health.
-Sneak Attack’s damage increases to 3d6. Add 1d6 health.
-Subclass Feature
-Your modifier for Hide in Plain Sight is now Deception - 4. Add 1d6 health.
-Gain Assassinate. If you are not sensed by your enemy before attacking, you deal triple damage on your first attack and no longer have to roll to hit.
-Your Deception, Stealth, and Sleight of Hand modifiers all increase by 1. Your Dexterity score all increases by 1. Add 1d6 health.
-Your modifier for Hide in Plain Sight is now Deception - 2. Add 1d6 health.
-Sneak Attack’s damage increases to 4d6.
-Subclass Feature. Add 1d6 health.
-Multiclass
+1. Gain the ability to Sneak Attack. If invisible or hidden, gain an extra 1d6 damage on the next attack.
+2. Subclass Feature. Add 1d6 health.
+3. Become proficient with a new class of weapon. Your next purchase of this class of weapon is discounted by 50%. Add 1d6 health.
+4. You are now able to hide in plain sight upon passing a deception check that surpasses a perception check made by your enemy. Your modifier is your Deception - 7.
+5. Your Deception, Stealth, and Sleight of Hand modifiers all increase by 1. Your Dexterity modifier increases by 1.
+6. Sneak Attack’s damage increases to 2d6. Add 1d6 health.
+7. Subclass Feature. Add 1d6 health.
+8. Become proficient with a new class of weapon. Your next purchase of this class of weapon is discounted by 50%. Add 1d6 health.
+9. Your Deception, Stealth, and Sleight of Hand modifiers all increase by 1. Your Dexterity score all increases by 1.
+10. Gain Betrayal. If the creature you are attacking believes you to be their ally, you deal double damage.
+11. Sneak Attack now applies to enemies who did not target you on their last turn. Add 1d6 health.
+12. Sneak Attack’s damage increases to 3d6. Add 1d6 health.
+13. Subclass Feature
+14. Your modifier for Hide in Plain Sight is now Deception - 4. Add 1d6 health.
+15. Gain Assassinate. If you are not sensed by your enemy before attacking, you deal triple damage on your first attack and no longer have to roll to hit.
+16. Your Deception, Stealth, and Sleight of Hand modifiers all increase by 1. Your Dexterity score all increases by 1. Add 1d6 health.
+17. Your modifier for Hide in Plain Sight is now Deception - 2. Add 1d6 health.
+18. Sneak Attack’s damage increases to 4d6.
+19. Subclass Feature. Add 1d6 health.
+20. Multiclass
