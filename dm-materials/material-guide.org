@@ -1,0 +1,22 @@
+#+title:    Material Guide
+#+author:   zfoteff
+#+date:     [2023-07-06 Thu]
+#+summary:  Strength and property guide for all item materials
+
+Material list [high to low]: cosmic -> meteor, moonstone -> iron -> stone -> wooden
+
+* Cosmic
+Highest tier. Highest damage potential, high critical damage chance, and will shatter the minds of weaker enemies who cannot comprehend the madness of the cosmos. Must be wielded by a magically trained individual to ensure that wielding the weapon does not cause the user to go mad. The user will have to fight off the effects of the weapon as they use it, limiting the material to usage by only high level characters.
+
+Deals Chaos, Cosmic, and Madness damage to enemies
+* Brimstone
+Material crafted from the dregs of Hell.
+
+Deals madness and fire damage to enemies
+* Meteor
+* Moonstone
+* Dwarven Smelt
+* Steel
+* Iron
+* Stone
+* Wooden
