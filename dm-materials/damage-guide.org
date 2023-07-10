@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ID:       23919bd5-7bb0-4743-ae81-f07566ccd236
+:END:
+#+title:    Damage Guide
+#+author:   zfoteff
+#+date:     [2023-07-09 Sun]
+#+summary:  Descriptions of each damage type in the game
+
+* Slashing Damage
+Any type of cut, gash, or laceration
+* Bludgeoning Damage
+Smacking with a hard/heavy object
+* Piercing Damage
+Poking holes with a sharp and pointy object
+* Fire Damage
+Fire bad. Hot. Inflict injury by wielding flame, or guard your allies with its warmth
+* Cold Damage
+Frigid pain and freezing effects caused by rapidly causing the temperature to drop in a contained area
+* Poison Damage
+Toxic substances whittle away at a target's heath. Both poison and venom can have the same effect on a target.
+* Acid Damage
+Break down most materials with strong acid, reducing armor effectiveness and damaging weapons.
+* Radiant Damage
+Divine intervention from the heavens. Sears the skin and melts the eyeballs of non-believers
+* Shock Damage
+Electrocute enemies with currents of electricity.
+* Madness Damage
+A dangerous magical gamble. Inflict massive damage to feeble minded enemies and torment the minds of stronger enemies, at the cost to the wielders sanity.
