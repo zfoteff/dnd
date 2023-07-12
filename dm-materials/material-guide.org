@@ -1,23 +1,39 @@
+:PROPERTIES:
+:ID:       23919bd5-7bb0-4743-ae81-f07566cad236
+:END:
 #+title:    Material Guide
 #+author:   zfoteff
 #+date:     [2023-07-06 Thu]
 #+summary:  Strength and property guide for all item materials
 
-Material list [high to low]: cosmic -> meteor, moonstone -> iron -> stone -> wooden
+Material list [high to low]: cosmic -> meteor, mithryl -> iron -> stone -> wooden
 
 * Cosmic
-Highest tier. Highest damage potential, high critical damage chance, and will shatter the minds of weaker enemies who cannot comprehend the madness of the cosmos. Must be wielded by a highly skilled individual to ensure that wielding the weapon does not cause the user to go mad. The user will have to fight off the effects of the weapon as they use it, limiting the material to usage by only high level characters.
+Highest tier. Highest damage potential, high critical damage chance, and will shatter the minds of weaker enemies who cannot comprehend the madness of the cosmos. Must be wielded by a highly skilled individual to ensure that wielding the weapon does not cause the user to go mad. The user will have to fight off the effects of the weapon as they use it, limiting the material to high level characters.
 
 Deals Chaos, Cosmic, and Madness damage to enemies
 * Brimstone
 Material crafted from the dregs of Hell. Exceedingly rare.
 
-Deals madness and [[id:23919bd5-7bb0-4743-ae81-f07566ccd236][fire]] damage to enemies
+Deals [[id:23919bd5-7bb0-4743-ae81-f07566ccd236][madness]] and [[id:23919bd5-7bb0-4743-ae81-f07566ccd236][fire]] damage to enemies
 * Meteor
+Metal salvaged from falling meteors. Its strange magical qualities result in extremely effective weapons.
 
-* Moonstone
+Deals fire and radiance damage
+* Mithryl
+Elven metal. Cool stuff.
+
+Deals [[id:23919bd5-7bb0-4743-ae81-f07566ccd236][cold]] and [[id:23919bd5-7bb0-4743-ae81-f07566ccd236][radiance]] damage
+* Deep crystal
 * Dwarven Smelt
+A strange mix of metals, crafted with skilled hands into reliable and strong weapons. Their composition gives their weapons a unique resonance, generating an electrical field when attacking enemies.
+
+Deals [[id:23919bd5-7bb0-4743-ae81-f07566ccd236][shock]] damage
 * Steel
+The standard. Lighter than iron, more flexible than iron, and far stronger than . An adventurers best choice of weapon.
 * Iron
+Heavy smelted iron, especially strong and tough. Just don't leave them in water.
 * Stone
+The caveman special. Effective bludgeoning weapons, and sharp enough rocks may even cut opponents!
 * Wooden
+Gotta start somewhere. Grab a branch and start swinging!

@@ -1,0 +1,7 @@
+#+title: Pirate Faction
+
+Pirates use single-shot pistols that deal high damage with low accuracy. Loyal to the crew, but can be convinced to jump ship for a better deal if the winds of change blow in the opposite direction
+
+* Basic Troops
+* Commander Troops
+* Boss Troops
