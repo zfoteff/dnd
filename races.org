@@ -5,9 +5,12 @@
 #+author:   zfoteff
 #+date:     [2023-07-03 Mon]
 #+summary:  Campaign race details
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="static/stylesheets/subclass-style.css" />
 
-* Overview
 #+BEGIN_CENTER
+[[[id:DND][Main Menu]]]
+#+END_CENTER
+-----
 | Name      | Base HP | Advantages | Disadvantages | Bonuses |
 |-----------+---------+------------+---------------+---------|
 | Human     |       6 | +1 to any  | -1 to any     |         |
@@ -18,7 +21,6 @@
 | Dwarf     |         |            |               |         |
 | Elemental |         |            |               |         |
 | Reptilian |         |            |               |         |
-#+END_CENTER
 * Human
 The white bread of WORLD's races. Not particularly good at anything, not incompetent either.
 
@@ -49,3 +51,4 @@ Tool proficiency
 Dark vision
 * Elemental
 * Reptilian
+-----
