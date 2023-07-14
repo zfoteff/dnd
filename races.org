@@ -11,6 +11,7 @@
 [[[id:DND][Main Menu]]]
 #+END_CENTER
 -----
+#+CAPTION: Character Race Overview
 | Name      | Base HP | Advantages | Disadvantages | Bonuses |
 |-----------+---------+------------+---------------+---------|
 | Human     |       6 | +1 to any  | -1 to any     |         |
