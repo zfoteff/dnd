@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       d204c3f7-766c-465b-a958-ec7e8283ad0b
+:END:
+#+title:    Shaman
+#+author:   zfoteff
+#+date:     [2023-07-05 Wed]
+#+summary:  Shaman class summary
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../static/stylesheets/subclass-style.css" />
+-----

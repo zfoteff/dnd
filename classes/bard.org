@@ -5,16 +5,24 @@
 #+author:   zfoteff
 #+date:     [2023-07-05 Wed]
 #+summary:  Bard class summary
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../static/stylesheets/subclass-style.css" />
 
-* Bard
+#+BEGIN_CENTER
+[[[id:DND][Main Menu]]] [[[id:campaign-classes][Character Selection]]]
+#+END_CENTER
+-----
 Support the rest of the party using your talents, or your "talents". Uses unique class abilities and spells
 
-** Level-up
+To begin playing a Bard, first choose a subclass: [[[id:6a8efa65-451d-4eac-a069-84661a0c69ab][Actor]], [[id:067059f6-be3d-4994-86ca-d7d33a291a79][Muse]], [[id:05331b42-b242-4866-a6e6-df9cdad306e7][Craftsman]], or [[id:d204c3f7-766c-465b-a958-ec7e8283ad0b][Shaman]]]. These subclasses give you special traits that increase in power as you get stronger, and a few distinct advantages right out the gate. Your character also gains 1 talisman (consult with DM to learn what you get). Be sure you apply your level 1 bonuses from your subclass.
+
+_Spell attack bonus_: PROF + INT
+_Initial Health_: Roll 1d6 and add it to your base HP
+* Level-up
 1. Gain Life Force Manipulation. At any time, you may use your turn to deal 1d6 decay damage to an enemy or heal an ally for 1d6. This can only be used in combat, but you can use it once after combat to heal if necessary.
 2. Subclass Feature. Gain 1d6 health.
 3. Your Intelligence and Wisdom scores both increase by 1.
 4. Gain Health Transfer. Twice per combat, you may transfer up to 10 health from yourself to an ally. Gain 2d6 health.
-5. Subclass Feature. Gain 1d6 health.
+5. Your Charisma is increased by +1. Gain 1d6 health.
 6. Life Force Manipulation’s strength increases to 1d10.
 7. Gain Transmutation. Learn about one of the following damage types of your choosing (Ice, Fire, Radiance, Energy, Force, Psychic). Once per round of combat, during an ally’s turn, you can change their damage dealt into damage of this type and add an additional 1d6 of this damage type. Gain 1d6 health.
 8. Your Strength and Constitution scores both increase by 1.
@@ -30,3 +38,4 @@ Support the rest of the party using your talents, or your "talents". Uses unique
 18. Gain +1 of Any and an additional +1 of Any (must be a different Ability Score than the first +1). Gain 1d6 health.
 19. Subclass Feature.
 20. Multiclass
+-----

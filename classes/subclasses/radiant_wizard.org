@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       8153acaf-ac20-4b00-8ac0-fa423c4ff5ce
+:END:
+#+title:    Radiant Wizard
+#+author:   zfoteff
+#+date:     [2023-07-12 Wed]
+#+summary:  Radiant Wizard subclass description
+-----
+Radiant wizard
+-----

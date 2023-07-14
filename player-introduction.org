@@ -5,29 +5,108 @@
 #+author:   zfoteff
 #+date:     [2023-07-03 Mon]
 #+summary:  Player introduction page with initial character setup instructions
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="static/stylesheets/default-style.css" />
 
+#+BEGIN_CENTER
+[[[id:DND][Main Menu]]]
+#+END_CENTER
+-----
 Hello! This is going to be a lot at first, sorry about that. I've simplified where I can, but the initial setup is going to take a little bit of effort on your part. After that, we can get to the real fun.
 
-Please print (or electronically complete) the *blank character* sheet included in the Google Drive. Be sure to check the *reference character* sheet if you feel lost, or just reach out to me and I can help out.
+Please print (or electronically complete) the *blank character* sheet included here. Be sure to check the *reference character* sheet if you feel lost, or just reach out to me and I can help out.
 
-* Character Setup
-1. Pick a [[id:4ef8f616-b62a-42d3-987e-525e4187ae66][race]]^{1}
-  Please pick something you'd like to role play as in a long running story, not just a character with the best stats. Each class will have a description of their advantages, disadvantages, class abilities, and other details about a given race in the universe.
+* Character Setup Steps
+Complete these five steps and you'll be ready to play your first adventure. Have fun customizing your character, and good luck!
+** Pick a [[id:4ef8f616-b62a-42d3-987e-525e4187ae66][Race]] [fn:1]
+Please pick something you'd like to role play as in a long running story, not just a character with the best stats. Each class will have a description of their advantages, disadvantages, class abilities, and other details about a given race in the universe.
 
-  Please complete the instructions on the race sheet to select your race and set your hit points.
-2. Pick a [[id:campaign-classes][class]]^{2}
-   Similarly, please pick something you'd like to role play as in a long running story, not just the easiest class to fight with. There are many other important parts of the game to consider! Each class also has a set of subclasses that can help you specialize your character.
+Please complete the instructions on the race sheet to select your race and set your hit points.
+** Pick a [[id:campaign-classes][Class]] [fn:2]
+Similarly, please pick something you'd like to role play as in a long running story, not just the easiest class to fight with. There are many other important parts of the game to consider! Each class also has a set of subclasses that can help you specialize your character. All characters will start at level 1 and will gain all level 1 abilities when the character is created.
 
-   Please complete the instructions on the class sheet to select your class and subclass. Once you select your class, save that page. It will tell you what to do at each level as your character gains experience. You should also save your subclass page, it will show you what abilities you gain as you level up.
+Please complete the instructions on the class sheet to select your class and subclass. Once you select your class, save that page. It will tell you what to do at each level as your character gains experience. You should also save your subclass page, it will show you what subclass-specific abilities you gain as you level up.
+** Roll dice to determine ability scores
+You'd think this would be uncomplicated. Its not. Sorry. Please keep your character sheet handy and follow along to set your ability scores.
 
-3. Roll dice to determine ability scores
-   You'd think this would be uncomplicated. Its not. Instructions here. Sorry.
-4. Pick your starting gear
-   Select your equipment based on various difficulty members. This gear will quickly be replaced, but it should get you to level 3 easily.
-5. Create a background for your character
-   This part is all up to you. Who do you want to be in this world?
+On the left hand side of your character sheet there are 6 ability scores:
+1. Strength (STR) [fn:3]
+2. Dexterity (DEX) [fn:4]
+3. Constitution (CON) [fn:5]
+4. Intelligence (INT) [fn:6]
+5. Wisdom (WIS) [fn:7]
+6. Charisma (CHA) [fn:8]
 
-Complete these five steps and you'll be ready to play. Have fun customizing your characters, and good luck!
+These are your most valuable attributes; with a combination of luck and your choice, these scores will help determine the possible success of any action you take in the game. A score of 10 or 11 is the normal human average, but adventurers and monsters are a cut above average in most abilities. Adventurers can have scores as high as 20, and monsters and Gods can have scores as high 30.
 
+Repeat the following process 6 times to set your ability scores:
+1. Roll 4d6
+2. Pick out the highest 3 dice
+3. Record the sum of those 3 dice on a sheet of paper
+
+With those 6 numbers, place in the *smaller bubble* beneath each ability score. This number is the raw score for the ability. Weapon and melee focused classes should allocate higher scores to Strength & Dexterity, while spell based classes should focus on Intelligence and Wisdom. Charisma will have a variety of benefits in NPC interaction and Constitution will increase your longevity in battles, however, both are considered non-essential for basic character interactions.
+
+Now, fill in the *larger section* of each ability score with the bonus corresponding to the ability's raw score:
+
+#+CAPTION: Ability Bonus Table
+| Raw Score | Bonus |
+|-----------+-------|
+|         3 |    -4 |
+|       4-5 |    -3 |
+|       6-7 |    -2 |
+|       8-9 |    -1 |
+|     10-11 |     0 |
+|     12-13 |    +1 |
+|     14-15 |    +2 |
+|     16-17 |    +3 |
+|        18 |    +4 |
+
+Slightly lower and to the right of your ability score are your skills. Each skill will correspond with an ability. On each blank line, write in the *bonus* that corresponds to each ability. Pick two skills you would like to specialize in bubble the small circle on the left of the skill in, and add +2 to the chosen skills.
+
+Repeat the same process with your saving throws (directly above the skills table on your character sheet), but do not bubble in any saving throws. Only write your bonus scores into the blank lines.
+
+Your proficiency bonus +2 to start
+Your speed is 30 to start
+** Pick your starting gear
+Select your equipment based on various difficulty levels. Don't worry, this gear will quickly be replaced, but it should get you to level 3 easily. Record these values in their appropriate places on your character sheet.
+#+CAPTION: Warrior / Monk Loadout Selection
+| Category    | Easy Loadout                                  | Recommended Loadout                      | Challenge Loadout   |
+|-------------+-----------------------------------------------+------------------------------------------+---------------------|
+| Armor       | Studded Leather Armor: 12 AC                  | Leather Armor: 11 AC                     | No Armor: 10 AC     |
+| Weapon      | Steel Longsword - 2d6 / slashing (PROF + STR) | Iron Spear - 1d8 / piercing (PROF + DEX) | Dagger - 1d4 (PROF) |
+| Bonus Items | One set of tools                              |                                          |                     |
+#+CAPTION: Wizard / Sorcerer / Druid / Warlock Loadout Selection
+| Category    | Easy Loadout                                   | Recommended Loadout            | Challenge Loadout            |
+|-------------+------------------------------------------------+--------------------------------+------------------------------|
+| Armor       | Enchanted Robe: 11 AC                          | Enchanted Robe: 11 AC          | No Armor: 10 AC              |
+| Weapon      | Iron shortsword - 1d6 / slashing (PROF + STR)  | Dagger - 1d4 / piercing (PROF) | Unarmed strike - 1 + STR     |
+| Bonus Items | One set of tools, One spell slot refill potion | One spell slot refill potion   | One spell slot refill potion |
+#+CAPTION: Bard / Merchant / Prophet
+| Category    | Easy Loadout                                                      | Recommended Loadout                      | Challenge Loadout        |
+|-------------+-------------------------------------------------------------------+------------------------------------------+--------------------------|
+| Armor       | Enchanted Robe: 11 AC                                             | Enchanted Robe: 11 AC                    | No armor                 |
+| Weapon      | Iron shortsword - 1d6 / slashing (PROF + STR)                     | Dagger - 1d4 / piercing (PROF)           | Unarmed strike - 1 + STR |
+| Bonus Items | Two sets of tools, One full-health potion, One half-health potion | One set of tools, One full-health potion | One half-health potion   |
+#+CAPTION: Rogue Loadout Selection
+| Category    | Easy Loadout                        | Recommended Loadout                            | Challenge Loadout |
+|-------------+-------------------------------------+------------------------------------------------+-------------------|
+| Armor       | Leather armor: 11 AC                | Leather armor: 11 AC                           | No armor: 10 AC   |
+| Weapon      | Steel shortsword 1d8 / slashing     | Shank - 1d6 / slashing + piercing (PROF + DEX) |                   |
+| Bonus Items | Dagger - 1d4 / piercing (DEX + STR) |                                                |                   |
+#+CAPTION: Ranger Loadout Selection
+| Category    | Easy Loadout                                             | Recommended Loadout                                      | Challenge Loadout                                        |
+|-------------+----------------------------------------------------------+----------------------------------------------------------+----------------------------------------------------------|
+| Armor       | Leather armor: 11 AC                                     | Leather armor: 11 AC                                     | No armor: 10 AC                                          |
+| Weapon      | Wood longbow - 1d6 piercing (DEX + STR) + 10 Wood arrows | Wood longbow - 1d6 piercing (DEX + STR) + 10 Wood arrows | Wood longbow - 1d6 piercing (DEX + STR) + 10 Wood arrows |
+| Bonus Items | Iron shortsword - 1d6 / slashing (PROF + STR)            |                                                          |                                                          |
+** Create a background for your character
+This part is all up to you. Who do you want to be in this world?
+-----
+* Footnotes
 [fn:1] Glossary: [[id:a3719559-2b06-443a-b75a-96c9aa3f3b26][race]]
 [fn:2] Glossary: [[id:a3719559-2b06-443a-b75a-96c9aa3f3b26][class]]
+[fn:3] Glossary: [[id:a3719559-2b06-443a-b75a-96c9aa3f3b26][strength]]
+[fn:4] Glossary: [[id:a3719559-2b06-443a-b75a-96c9aa3f3b26][dexterity]]
+[fn:5] Glossary: [[id:a3719559-2b06-443a-b75a-96c9aa3f3b26][constitution]]
+[fn:6] Glossary: [[id:a3719559-2b06-443a-b75a-96c9aa3f3b26][intelligence]]
+[fn:7] Glossary: [[id:a3719559-2b06-443a-b75a-96c9aa3f3b26][wisdom]]
+[fn:8] Glossary: [[id:a3719559-2b06-443a-b75a-96c9aa3f3b26][charisma]]

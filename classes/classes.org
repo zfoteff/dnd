@@ -1,15 +1,22 @@
 :PROPERTIES:
-:ID:       campaign-classes
+:ID:        campaign-classes
 :END:
-#+title     Campaign Classes
+#+title:    Campaign Classes
 #+author:   zfoteff
 #+date:     [2023-07-03 Mon]
 #+summary:  Campaign classes submenu
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../static/stylesheets/default-style.css" />
 
+#+BEGIN_CENTER
+[[[id:DND][Main Menu]]]
+#+END_CENTER
+-----
 * [[id:8bb9a08a-97c0-4231-a002-ad7dcf83e4d8][Bard]]
+Support the rest of the party using your talents, or your "talents". Uses unique class abilities and spells
 * Druid
 Work with the forces of nature to pursue your goals. Use alchemy primarily, cast using Charisma
 * [[id:3e1b93b3-f1ad-4148-bb16-5313b376a707][Wizard]]
+Become a powerful channel of the magical elements. Use spells primarily, cast using the character's *Intelligence* stat.
 * Monk
 Trust only in a higher power(s?) to achieve your goals. Uses weapons and unarmed strikes primarily.
 * Sorcerer
@@ -21,3 +28,5 @@ Buy low, sell high! Focus on acquiring as much money as possible; making trades 
 * Warrior
 Hack, slash, pummel, and dominate your enemies on the way to victory. Uses weapons primarily.
 * [[id:7e784143-655d-4170-af49-68aceea59caa][Rogue]]
+
+-----

@@ -1,0 +1,35 @@
+:PROPERTIES:
+:ID:       18a96883-cc40-409c-9fb5-80d5ab0c8379
+:END:
+#+title:    Campaign DM Scripts
+#+author:   zfoteff
+#+date:     [2023-07-12 Wed]
+
+* Dice Rolling
+#+NAME: Dice
+#+BEGIN_SRC python :var dice_num=1 :var dice_max_value=6 :var modifier=0
+from random import randint
+escape_text = "\n+\t"
+dice_set = [randint(1, dice_max_value) + modifier for _ in range(dice_num)]
+return f"(modifier) {modifier}{escape_text}{escape_text.join(map(str,dice_set))}\n{10*'_'}\n=\t{sum(dice_set)+modifier}"
+#+END_SRC
+
+#+NAME: Roll D10
+#+CALL: Dice(dice_max_value=10)
+
+#+RESULTS: Roll D10
+: (modifier) 0
+: +	4
+: __________
+: =	4
+
+#+NAME: Roll D20
+#+CALL: Dice(dice_max_value=20)
+
+#+RESULTS: Roll D20
+: (modifier) 0
+: +	14
+: __________
+: =	14
+
+#+NAME: Roll D20 with Advantage

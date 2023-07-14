@@ -5,9 +5,31 @@
 #+author:   zfoteff
 #+date:     [2023-07-05 Wed]
 #+summary:  Glossary of common terms used during the game
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="static/stylesheets/default-style.css" />
 
-_Class_: A archetype of skills and experience a user's character fits into. Every character will fit differently into the definition of a class, no single character can define a class in its entirety.
-_Elemental trait_: Inherent traits applied to a character, based on their subclass.
-_Race:_ A class of beings that exist, or existed, in the game world.
-_Roll With Advantage_: Roll 2d20. Use the higher values.
-_Roll With Disadvantage_: Roll 2d20. Use the lower value.
+#+BEGIN_CENTER
+[[[id:DND][Main Menu]]]
+#+END_CENTER
+-----
+_*Charisma*_: Measure of abilty to interact with others. It helps define a characters confidence and eloquence, and reflects a commanding personality. Applies in situations when the user is attempting to convincingly hide the truth, verbally or through actions, or intimidate other characters.
+
+_*Class*_: A archetype of skills and experience a user's character fits into. Every character will fit differently into the definition of a class, no single character can define a class in its entirety.
+
+_*Constitution*_: Measure of health, stamina, and vital force. Applies in situation checks where the character is pushed beyond their normal limits.
+
+_*Dexterity*_: Measure of agility, reflexes, and balance. Applies in situations where the user is attempting to move nimbly, quickly, quietly, or to keep their footing on tricky terrain.
+
+_*Elemental Trait*_: Inherent traits applied to a character, based on their subclass.
+
+_*Intelligence*_: Measure of mental acuity, accuracy of mental recall, and the ability to reason through complex situations. Applies in situations when a user must draw on logic, education, memory, or deductive reason.
+
+_*Race*:_ A class of beings that exist, or existed, in the game world.
+
+_*Roll With Advantage*_: Roll 2d20. Use the higher values.
+
+_*Roll With Disadvantage*_: Roll 2d20. Use the lower value.
+
+_*Strength*_: Measure of physical power, athletic training, and the extent to which a character can exert physical force with their body. Applies in situations where the character is attempting to lift, push, pull, or break something, to force your body through a space, or apply otherwise brute force to a situation.
+
+_*Wisdom*_: Measure of how attuned a person is to the world around them and represented perceptiveness and intuition. Applies in situation checks where a character tries to read body language, understand someone's feelings, notice things about the environment, or care for an injured person.
+-----

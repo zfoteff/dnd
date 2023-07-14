@@ -5,13 +5,13 @@
 #+author:   zfoteff
 #+date:     [2023-07-05 Wed]
 #+summary:  Wizard class description
-
-* Wizard
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../static/stylesheets/subclass-style.css" />
+-----
 Become a powerful channel of the magical elements. Use spells primarily, cast using the character's *Intelligence* stat.
 
-To begin as a wizard, choose an element to subclass in: [Fire 🔥, Storm 🌩, Radiant ✨]. Each element comes with some special abilities as you get stronger, and a few distinct advantages right off the bat. All wizards can learn generic spells in the spell index, wizard specific spells, and elemental spells matching their selected element.
+To begin as a wizard, choose an element to subclass into: [[[id:7141f6ab-b3bc-4eeb-9e7e-071452bfc673][Fire]] 🔥, [[id:4ebd35da-05f7-456f-88b8-c8865a270b8f][Storm]] 🌩, [[id:8153acaf-ac20-4b00-8ac0-fa423c4ff5ce][Radiant]] ✨]. Each element comes with some special abilities as you get stronger, and a few distinct advantages right off the bat. All wizards can learn generic spells in the spell index, wizard specific spells, and elemental spells matching their selected element. Be sure you apply your level 1 bonuses from your subclass.
 
-** Level-up guide
+* Level-up guide
 1. Pick one generic spell, one wizard spell, and one elemental spell (consult your subclass page). You begin the game with three level one spell slots (Total: 3 lvl 1, 0 lvl2, 0 lvl3, 0 lvl4). All three reset on every long rest. Spell slots are only used up during combat encounters.
 2. Add one generic spell and one wizard spell to your spell list. Add 1d6 to your health.
 3. Add one elemental spell and 1d6 health. Add one level one spell slot (Total: 4, 0, 0, 0).
@@ -32,3 +32,4 @@ To begin as a wizard, choose an element to subclass in: [Fire 🔥, Storm 🌩, 
 18. Add one wizard spell and 1d6 health.
 19. Add ONE elemental spell and 1d6 health. Become a Transcendent Archmage.
 20. Multiclass
+-----

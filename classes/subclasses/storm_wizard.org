@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4ebd35da-05f7-456f-88b8-c8865a270b8f
+:END:
+#+title:    Storm Wizard
+#+author:   zfoteff
+#+date:     [2023-07-12 Wed]
+#+summary:  Storm wizard subclass description and level up stats
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="static/stylesheets/default-style.css" />
+-----
+Storm Wizard
+-----

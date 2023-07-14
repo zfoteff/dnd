@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       7141f6ab-b3bc-4eeb-9e7e-071452bfc673
+:END:
+#+title:    Fire Wizard
+#+author:   zfoteff
+#+date:     [2023-07-12 Wed]
+#+summary:  Fire wizard subclass
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="static/stylesheets/default-style.css" />
+-----
+Fire wizard subclass
+-----
