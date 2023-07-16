@@ -8,48 +8,51 @@
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="static/stylesheets/subclass-style.css" />
 
 #+BEGIN_CENTER
-[[[id:DND][Main Menu]]]
+[[[id:DND][Main Menu]]] [[[id:17a96883-cc40-409c-9fb5-80d5ab0c8379][Player Intro Sheet]]] [[[id:campaign-classes][Classes]]]
 #+END_CENTER
 -----
 #+CAPTION: Character Race Overview
 | Name      | Base HP | Advantages | Disadvantages | Bonuses |
 |-----------+---------+------------+---------------+---------|
 | Human     |       6 | +1 to any  | -1 to any     |         |
-| Elf       |         |            |               |         |
-| Orc       |         |            |               |         |
-| Demon     |         |            |               |         |
-| Hobbit    |         |            |               |         |
-| Dwarf     |         |            |               |         |
-| Elemental |         |            |               |         |
-| Reptilian |         |            |               |         |
+| Elf       |       6 |            |               |         |
+| Orc       |       8 |            |               |         |
+| Demon     |       5 |            |               |         |
+| Hobbit    |       5 |            |               |         |
+| Dwarf     |       7 |            |               |         |
+| Elemental |       5 |            |               |         |
+| Reptilian |       7 |            |               |         |
 * Human
 The white bread of WORLD's races. Not particularly good at anything, not incompetent either.
 
 Humans can quickly learn 1 other language, if they meet a good teacher.
 ** Racial traits
-+1 to any
--1 to any
+- +1 to any
+- -1 to any
 * Elf
-Graceful, magical beings attuned to nature and the harmony of WORLD. Elves love nature, magic, art, and all good things in the world.
+Graceful, beautiful, and intensely magical beings attuned to nature and the harmony of WORLD. Elves love nature, magic, art, and all good things in the world.
+
+Elves can speak Elvish:
+** Racial traits
 * Orc
 * Demon
 * Hobbit
-Nobody quite knows how the hobbit came to be in WORLD. All that is known is that the race has seemly existed on the fringes of society, outlasting kingdoms and empires by avoiding notice and keeping to themselves. They're concerned with basic needs and simple pleasures, but little patience for complex plans and grand designs.
+Nobody quite knows how the hobbit came to be in WORLD. All that is known is that the race has seemly existed on the fringes of society, outlasting kingdoms and empires by avoiding notice and keeping to themselves. They're concerned with basic needs and simple pleasures, but have little patience for complex plans and grand designs.
 
 ** Racial traits
-+1 to charisma
-Lucky
+- +1 to charisma
+- Lucky
 * Dwarf
 Deep in the roots of WORLD's mountains, dwarven kingdoms have raised great treasures, and waged great wars against goblin kind. These skilled workers have superior skills with their hands and hammers, but aren't seen as particularly bright by the other races of WORLD.
 
 Accustomed to life underground, dwarves have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dimly light.
 
-Dwarves can also speak Dwarvish.
+Dwarves can speak Dwarvish.
 ** Racial traits
-+2 to constitution
-+1 to strength
-Tool proficiency
-Dark vision
+- +2 to constitution
+- +1 to strength
+- Tool proficiency
+- Dark vision
 * Elemental
 * Reptilian
 -----

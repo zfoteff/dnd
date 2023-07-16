@@ -8,7 +8,7 @@
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../static/stylesheets/subclass-style.css" />
 
 #+BEGIN_CENTER
-[[[id:DND][Main Menu]]] [[[id:campaign-classes][Character Selection]]]
+[[[id:DND][Main Menu]]] [[[id:campaign-classes][Character Selection]]] [[[id:campaign-classes][Classes]]]
 #+END_CENTER
 -----
 Support the rest of the party using your talents, or your "talents". Uses unique class abilities and spells

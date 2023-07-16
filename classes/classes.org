@@ -8,13 +8,13 @@
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../static/stylesheets/default-style.css" />
 
 #+BEGIN_CENTER
-[[[id:DND][Main Menu]]]
+[[[id:DND][Main Menu]]] [[[id:17a96883-cc40-409c-9fb5-80d5ab0c8379][Player Introduction Sheet]]]
 #+END_CENTER
 -----
 * [[id:8bb9a08a-97c0-4231-a002-ad7dcf83e4d8][Bard]]
-Support the rest of the party using your talents, or your "talents". Uses unique class abilities and spells
+Support the rest of the party using your talents, or your "talents". Uses unique class abilities and spells, mostly using the *Charisma* stat
 * Druid
-Work with the forces of nature to pursue your goals. Use alchemy primarily, cast using Charisma
+Work with the forces of nature to pursue your goals. Uses magic and alchemy primarily, cast using *Charisma* and *Wisdom*
 * [[id:3e1b93b3-f1ad-4148-bb16-5313b376a707][Wizard]]
 Become a powerful channel of the magical elements. Use spells primarily, cast using the character's *Intelligence* stat.
 * Monk

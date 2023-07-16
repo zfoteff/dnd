@@ -6,6 +6,10 @@
 #+date:     [2023-07-12 Wed]
 #+summary:  Bard class summary
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../../static/stylesheets/subclass-style.css" />
+
+#+BEGIN_CENTER
+[[[id:DND][Main Menu]]] [[[id:campaign-classes][Character Selection]]] [[[id:campaign-classes][Classes]]] [[[id:8bb9a08a-97c0-4231-a002-ad7dcf83e4d8][Bard]]]
+#+END_CENTER
 -----
 * Level 1
 Gain the ability to play two instruments of you choice

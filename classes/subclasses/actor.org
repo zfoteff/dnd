@@ -6,6 +6,10 @@
 #+date:     [2023-07-12 Wed]
 #+summary:  Actor subclass description and information
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../../static/stylesheets/subclass-style.css" />
+
+#+BEGIN_CENTER
+[[[id:DND][Main Menu]]] [[[id:campaign-classes][Character Selection]]] [[[id:campaign-classes][Classes]]] [[[id:8bb9a08a-97c0-4231-a002-ad7dcf83e4d8][Bard]]]
+#+END_CENTER
 -----
 * Level 1:
 You are famous. This makes you somewhat recognizable. NPC attitudes may vary towards you, and many will have a first impression of you. You are more likely to be recognized in more populated parts of the world.
