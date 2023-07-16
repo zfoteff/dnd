@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f2323133-e17d-4cff-86db-415b72e6d42e
+:END:
+#+title:    Sorcerer
+#+author:   zfoteff
+#+date:     [2023-07-15 Sat]
+#+summary:  Sorcerer class description
+
+#+BEGIN_CENTER
+[[[id:DND][Main Menu]]] [[[id:17a96883-cc40-409c-9fb5-80d5ab0c8379][Player Introduction Sheet]]] [[[id:campaign-classes][Classes]]]
+#+END_CENTER
