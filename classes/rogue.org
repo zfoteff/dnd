@@ -9,6 +9,8 @@
 * Rogue
 Sneak, steal, deceive, and assassinate those who oppose your endeavors.
 
+To begin as a rogue, chose a subclass [Ninja, Con man, Thief]
+
 ** Level-up
 1. Gain the ability to Sneak Attack. If invisible or hidden, gain an extra 1d6 damage on the next attack.
 2. Subclass Feature. Add 1d6 health.
