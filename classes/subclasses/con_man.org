@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       072dbba0-dd37-4c57-ae44-959867358be8
+:END:
+#+title:    Con man
+#+author:   zfoteff
+#+date:     [2023-07-15 Sat]
+#+summary:  Con man subclass description
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../static/stylesheets/subclass-style.css" />
+
+#+BEGIN_CENTER
+[[[id:DND][Main Menu]]] [[[id:campaign-classes][Character Selection]]] [[[id:campaign-classes][Classes]]] [[[id:7e784143-655d-4170-af49-68aceea59caa][Rogue]]]
+#+END_CENTER
