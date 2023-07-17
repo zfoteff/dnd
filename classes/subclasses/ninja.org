@@ -11,5 +11,10 @@
 [[[id:DND][Main Menu]]] [[[id:17a96883-cc40-409c-9fb5-80d5ab0c8379][Player Introduction Sheet]]] [[[id:campaign-classes][Classes]]]
 #+END_CENTER
 -----
-* Level-up
------
+* Level 1
+Gain 20 Shurikens. Shurikens deal 1d6 damage and you can throw two at the same target with one action. Easy to lose, and not readily acquired, be careful!
+* Level 2
+When attacking an enemy from behind, deal an extra 1d6 damage.
+
+When entering combat at night, gain an extra 15 move speed and deal an extra 1d6 damage on every attack
+* Level 7
