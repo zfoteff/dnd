@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       1a4c073a-78f7-4500-899b-fccc59a1dcf0
+:END:
+#+title:    Gambits
+#+author:   zfoteff
+#+date:     [2023-07-17 Mon]
+#+summary:  Gambit descriptions

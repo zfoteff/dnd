@@ -30,11 +30,15 @@ Humans can quickly learn 1 other language, if they meet a good teacher.
 - +1 to any
 - -1 to any
 * Elf
-Graceful, beautiful, and intensely magical beings attuned to nature and the harmony of WORLD. Elves love nature, magic, art, and all good things in the world.
+Graceful, beautiful, and intensely magical beings attuned to nature and the harmony of WORLD. Elves love nature, magic, art, and all good things in the world. Elves can live to be more than 700 years old, giving them a very broad and measured perspective on troubling events.
 
 Elves can speak Elvish:
 ** Racial traits
+- +2 to dexterity
+- Perception proficiency
+- Can't be lulled to sleep by magic
 * Orc
+Hulking, proud beigns that tare
 * Demon
 * Hobbit
 Nobody quite knows how the hobbit came to be in WORLD. All that is known is that the race has seemly existed on the fringes of society, outlasting kingdoms and empires by avoiding notice and keeping to themselves. They're concerned with basic needs and simple pleasures, but have little patience for complex plans and grand designs.

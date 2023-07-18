@@ -9,3 +9,35 @@
 #+BEGIN_CENTER
 [[[id:DND][Main Menu]]] [[[id:17a96883-cc40-409c-9fb5-80d5ab0c8379][Player Introduction Sheet]]] [[[id:campaign-classes][Classes]]]
 #+END_CENTER
+-----
+Manipulate the world around you in a manner of your choosing. Uses spells primarily, cast using Wisdom.
+
+To begin playing as a Sorcerer, first choose a sorcery: [[[id:e2504611-7581-49a2-9006-68a65de4319c][Order]], [[id:ef16f314-677b-47af-957b-a1a29fe225de][Chaos]], [[id:569f7d4d-5744-49e4-ac0d-bebbd1795992][Psychic]]]. Each sorcery comes with some special abilities as you get stronger, and a few distinct advantages right off the jump. All sorcerers can learn generic spells in the spell index, generic sorceries, and sorcery spells matching their chosen sorcery type. Make sure to review the Magic Guide to get an understanding of the magic system.
+
+Spells are cast using
+
+- _Initial Health_: Roll 1d6 and add it to your base HP. This is your hit die.
+- _Spell Save DC_: 8 + WIS + PROF
+- Gain +1 Crafting
+
+* Level-up guide
+1. Pick one generic spell, one sorcerer spell, and one sorcery (consult your subclass page). You begin the game with three level one spell slots (Total: 3 lvl1, 0 lvl2, 0 lvl3, 0 lvl4). All three reset on every long rest. Spell slots are only used up during combat encounters.
+2. Add one generic spell and one sorcerer spell to your spell list. Roll 1d6 and add to your health.
+3. Add one sorcery and 1d6 health. Add one level one spell slot (Total: 4, 0, 0, 0).
+4. Gain Recast Recharge and add 1d6 health.
+5. You are now able to learn level two spells. Add +1 WIS and +1 of Any, as well as one level two spell slot. (Total: 4, 1, 0, 0).
+6. Add one generic spell, one sorcerer spell, and 1d6 health.
+7. Add one sorcery, one level two spell slot, and 1d6 health (Total: 4, 2).
+8. Add one sorcerer trait and 1d6 health.
+9. Add +1 of Any.
+10. Become an Archsorcerer: Evolve, Mutate, or Ascend.
+11. You are now able to learn level three spells. Add two generic spells, one level three spell slot, and 1d6 health. (Total: 4, 2, 1, 0)
+12. Add one sorcerer spell and 1d6 health
+13. Add one sorcery.
+14. Add +1 of Any, 1d6 health, and one level two spell slot. (Total: 4, 3, 1, 0)
+15. Add one sorcerer trait, one level three spell slot, and 1d6 health (Total: 4, 3, 2, 0).
+16. You are now able to learn level four spells. Add one level four spell slot. (Total: 4, 3, 2, 1).
+17. Add one generic spell and 1d6 health.
+18. Add one sorcerer spell and 1d6 health.
+19. Add one sorcery and 1d6 health. Become a Transcendent Archsorcerer.
+20. Multiclass

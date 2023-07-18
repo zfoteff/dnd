@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       569f7d4d-5744-49e4-ac0d-bebbd1795992
+:END:
+#+title:    Psychic Sorcerer
+#+author:   zfoteff
+#+date:     [2023-07-17 Mon]
+#+summary:  Psychic sorcerer
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../../static/stylesheets/subclass-style.css" />
+
+#+BEGIN_CENTER
+[[[id:DND][Main Menu]]] [[[id:17a96883-cc40-409c-9fb5-80d5ab0c8379][Player Introduction Sheet]]] [[[id:campaign-classes][Classes]]] [[[id:f2323133-e17d-4cff-86db-415b72e6d42e][Sorcerer]]]
+#+END_CENTER
+-----

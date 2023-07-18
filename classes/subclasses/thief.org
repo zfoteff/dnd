@@ -5,11 +5,18 @@
 #+author:   zfoteff
 #+date:     [2023-07-15 Sat]
 #+summary:  Theif subclass description
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../static/stylesheets/subclass-style.css" />
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../../static/stylesheets/subclass-style.css" />
 
 #+BEGIN_CENTER
-[[[id:DND][Main Menu]]] [[[id:17a96883-cc40-409c-9fb5-80d5ab0c8379][Player Introduction Sheet]]] [[[id:campaign-classes][Classes]]] [[[id:7e784143-655d-4170-af49-68aceea59caa][Rogue Class]]]
+[[[id:DND][Main Menu]]] [[[id:17a96883-cc40-409c-9fb5-80d5ab0c8379][Player Introduction Sheet]]] [[[id:campaign-classes][Classes]]] [[[id:7e784143-655d-4170-af49-68aceea59caa][Rogue]]]
 #+END_CENTER
 -----
+A skilled thief who have trained for years to become masters the art of thieving
+
 * Level 1
+* Level 2
+* Level 5
+* Level 10
+* Level 15
+* Level 19
 -----
