@@ -5,6 +5,7 @@
 #+author:   zfoteff
 #+date:     [2023-07-15 Sat]
 #+summary:  Sorcerer class description
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../static/stylesheets/subclass-style.css" />
 
 #+BEGIN_CENTER
 [[[id:DND][Main Menu]]] [[[id:17a96883-cc40-409c-9fb5-80d5ab0c8379][Player Introduction Sheet]]] [[[id:campaign-classes][Classes]]]

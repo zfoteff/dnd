@@ -11,7 +11,15 @@
 [[[id:DND][Main Menu]]] [[[id:17a96883-cc40-409c-9fb5-80d5ab0c8379][Player Introduction Sheet]]] [[[id:campaign-classes][Classes]]] [[[id:f2323133-e17d-4cff-86db-415b72e6d42e][Sorcerer]]]
 #+END_CENTER
 -----
-Chaos sorcerers play with the past, and is able to frustrate enemies and allies alike. They can grant powerful assistance to the party in times of need, but suffer from random damage debuffs.
+Chaos sorcerers play with the future, and is able to frustrate enemies and allies alike by impeding their endeavors. They can grant powerful assistance to the party in times of need, but suffer from random damage debuffs.
 
 * Level 1 Sorceries
-Delayed Gratification: Roll to hit two enemies within 20 feet. If successful, next turn both enemies will take 2d6 force damage
+- _*Delayed Gratification*_: Roll to hit two enemies within 20 feet. If successful, next turn both enemies will take 2d6 force damage.
+- _*Cripple*_: Roll to hit. If successful, an enemy's attack roll will be lowered by 4 for the next 3 turns. After one turn, they can try once to make a Constitution saving throw to escape the crippling.
+- _*Alter Future*_: Sacrifice your turn to grant an ally two turns the next time they are up in combat. This incantation does not need to roll to hit. If the ally is stunned or otherwise unable to move, your turn is refunded.
+* Level 2 Sorceries
+- _*Borrowed Luck*_: Grant all allies +3 on rolls next turn. This spell does not apply to you.
+- _*Premonition*_: Briefly see the future. Learn one possible path the future could follow (details up to DM discretion). You can only see what will happen to you, not your companions or other NPCs, unless you decide to focus on them, in which case you will have no knowledge of your future.
+- _*Coming Storm*_: Roll to hit one enemy within 50 feet. If successful, next turn that enemy will take 3d10 lightning damage. /Lawful enemies cannot be affected by Coming Storm/.
+* Level 3 Sorceries
+- _*Borrowed Luck*_: Grant all allies +
