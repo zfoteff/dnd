@@ -13,7 +13,7 @@
 -----
 Sneak, steal, deceive, and assassinate those who oppose your endeavors.
 
-To begin as a rogue, chose a subclass [[[id:befa4d8e-52ce-4195-9f97-06aee49da164][Ninja]], [[id:072dbba0-dd37-4c57-ae44-959867358be8][Con man]]d1b58c03-fc76-44d6-aba2-5104de8726aa][]. These classes give you special traits that increase in power as you get stronger, and a few distinct advantages right off the bat.
+To begin as a rogue, chose a subclass [[[id:befa4d8e-52ce-4195-9f97-06aee49da164][Ninja]], [[id:072dbba0-dd37-4c57-ae44-959867358be8][Con man]]]. These classes give you special traits that increase in power as you get stronger, and a few distinct advantages right off the bat.
 
 - Gain 1 toolkit
 - _Initial Health_: Roll 1d6 and add it to your base HP.

@@ -1,1 +1,4 @@
+:PROPERTIES:
+:ID:       a1e62a88-5dac-46fc-9003-6766fb466b06
+:END:
 #+title: Goblin Faction

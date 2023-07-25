@@ -1,2 +1,5 @@
+:PROPERTIES:
+:ID:       71ec5d94-9b30-47bb-99a6-62916b6f92cf
+:END:
 #+Title: NGINX-Notes
 #+Author: zfoteff

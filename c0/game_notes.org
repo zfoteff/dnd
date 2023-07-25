@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       bc44f7a2-8b67-4d40-8ad6-ad08b2cb0861
+:END:
 #+title: Game Notes
 #+author: Zac Foteff
 #+description: Game notes for Fishboi campaign

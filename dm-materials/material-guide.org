@@ -10,7 +10,6 @@ Material list [high to low]: cosmic -> meteor, mithryl -> iron -> stone -> woode
 
 * Cosmic
 Highest tier. Highest damage potential, high critical damage chance, and will shatter the minds of weaker enemies who cannot comprehend the madness of the cosmos. Must be wielded by a highly skilled individual to ensure that wielding the weapon does not cause the user to go mad. The user will have to fight off the effects of the weapon as they use it, limiting the material to high level characters.
-
 Deals Chaos, Cosmic, and Madness damage to enemies
 * Brimstone
 Material crafted from the dregs of Hell. Exceedingly rare.
