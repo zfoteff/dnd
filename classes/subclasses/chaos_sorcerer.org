@@ -10,3 +10,8 @@
 #+BEGIN_CENTER
 [[[id:DND][Main Menu]]] [[[id:17a96883-cc40-409c-9fb5-80d5ab0c8379][Player Introduction Sheet]]] [[[id:campaign-classes][Classes]]] [[[id:f2323133-e17d-4cff-86db-415b72e6d42e][Sorcerer]]]
 #+END_CENTER
+-----
+Chaos sorcerers play with the past, and is able to frustrate enemies and allies alike. They can grant powerful assistance to the party in times of need, but suffer from random damage debuffs.
+
+* Level 1 Sorceries
+Delayed Gratification: Roll to hit two enemies within 20 feet. If successful, next turn both enemies will take 2d6 force damage
