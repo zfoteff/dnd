@@ -1,21 +1,15 @@
 :PROPERTIES:
-:ID: cb783459-486f-42f7-874a-a16c2be8dd57
+:ID:        7d419730-2064-41f9-80ee-f24ed9b01ac7
 :END:
-#+title:    DnD Landing Page
+#+title:    Landing Page
+#+filetags: :DND:
 #+author:   zfoteff
 #+date:     [2023-07-05 Wed]
 #+summary:  Landing page for DnD content
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="static/stylesheets/default-style.css" />
 -----
 #+BEGIN_CENTER
-[[id:17a96883-cc40-409c-9fb5-80d5ab0c8379][Player Introduction]]
-
-[[file:character-sheet.pdf][Character Sheet]]
-
-[[id:campaign-classes][Class Descriptions]]
-
-[[id:4ef8f616-b62a-42d3-987e-525e4187ae66][Race Descriptions]]
-
-[[id:a3719559-2b06-443a-b75a-96c9aa3f3b26][Glossary]]
+[[id:f1eac65b-54c1-49f8-b117-e7d46f40b82c][Player Introduction]]
 #+END_CENTER
 -----
+

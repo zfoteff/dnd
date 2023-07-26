@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       52cf202d-2112-4aa9-85ed-4d447a1094c4
+:END:
+#+title:    Adventure 1 Script
+#+filetags: :A1:C1:DND:
+#+author:   zfoteff
+#+date:     [2023-07-25 Tue]
+#+summary:  Adventure 1 script for the journey and all events that could take place during play
+
+* Intro Narration
+** TODO

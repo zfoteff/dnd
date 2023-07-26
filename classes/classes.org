@@ -1,25 +1,22 @@
 :PROPERTIES:
-:ID:        campaign-classes
+:ID: 69ef1740-156a-4e42-9493-49ec80a4ac26
 :END:
 #+title:    Campaign Classes
+#+filetags: :DND:
 #+author:   zfoteff
 #+date:     [2023-07-03 Mon]
 #+summary:  Campaign classes submenu
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../static/stylesheets/subclass-style.css" />
 
-#+BEGIN_CENTER
-[[[id:DND][Main Menu]]] [[[id:17a96883-cc40-409c-9fb5-80d5ab0c8379][Player Introduction Sheet]]]
-#+END_CENTER
------
 * [[id:8bb9a08a-97c0-4231-a002-ad7dcf83e4d8][Bard]]
 Support the rest of the party using your talents, or your "talents". Uses unique class abilities and spells, mostly using the *Charisma* stat
 * [[id:8bb9a08a-9770-4231-a002-ad7dcf83e4d8][Druid]]
 Work with the forces of nature to pursue your goals. Uses magic and alchemy primarily, cast using *Charisma* and *Wisdom*
-* [[id:3e1b93b3-f1ad-4148-bb16-5313b376a707][Wizard]]
+* Wizard
 Become a powerful channel of the magical elements. Use spells primarily, cast using the character's *Intelligence* stat.
 * Monk
 Trust only in a higher power(s?) to achieve your goals. Uses weapons and unarmed strikes primarily.
-* [[id:f2323133-e17d-4cff-86db-415b72e6d42e][Sorcerer]]
+* Sorcerer
 Manipulate the world around you in a manner of your choosing. Uses spells primarily, cast using Wisdom.
 * Prophet
 Chosen vessel of a particular God. Prophets do not know which God they channel at the beginning of the game. The prophet has a primary mission of discovering which God they are aligned to by learning about the religious system of the world.
@@ -27,6 +24,6 @@ Chosen vessel of a particular God. Prophets do not know which God they channel a
 Buy low, sell high! Focus on acquiring as much money as possible; making trades and building a reputation across the cities of the world.
 * Warrior
 Hack, slash, pummel, and dominate your enemies on the way to victory. Uses weapons primarily.
-* [[id:7e784143-655d-4170-af49-68aceea59caa][Rogue]]
+* Rogue
 Sneak, steal, deceive, and assassinate those who oppose your endeavors. Attack using *Dexterity* and *Charisma*.
 -----

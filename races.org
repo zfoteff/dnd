@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID:       4ef8f616-b62a-42d3-987e-525e4187ae66
+:ID: e6b25898-e7dd-4444-b332-ef9fc3ea59bf
 :END:
 #+title:    Races
 #+author:   zfoteff
@@ -23,6 +23,9 @@
 | Elemental |       5 |            |               |         |
 | Reptilian |       7 |            |               |         |
 * Human
+:PROPERTIES:
+:ID:       7f74cf77-b5ce-4119-9bdf-bc0415d66c84
+:END:
 The white bread of WORLD's races. Not particularly good at anything, not incompetent either.
 
 Humans can quickly learn 1 other language, if they meet a good teacher.
@@ -38,7 +41,7 @@ Elves can speak Elvish:
 - Perception proficiency
 - Can't be lulled to sleep by magic
 * Orc
-Hulking, proud beigns that tare
+Hulking, proud beings that tare
 * Demon
 * Hobbit
 Nobody quite knows how the hobbit came to be in WORLD. All that is known is that the race has seemly existed on the fringes of society, outlasting kingdoms and empires by avoiding notice and keeping to themselves. They're concerned with basic needs and simple pleasures, but have little patience for complex plans and grand designs.
