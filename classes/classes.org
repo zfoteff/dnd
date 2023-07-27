@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID: 69ef1740-156a-4e42-9493-49ec80a4ac26
+:ID:        69ef1740-156a-4e42-9493-49ec80a4ac26
 :END:
 #+title:    Campaign Classes
 #+filetags: :DND:
@@ -12,18 +12,18 @@
 Support the rest of the party using your talents, or your "talents". Uses unique class abilities and spells, mostly using the *Charisma* stat
 * [[id:8bb9a08a-9770-4231-a002-ad7dcf83e4d8][Druid]]
 Work with the forces of nature to pursue your goals. Uses magic and alchemy primarily, cast using *Charisma* and *Wisdom*
-* Wizard
+* [[id:3e1b93b3-f1ad-4148-bb16-5313b376a707][Wizard]]
 Become a powerful channel of the magical elements. Use spells primarily, cast using the character's *Intelligence* stat.
 * Monk
 Trust only in a higher power(s?) to achieve your goals. Uses weapons and unarmed strikes primarily.
-* Sorcerer
+* [[id:f2323133-e17d-4cff-86db-415b72e6d42e][Sorcerer]]
 Manipulate the world around you in a manner of your choosing. Uses spells primarily, cast using Wisdom.
-* Prophet
+* [[id:3ffd4641-5357-4b49-822a-cc23c9b9e627][Prophet]]
 Chosen vessel of a particular God. Prophets do not know which God they channel at the beginning of the game. The prophet has a primary mission of discovering which God they are aligned to by learning about the religious system of the world.
 * Merchant
 Buy low, sell high! Focus on acquiring as much money as possible; making trades and building a reputation across the cities of the world.
 * Warrior
 Hack, slash, pummel, and dominate your enemies on the way to victory. Uses weapons primarily.
-* Rogue
+* [[id:0b7f7671-c4de-41e9-b199-4a9ceb6352d2][Rogue]]
 Sneak, steal, deceive, and assassinate those who oppose your endeavors. Attack using *Dexterity* and *Charisma*.
 -----

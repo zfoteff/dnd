@@ -2,6 +2,7 @@
 :ID:       23919bd5-7bb0-4743-ae81-f07566ccd236
 :END:
 #+title:    Damage Guide
+#+filetags: :guide:DND:
 #+author:   zfoteff
 #+date:     [2023-07-09 Sun]
 #+summary:  Descriptions of each damage type in the game

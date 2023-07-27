@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       4d617f28-180d-4610-ad0e-a280e5c6b117
+:END:
+#+title:    Merchant
+#+filetags: :DND:
+#+author:   zfoteff
+#+date:     [2023-07-26 Wed]
+#+summary:  Merchant class

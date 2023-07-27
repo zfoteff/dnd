@@ -9,7 +9,17 @@
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="static/stylesheets/default-style.css" />
 -----
 #+BEGIN_CENTER
-[[id:f1eac65b-54c1-49f8-b117-e7d46f40b82c][Player Introduction]]
+[[file:character-sheet.pdf][Blank Character Sheet]]
+
+World Overview
+
+[[id:f1eac65b-54c1-49f8-b117-e7d46f40b82c][Player Overview]]
+
+[[id:e6b25898-e7dd-4444-b332-ef9fc3ea59bf][Races]]
+
+[[id:69ef1740-156a-4e42-9493-49ec80a4ac26][Classes]]
+
+[[id:a3719559-2b06-443a-b75a-96c9aa3f3b26][Glossary]]
 #+END_CENTER
 -----
 

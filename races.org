@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ID: e6b25898-e7dd-4444-b332-ef9fc3ea59bf
+:ID:        e6b25898-e7dd-4444-b332-ef9fc3ea59bf
 :END:
 #+title:    Races
 #+author:   zfoteff
@@ -8,7 +8,7 @@
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="static/stylesheets/subclass-style.css" />
 
 #+BEGIN_CENTER
-[[[id:DND][Main Menu]]] [[[id:17a96883-cc40-409c-9fb5-80d5ab0c8379][Player Intro Sheet]]] [[[id:campaign-classes][Classes]]]
+[[[id:cb783459-486f-42f7-874a-a16c2be8dd57][Main Menu]]] [[[id:17a96883-cc40-409c-9fb5-80d5ab0c8379][Player Intro Sheet]]] [[[id:campaign-classes][Classes]]]
 #+END_CENTER
 -----
 #+CAPTION: Character Race Overview

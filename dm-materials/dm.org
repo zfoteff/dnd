@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       49c009a8-dbe3-4867-a616-60c55d87ed54
+:END:
+#+title: DM Resources
+#+filetags: :DM:DND:
+#+author: zfoteff
+#+date: [2023-07-25 Tue]
+#+summary: DM resources related to all campaigns
+
+* [[id:18a96883-cc40-409c-9fb5-80d5ab0c8379][Campaign DM Scripts]]
+* [[id:69fc67b6-3d4a-451e-ab1e-e23bc20215ba][Enemies]]
+* Campaigns
+:PROPERTIES:
+:ID:       83d914bd-4692-4dba-9e57-4fc4d1c78b6b
+:END:
+** [[id:ccf4874d-a608-4195-ab9b-5364d484cf20][Campaign 0]]
+** [[id:651d4c39-081f-4aa1-b450-cbf8f33587de][Campaign 1]]
+* Guides
+:PROPERTIES:
+:ID:       f84862af-5972-48b4-a67f-9144377efd29
+:END:
+** [[id:23919bd5-7bb0-4743-ae81-f07566ccd236][Damage Guide]]
+** [[id:23919bd5-7bb0-4743-ae81-f07566cad236][Material Guide]]

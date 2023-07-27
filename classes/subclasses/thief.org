@@ -8,7 +8,7 @@
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../../static/stylesheets/subclass-style.css" />
 
 #+BEGIN_CENTER
-[[[id:DND][Main Menu]]] [[[id:17a96883-cc40-409c-9fb5-80d5ab0c8379][Player Introduction Sheet]]] [[[id:campaign-classes][Classes]]] [[[id:7e784143-655d-4170-af49-68aceea59caa][Rogue]]]
+[[[id:DND][Main Menu]]] [[[id:69ef1740-156a-4e42-9493-49ec80a4ac26][Classes]]] [[[id:0b7f7671-c4de-41e9-b199-4a9ceb6352d2][Rogue]]]
 #+END_CENTER
 -----
 A skilled thief who have trained for years to become masters the art of thieving

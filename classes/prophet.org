@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       3ffd4641-5357-4b49-822a-cc23c9b9e627
+:END:
+#+title:    Prophet
+#+filetags: :DND:
+#+author:   zfoteff
+#+date:     [2023-07-25 Tue]
+#+summary:  Prophet class description

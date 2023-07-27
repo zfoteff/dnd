@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ccf4874d-a608-4195-ab9b-5364d484cf20
+:END:
+#+title:    Campaign 0
+#+filetags: :DM:DND:C0:
+#+author:   zfoteff
+#+date:     [2023-07-25 Tue]
+#+summary:  Past campaign details. This campaign was completed at Gonzaga and contains much less information than other future campaigns
+
+* [[file:fishboi/fishboi_sheet.pdf][Character Sheet]]
+* [[id:bc44f7a2-8b67-4d40-8ad6-ad08b2cb0861][Game Notes]]

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       651d4c39-081f-4aa1-b450-cbf8f33587de
+:END:
+#+title:    Campaign 1
+#+filetags: :DM:DND:C1:
+#+author:   zfoteff
+#+date:     [2023-07-25 Tue]
+#+summary:  Campaign #1 details and resources
+
+* Adventures
+:PROPERTIES:
+:ID:       e68aedea-1d88-4e4f-8150-8c45548dab6c
+:END:
+** [[id:52cf202d-2112-4aa9-85ed-4d447a1094c4][Adventure 1]]
+* Player Characters
+:PROPERTIES:
+:ID:       9836db9d-7535-4c4c-bc1b-7846bcea519c
+:END:

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       69fc67b6-3d4a-451e-ab1e-e23bc20215ba
+:END:
+#+title:    Enemies
+#+author:   zfoteff
+#+date:     [2023-07-25 Tue]
+#+filetags: :enemy:DND:
+#+summary:  Index of all enemy types
+
+[[id:a1e62a88-5dac-46fc-9003-6766fb466b06][Goblin Faction]]
+[[id:11747c43-8efb-4be0-95b3-6739f0bd8b90][Pirate Faction]]
