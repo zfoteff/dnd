@@ -8,7 +8,6 @@
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="static/stylesheets/default-style.css" />
 
 #+BEGIN_CENTER
-[[[id:cb783459-486f-42f7-874a-a16c2be8dd57][Main Menu]]]
 #+END_CENTER
 -----
 _*Charisma*_: Measure of ability to interact with others. It helps define a characters confidence and eloquence, and reflects a commanding personality. Applies in situations when the user is attempting to convincingly hide the truth, verbally or through actions, or intimidate other characters.

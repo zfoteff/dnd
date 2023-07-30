@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:        7d419730-2064-41f9-80ee-f24ed9b01ac7
 :END:
-#+title:    Landing Page
+#+title:    DnD Landing Page
 #+filetags: :DND:
 #+author:   zfoteff
 #+date:     [2023-07-05 Wed]

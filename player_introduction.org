@@ -7,6 +7,9 @@
 #+summary:  Player introduction page with initial character setup instructions
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="static/stylesheets/default-style.css" />
 
+#+BEGIN_CENTER
+[ [[org:dnd/dnd.org][Main Menu]] ] [ [[file:character-sheet.pdf][Blank Character Sheet]] ]
+#+END_CENTER
 -----
 Hello! This is going to be a lot at first, sorry about that. I've simplified where I can, but the initial setup is going to take a little bit of effort on your part. After that, we can get to the real fun.
 
