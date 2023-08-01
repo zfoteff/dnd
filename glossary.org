@@ -2,12 +2,14 @@
 :ID: a3719559-2b06-443a-b75a-96c9aa3f3b26
 :END:
 #+title:    Glossary
+#+filetags: :guide:DND:
 #+author:   zfoteff
 #+date:     [2023-07-05 Wed]
 #+summary:  Glossary of common terms used during the game
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="static/stylesheets/default-style.css" />
 
 #+BEGIN_CENTER
+[ [[org:dnd/dnd.org][Main Menu]] ]
 #+END_CENTER
 -----
 _*Charisma*_: Measure of ability to interact with others. It helps define a characters confidence and eloquence, and reflects a commanding personality. Applies in situations when the user is attempting to convincingly hide the truth, verbally or through actions, or intimidate other characters.
@@ -21,6 +23,8 @@ _*Dexterity*_: Measure of agility, reflexes, and balance. Applies in situations 
 _*Elemental Trait*_: Inherent traits applied to a character, based on their subclass.
 
 _*Intelligence*_: Measure of mental acuity, accuracy of mental recall, and the ability to reason through complex situations. Applies in situations when a user must draw on logic, education, memory, or deductive reason.
+
+_*Proficiency Bonus*_: Bonus added to all skill checks, saving throws, or attacks for skills that a character is proficient in. These are chosen at
 
 _*Race*:_ A class of beings that exist, or existed, in the game world.
 

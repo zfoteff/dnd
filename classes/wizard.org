@@ -2,10 +2,14 @@
 :ID:       3e1b93b3-f1ad-4148-bb16-5313b376a707
 :END:
 #+title:    Wizard
+#+filetags: :DND:WIZARD:
 #+author:   zfoteff
 #+date:     [2023-07-05 Wed]
 #+summary:  Wizard class description
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../static/stylesheets/subclass-style.css" />
+#+BEGIN_CENTER
+[[[id:7d419730-2064-41f9-80ee-f24ed9b01ac7][Main Menu]]] [[[id:69ef1740-156a-4e42-9493-49ec80a4ac26][Classes]]]
+#+END_CENTER
 -----
 Become a powerful channel of the magical elements. Use spells primarily, cast using the character's *Intelligence* stat.
 

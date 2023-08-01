@@ -6,3 +6,10 @@
 #+author:   zfoteff
 #+date:     [2023-07-26 Wed]
 #+summary:  Merchant class
+-----
+Buy low, sell high! Focus on acquiring as much money as possible; making trades and building a reputation across the cities of the world.
+
+- _Initial Health_: Roll 1d6 and add it to your base HP.
+
+* Level-up guide
+1.

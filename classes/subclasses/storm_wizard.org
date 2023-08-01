@@ -1,11 +1,41 @@
 :PROPERTIES:
 :ID:       4ebd35da-05f7-456f-88b8-c8865a270b8f
 :END:
-#+title:    Storm Wizard
+#+title:    Storm Wizard 🌩
 #+author:   zfoteff
 #+date:     [2023-07-12 Wed]
 #+summary:  Storm wizard subclass description and level up stats
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="static/stylesheets/default-style.css" />
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../../static/stylesheets/subclass-style.css" />
+#+BEGIN_CENTER
+[[[id:7d419730-2064-41f9-80ee-f24ed9b01ac7][Main Menu]]] [[[id:69ef1740-156a-4e42-9493-49ec80a4ac26][Classes]]] [[[id:3e1b93b3-f1ad-4148-bb16-5313b376a707][Wizard]]]
+#+END_CENTER
 -----
-Storm Wizard
------
+While storm wizards lack the sheer damage output capabilities of other wizards, Storm Wizards operate using ice and lightning damage. This gives them the flexibility to counter different immunities that a target may posses.
+
+* Elemental Traits
+_*Ice Immunity*_: Become immune to ice damage for the rest of the game. You will take half damage if the ice damage is paired with another type of damage.
+
+_*Ice Immunity*_: Become immune to lightning damage for the rest of the game. You will take half damage if the lightning damage is paired with another type of damage.
+
+_*Underwater Breathing*_: You can breathe underwater. Grant one ally of your choice the ability to breath underwater while you are submerged in water. This ends when you exit the water.
+* Level 1 Spells
+_*Rainstorm*_: It begins raining in a half-mile radius around the caster. This rainstorm may take up to five minutes to begin, depending on the caster's environment. Does not work in Hell.
+
+_*Freeze*_: Roll to hit. On hit, freeze a living creature. While frozen, they cannot move, but can still cast spells and attack enemies within 5 feet. They must roll a constitution save to become unfrozen.
+
+_*Icicle Hand*_: Transform your dominant hand into an icicle. You may stab people without fear of it breaking. The icicle deals 1d10 freeze / piercing damage. This lasts for three turns, and if you successfully stab the same enemy all three turns, they take an extra 2d6 freeze damage.
+* Level 2 Spells
+_*Lightning Bolt*_: Roll to hit. On hit, summon a lightning bolt from the heavens to strike a target you can see. They take 3d8 lightning damage, and are stunned for one turn if they fail a constitution check.
+
+_*Electric Rain*_: If it's raining, charge raindrops with electricity. Everyone in the rainstorm (allies included) takes 1d8 lightning damage per turn for 8 turns. /This spell cannot be canceled once cast/.
+
+_*Flood*_: Create a wave of water to sweep through the area you designate. The wave begins in the first area out of your eyesight, and gains a foot in size for every 25 feet it travels. At a certain distance away you may be unable to control the size and/or damage of the spell, so use it wisely. /The flood deals half damage to the allies/.
+* Level 3 Spells
+_*Summon Store Elemental*_: Use your action to summon a storm elemental to fight for you for 6 turns. It has 50 health, deals 2d8 damage on hit, and it has 15 AC. If it lands the killing blow to a target, it stays around for an additional three turns. The storm elemental can only be summoned if there is some sort of water nearby and the party is in combat.
+
+_*Tornado*_: Create a tornado within a 20-foot radius that you are able to control for three turns. It deals 3d8 force damage per turn, but enemies can still avoid damage on a constitution saving throw. /If it is raining during the creation of the tornado, it deals 4d8 force damage instead/. You must concentrate to control the tornado so you cannot move from your position, and if your concentration is broken, it will vanish after the current turn.
+
+* Level 4 Spells
+_*Entomb*_: Seal a creature within ice for the next month. This only takes effect if they fail a constitution saving throw (DC 18). During this time, they drop to one health, but do not die and are conscious of the events around them. Entomb instantly kills fire-based creatures. /Huge creatures cannot be entombed/.
+
+_*Hurricane*_: Create a hurricane in any place that /you have been before/. The hurricane lasts for ten turns and deals d10 ice / force damage per turn to all people who fail a constitution saving throw. Its radius is 500 feet. If a creature is damaged by the hurricane twice in a row, they also take the preceding turn's damage.
