@@ -7,5 +7,24 @@
 #+date:     [2023-07-12 Wed]
 #+summary:  Druid class summary
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="static/stylesheets/default-style.css" />
+#+BEGIN_CENTER
+[[[id:7d419730-2064-41f9-80ee-f24ed9b01ac7][Main Menu]]] [[[id:69ef1740-156a-4e42-9493-49ec80a4ac26][Classes]]]
+#+END_CENTER
 -----
+Whether calling on the forces of nature, or emulating the creatures of the world, Druids are the embodiment of nature's resilience, bounty, and fury. They claim no mastery over nature, but see themselves as willing partners and extensions of nature's indomitable will.
+
+To start as a Druid, choose a domain of nature to integrate with: [Plant, Animal, Stone, Cosmos]. Each domain offers the wielder a few distinct advantages right away. All Druids can learn
+
+- _Initial Health_: Roll a 1d6 and add it to your base HP.
+- Spells are cast using CHA + PROF (Charisma modifier + Proficiency modifier)
+
+You also learn two cantrips [fn:1] when you start as a Druid.
+- _*Befriend*_: Roll a charisma check. On 14 or higher, turn any non-intelligent creature you are on neutral terms with into an ally. This effect lasts for twenty minutes, after which the creature will enter a state of confusion with a 50% potential to lash out at the party.
+- _*Transform*_: When you first learn Druid Alchemy, select an animal. From now on, you can transform into this wild animal. Ask the DM about its statistics. One important difference from base DnD rules: the percentage of health that you have stays with you throughout the transformation.
+
+  Learn Druidic: A secret language of Druids that allow them to speak in secret to other Druids, and hear whispers from nature around them.
 * Level-up
+1. Learn basic Alchemy
+2. Learn _Wild Shape_: You can use your action to magically assume the shape of a beast that you have seen before. You can use this feature twice per long rest. There are some limitations to the beasts a Druid can assume the same of, consult the DM for a lst of options.
+3. Learn druid Alchemy
+20. Become an Archdruid. You can use wild shape an unlimited amount of times for a indefinite period of time. You can ignore the verbal and somatic components of Druid spells.

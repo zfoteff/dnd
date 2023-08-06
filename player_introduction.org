@@ -17,11 +17,11 @@ Please print (or electronically complete) the *blank character* sheet included h
 
 * Character Setup Steps
 Complete these five steps and you'll be ready to play your first adventure. Have fun customizing your character, and good luck!
-** Pick a Race [fn:1]
+** Pick a [[id:e6b25898-e7dd-4444-b332-ef9fc3ea59bf][Race]] [fn:1]
 Please pick something you'd like to role play as in a long running story, not just a character with the best stats. Each class will have a description of their advantages, disadvantages, class abilities, and other details about a given race in the universe.
 
 Please complete the instructions on the race sheet to select your race and set your hit points.
-** Pick a Class [fn:2]
+** Pick a [[id:69ef1740-156a-4e42-9493-49ec80a4ac26][Class]] [fn:2]
 Similarly, please pick something you'd like to role play as in a long running story, not just the easiest class to fight with. There are many other important parts of the game to consider! Each class also has a set of subclasses that can help you specialize your character. All characters will start at level 1 and will gain all level 1 abilities when the character is created.
 
 Please complete the instructions on the class sheet to select your class and subclass. Once you select your class, save that page. It will tell you what to do at each level as your character gains experience. You should also save your subclass page, it will show you what subclass-specific abilities you gain as you level up.
@@ -102,3 +102,11 @@ Select your equipment based on various difficulty levels. Don't worry, this gear
 This part is all up to you. Who do you want to be in this world?
 -----
 * Footnotes
+[fn:1] Glossary: [[id:a3719559-2b06-443a-b75a-96c9aa3f3b26][Races]]
+[fn:2] Glossary: [[id:a3719559-2b06-443a-b75a-96c9aa3f3b26][Classes]]
+[fn:3] Glossary: [[id:a3719559-2b06-443a-b75a-96c9aa3f3b26][Strength]]
+[fn:4] Glossary: [[id:a3719559-2b06-443a-b75a-96c9aa3f3b26][Dexterity]]
+[fn:5] Glossary: [[id:a3719559-2b06-443a-b75a-96c9aa3f3b26][Constitution]]
+[fn:6] Glossary: [[id:a3719559-2b06-443a-b75a-96c9aa3f3b26][Intelligence]]
+[fn:7] Glossary: [[id:a3719559-2b06-443a-b75a-96c9aa3f3b26][Wisdom]]
+[fn:8] Glossary: [[id:a3719559-2b06-443a-b75a-96c9aa3f3b26][Charisma]]

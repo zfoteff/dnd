@@ -9,3 +9,6 @@
 
 * Intro Narration
 ** TODO
+* Setting 1 Pirate Ship
+** TODO
+* Setting 2
