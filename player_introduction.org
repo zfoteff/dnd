@@ -1,4 +1,4 @@
-:PROPERTIES:
+ :PROPERTIES:
 :ID:       f1eac65b-54c1-49f8-b117-e7d46f40b82c
 :END:
 #+title:    Player Introduction

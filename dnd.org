@@ -22,4 +22,3 @@ World Overview
 [[id:a3719559-2b06-443a-b75a-96c9aa3f3b26][Glossary]]
 #+END_CENTER
 -----
-
