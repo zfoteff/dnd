@@ -1,10 +1,75 @@
 :PROPERTIES:
 :ID:       11747c43-8efb-4be0-95b3-6739f0bd8b90
 :END:
-#+title: Pirate Faction
-
-Pirates use single-shot pistols that deal high damage with low accuracy. Loyal to the crew, but can be convinced to jump ship for a better deal if the winds of change blow in the opposite direction
-
+#+title:    Pirate Faction
+#+filetags: :DND:DM:enemy:
+#+author:   zfoteff + jelkins
+#+date:     [2023-08-11 Fri]
+#+summary:  Pirate faction enemy details and descriptions
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../../static/stylesheets/subclass-style.css" />
+#+BEGIN_CENTER
+[ [[id:49c009a8-dbe3-4867-a616-60c55d87ed54][DM Menu]] ] [ [[id:69fc67b6-3d4a-451e-ab1e-e23bc20215ba][Enemies]] ]
+#+END_CENTER
+-----
 * Basic Troops
+** Grunt Pirate
+Pirates use single-shot pistols that deal high damage with low accuracy. Loyal to the crew, but can be convinced to jump ship for a better deal if the winds of change blow in the opposite direction. Pretty stupid.
+
+_*CR*_ [fn:1]: 1/10
+_*HP*_: 14
+_*PP*_ [fn:2]: 11
+
+| Armor          | Weapons                 | Items          |
+|----------------+-------------------------+----------------|
+| No armor 10 AC | Bronze Shortsword (1d8) | Bottle of Grog |
+|                |                         |                |
 * Commander Troops
+** Cook
+** First Mate
+** Pirate Captain
+:PROPERTIES:
+:ID:       f6a4850c-0ca5-4a17-befb-b7e0e4bc7a72
+:END:
+Captain of a pirate ship. Earned their crew's loyalty though brutality, promise of treasure, or a healthy mixture of both.
+
+_*CR*_ [fn:1]: 4/10
+_*HP*_: 14
+_*PP*_ [fn:2]: 11
+
+| Armor | Weapons | Items |
+|-------+---------+-------|
+|       |         |       |
 * Boss Troops
+** Pirate Admiral
+_*CR*_ [fn:1]: 10/10
+_*HP*_: 14
+_*PP*_ [fn:2]: 11
+| Armor | Weapons | Items |
+|-------+---------+-------|
+|       |         |       |
+** Fleet Commander
+_*CR*_ [fn:1]: 10/10
+_*HP*_: 14
+_*PP*_ [fn:2]: 11
+| Armor | Weapons | Items |
+|-------+---------+-------|
+|       |         |       |
+** Pirate Lord
+:PROPERTIES:
+:ID:       3ce27f9d-8b83-4004-9515-b83826d7262e
+:END:
+Leader of all pirate factions in the world. Commands unquestioning loyalty due to his glorious deeds and hoardes of treasure.
+
+One-of-a-kind boss in the world.
+
+_*CR*_ [fn:1]: 10/10
+_*HP*_: 14
+_*PP*_ [fn:2]: 11
+
+| Armor | Weapons | Items |
+|-------+---------+-------|
+|       |         |       |
+-----
+* Footnotes
+[fn:1] Glossary: [[id:a3719559-2b06-443a-b75a-96c9aa3f3b26][Challenge Rating]]
+[fn:2] Glossary: [[id:a3719559-2b06-443a-b75a-96c9aa3f3b26][Passive Perception]]

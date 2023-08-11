@@ -2,29 +2,55 @@
 :ID:        8bb9a08a-9770-4231-a002-ad7dcf83e4d8
 :END:
 #+title:    Druid
-#+filetags: :DND:
+#+filetags: :DND:druid:
 #+author:   zfoteff
 #+date:     [2023-07-12 Wed]
 #+summary:  Druid class summary
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="static/stylesheets/default-style.css" />
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../static/stylesheets/subclass-style.css" />
 #+BEGIN_CENTER
 [[[id:7d419730-2064-41f9-80ee-f24ed9b01ac7][Main Menu]]] [[[id:69ef1740-156a-4e42-9493-49ec80a4ac26][Classes]]]
 #+END_CENTER
 -----
 Whether calling on the forces of nature, or emulating the creatures of the world, Druids are the embodiment of nature's resilience, bounty, and fury. They claim no mastery over nature, but see themselves as willing partners and extensions of nature's indomitable will.
 
-To start as a Druid, choose a domain of nature to integrate with: [Plant, Animal, Stone, Cosmos]. Each domain offers the wielder a few distinct advantages right away. All Druids can learn
+To start as a Druid, choose a domain of nature to integrate with: [Plant, Animal, Stone, Cosmos]. Each domain offers the wielder a few distinct advantages right away. All Druids can learn druid cantrips and druids can learn druid spells through their Druid Circle.
 
 - _Initial Health_: Roll a 1d6 and add it to your base HP.
-- Spells are cast using CHA + PROF (Charisma modifier + Proficiency modifier)
+- Spells are cast using WIS + PROF (Wisdom modifier + Proficiency modifier)
 
-You also learn two cantrips [fn:1] when you start as a Druid.
-- _*Befriend*_: Roll a charisma check. On 14 or higher, turn any non-intelligent creature you are on neutral terms with into an ally. This effect lasts for twenty minutes, after which the creature will enter a state of confusion with a 50% potential to lash out at the party.
-- _*Transform*_: When you first learn Druid Alchemy, select an animal. From now on, you can transform into this wild animal. Ask the DM about its statistics. One important difference from base DnD rules: the percentage of health that you have stays with you throughout the transformation.
-
-  Learn Druidic: A secret language of Druids that allow them to speak in secret to other Druids, and hear whispers from nature around them.
+Learn *Druidic*: A secret language of Druids that allow them to speak in secret to other Druids, and hear whispers from nature around them.
+* Proficiencies
+| Armor | Weapons | Tools |
+|-------+---------+-------|
+|       |         |       |
 * Level-up
-1. Learn basic Alchemy
-2. Learn _Wild Shape_: You can use your action to magically assume the shape of a beast that you have seen before. You can use this feature twice per long rest. There are some limitations to the beasts a Druid can assume the same of, consult the DM for a lst of options.
-3. Learn druid Alchemy
-20. Become an Archdruid. You can use wild shape an unlimited amount of times for a indefinite period of time. You can ignore the verbal and somatic components of Druid spells.
+1. Learn Druid Alchemy and unlock latent abilities. Learn 1 [[id:b32b2d16-0b71-4af9-9464-b5575f720a99][Druid Cantrip]] [fn:1]
+2. Add 1d6 to your max HP. Enter a Druid Circle. Groups of druids pool their powers together to unlock a deeper connection with nature and themselves. This allows Druids to tap into the combined power of their circle to unlock new powers and abilities. Join one of the following:
+   - [[id:61851c34-70b6-488e-8a09-00afecf5f764][Circle of Dreams]]
+   - [[id:92febd59-6eaa-4865-9d56-d774d2cc6242][Circle of Wildfire]]
+   - [[id:3a7918b4-f554-49e8-a776-b61a2367c45e][Circle of Tempest]]
+   - [[id:d4220018-171b-4cbe-8402-4400d683be28][Circle of Spores]]
+   - [[id:0fac5d1e-c2d6-47d5-8062-3bc4887a03c6][Circle of Stars]]
+
+   You start with 3 level 1 spell slots (Total: 3, 0, 0, 0).
+3. Become able to use cantrips outside of combat. The player will still be constrained by the limits of the cantrip, the context of the constraints may subject to change however . Consult your DM.
+4. Learn 1 Druid cantrip and one Druid spell through your circle. Add 1d6 to your max HP.
+5. You can now learn level two spells. Add +1 WIS and +1 of ANY, as well as one level two spell slot (Total: 3, 1, 0, 0).
+6. Add one level one spell slot (Total: 4, 1, 0, 0) and add 1d6 health
+7. Learn 1 Druid cantrip, 1 Druid spell, and 1d6 health
+8. Upgrade a Druid cantrip. Consult with the DM about which cantrip you'd like to upgrade to determine what the new effects of the cantrip will be.
+9. Add one level two spell slot (Total: 4, 2, 0, 0)
+10. Walk between the boundaries of nature. Choose another Druid Cicle to join and draw power from. Add 1d6 health.
+11. You are now able to learn level three spells. Add one level 3 spell slot, one Druid spell and one cantrip (Total: 4, 2, 1, 0).
+12. Add +1 WIS and +1 CHA. Add 1d6 to your health.
+13. Add +1 to ANY. Add 1d6 health
+14. Add +1 to ANY. Add 1d6 health
+15. You are now able to learn level 4 spells. Add one level four spell slot (Total 4, 2, 1, 1). Add 1d6 health
+16. Learn 1 Druid spell and 1 cantrip.
+17. Add +1 to ANY. Add 1d6 health.
+18. Add 1 level 3 spell slot (Total 4, 2, 2, 1). Learn 2 Druid spells as well as 1 cantrip.
+19. Become an Archdruid. You can use wild shape an unlimited amount of times for a indefinite period of time. You can ignore the verbal and somatic components of Druid spells. Add 1d6 health.
+20. Multiclass
+   -----
+* Footnotes
+[fn:1] Glossary: [[id:a3719559-2b06-443a-b75a-96c9aa3f3b26][cantrip]]

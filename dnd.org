@@ -19,6 +19,8 @@ World Overview
 
 [[id:69ef1740-156a-4e42-9493-49ec80a4ac26][Classes]]
 
+[[id:b1b752cb-445c-4902-999d-443c83d5113a][Spell Index]]
+
 [[id:a3719559-2b06-443a-b75a-96c9aa3f3b26][Glossary]]
 #+END_CENTER
 -----

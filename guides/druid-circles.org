@@ -1,0 +1,33 @@
+:PROPERTIES:
+:ID:       628c4f0e-762b-428b-9a2c-03f97bb24737
+:END:
+#+title:    Druid Circles
+#+filetags: :DND:guide:druid:
+#+author:   zfoteff
+#+date:     [2023-08-10 Thu]
+#+summary:  Druid circle documentation
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../static/stylesheets/subclass-style.css" />
+#+BEGIN_CENTER
+[ [[id:8bb9a08a-9770-4231-a002-ad7dcf83e4d8][Druid]] ]
+#+END_CENTER
+-----
+* Circle of Wildfire
+:PROPERTIES:
+:ID:       92febd59-6eaa-4865-9d56-d774d2cc6242
+:END:
+* Circle of Tempest
+:PROPERTIES:
+:ID:       3a7918b4-f554-49e8-a776-b61a2367c45e
+:END:
+* Circle of Spores
+:PROPERTIES:
+:ID:       d4220018-171b-4cbe-8402-4400d683be28
+:END:
+* Circle of Dreams
+:PROPERTIES:
+:ID:       61851c34-70b6-488e-8a09-00afecf5f764
+:END:
+* Circle of Stars
+:PROPERTIES:
+:ID:       0fac5d1e-c2d6-47d5-8062-3bc4887a03c6
+:END:

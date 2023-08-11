@@ -1,4 +1,29 @@
 :PROPERTIES:
 :ID:       a1e62a88-5dac-46fc-9003-6766fb466b06
 :END:
-#+title: Goblin Faction
+#+title:    Goblin Faction
+#+filetags: :DND:DM:enemy:
+#+author:   zfoteff + jelkens
+#+date:     [2023-08-11 Fri]
+#+summary:  Goblin faction enemy details and descriptions
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../../static/stylesheets/subclass-style.css" />
+#+BEGIN_CENTER
+[ [[id:49c009a8-dbe3-4867-a616-60c55d87ed54][DM Menu]] ] [ [[id:69fc67b6-3d4a-451e-ab1e-e23bc20215ba][Enemies]] ]
+#+END_CENTER
+-----
+* Basic Troops
+** Gobling
+Fledgling Goblin. Essentially useless in combat other than as fodder.
+
+_*CR*_ [fn:1]: 1/10
+_*HP*_: 14
+_*PP*_ [fn:2]: 11
+
+| Armor | Weapons | Items |
+|-------+---------+-------|
+|       |         |       |
+* Commander Troops
+* Boss Troops
+* Footnotes
+[fn:1] Glossary: [[id:a3719559-2b06-443a-b75a-96c9aa3f3b26][Challenge Rating]]
+[fn:2] Glossary: [[id:a3719559-2b06-443a-b75a-96c9aa3f3b26][Passive Perception]]

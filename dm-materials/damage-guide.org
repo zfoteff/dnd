@@ -6,7 +6,11 @@
 #+author:   zfoteff
 #+date:     [2023-07-09 Sun]
 #+summary:  Descriptions of each damage type in the game
-
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../static/stylesheets/subclass-style.css" />
+#+BEGIN_CENTER
+[ [[id:49c009a8-dbe3-4867-a616-60c55d87ed54][DM Menu]] ]
+#+END_CENTER
+-----
 * Slashing Damage
 Any type of cut, gash, or laceration
 * Bludgeoning Damage

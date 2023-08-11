@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       1846aace-7d40-41af-95e6-4a4d72044af5
+:END:
+#+title:    Warrior
+#+filetags: :DND:warrior:
+#+author:   zfoteff
+#+date:     [2023-08-10 Thu]
+#+summary:  Warrior class summary
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../static/stylesheets/subclass-style.css" />
+#+BEGIN_CENTER
+[[[id:7d419730-2064-41f9-80ee-f24ed9b01ac7][Main Menu]]] [[[id:69ef1740-156a-4e42-9493-49ec80a4ac26][Classes]]]
+#+END_CENTER
+-----
+Hack, slash, pummel, and dominate your enemies on the way to victory. Uses weapons primarily.
+
+* Proficiencies
+| Armor | Weapons | Tools |
+|-------+---------+-------|
+|       |         |       |
+* Level-up
+1.
+* Footnotes

@@ -2,11 +2,15 @@
 :ID: 8bb9a08a-97c0-4231-a002-ad7dcf83e4d8
 :END:
 #+title:    Bard
+#+filetags: :DND:bard:
 #+author:   zfoteff
 #+date:     [2023-07-05 Wed]
 #+summary:  Bard class summary
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../static/stylesheets/subclass-style.css" />
-
+#+BEGIN_CENTER
+[ [[id:7d419730-2064-41f9-80ee-f24ed9b01ac7][Main Menu]] ] [ [[id:69ef1740-156a-4e42-9493-49ec80a4ac26][Classes]] ]
+#+END_CENTER
+-----
 Support the rest of the party using your talents, or your "talents". Uses unique class abilities and spells
 
 To begin playing a Bard, first choose a subclass: [[[id:6a8efa65-451d-4eac-a069-84661a0c69ab][Actor]], [[id:067059f6-be3d-4994-86ca-d7d33a291a79][Muse]], [[id:05331b42-b242-4866-a6e6-df9cdad306e7][Craftsman]], or [[id:d204c3f7-766c-465b-a958-ec7e8283ad0b][Shaman]]]. These subclasses give you special traits that increase in power as you get stronger, and a few distinct advantages right out the gate. Your character also gains 1 talisman (consult with DM to learn what you get). Be sure you apply your level 1 bonuses from your subclass.

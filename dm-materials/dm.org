@@ -1,12 +1,13 @@
 :PROPERTIES:
 :ID:       49c009a8-dbe3-4867-a616-60c55d87ed54
 :END:
-#+title: DM Resources
+#+title:    DM Resources
 #+filetags: :DM:DND:
-#+author: zfoteff
-#+date: [2023-07-25 Tue]
-#+summary: DM resources related to all campaigns
-
+#+author:   zfoteff
+#+date:     [2023-07-25 Tue]
+#+summary:  DM resources related to all campaigns
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../static/stylesheets/default-style.css" />
+-----
 * [[id:18a96883-cc40-409c-9fb5-80d5ab0c8379][Campaign DM Scripts]]
 * [[id:69fc67b6-3d4a-451e-ab1e-e23bc20215ba][Enemies]]
 * Campaigns
@@ -20,4 +21,8 @@
 :ID:       f84862af-5972-48b4-a67f-9144377efd29
 :END:
 ** [[id:23919bd5-7bb0-4743-ae81-f07566ccd236][Damage Guide]]
+** [[id:b1b752cb-445c-4902-999d-443c83d5113a][Spell Index]]
+** [[id:f10dc3fb-122b-4842-8b68-22aa974d9a57][Alchemy Index]]
+** [[id:628c4f0e-762b-428b-9a2c-03f97bb24737][Druid Circles]]
 ** [[id:23919bd5-7bb0-4743-ae81-f07566cad236][Material Guide]]
+-----

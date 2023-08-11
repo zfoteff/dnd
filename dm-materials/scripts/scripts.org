@@ -4,6 +4,7 @@
 #+title:    Campaign DM Scripts
 #+author:   zfoteff
 #+date:     [2023-07-12 Wed]
+#+summary:  DM scripts for dice rolling and RNG related elements
 
 * Dice Rolling
 #+NAME: Dice
@@ -14,14 +15,20 @@ dice_set = [randint(1, dice_max_value) + modifier for _ in range(dice_num)]
 return f"(modifier) {modifier}{escape_text}{escape_text.join(map(str,dice_set))}\n{10*'_'}\n=\t{sum(dice_set)+modifier}"
 #+END_SRC
 
+#+RESULTS: Dice
+: (modifier) 0
+: +	2
+: __________
+: =	2
+
 #+NAME: Roll D10
 #+CALL: Dice(dice_max_value=10)
 
 #+RESULTS: Roll D10
 : (modifier) 0
-: +	4
+: +	9
 : __________
-: =	4
+: =	9
 
 #+NAME: Roll D20
 #+CALL: Dice(dice_max_value=20)
