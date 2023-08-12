@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       5afcd93c-8342-4bb3-968c-1d7124b9d93d
+:END:
+#+title: Missionary
+#+filetags: :DND:paladin:
+#+author: zfoteff
+#+date: [2023-08-11 Fri]
+#+summary: Missionary subclass for the Paladin class
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../static/stylesheets/subclass-style.css" />
+#+BEGIN_CENTER
+[[[id:7d419730-2064-41f9-80ee-f24ed9b01ac7][Main Menu]]] [[[id:69ef1740-156a-4e42-9493-49ec80a4ac26][Classes]]] [[[id:940552be-47cf-48ff-8ca0-8c2b7f629052][Paladin]]]
+#+END_CENTER
+-----
+Brainless devotee of their faith. Absolute conversation-killers. Casts spells with Intelligence primarily. Does not require a catalyst to cast spells, can instead cast spells entirely with the power of their blind faith.
+
+* Level 1
+- Gain _Judgment_:
+* Level 2
+- Gain _Evangelism_: Convince low level INT targets around you to your faith by singing the praises of your God and preaching to the people. The power of your sermon will determine how many you can convince to ally with you in your endeavors.
+- Gain Bake Sale
+* Level 5
+* Level 10
+* Level 15
+- Gain _Repentance_: Repent for an in-game sin that you committed and gain the following buffs for 3 turns:
+  - +3 INT
+* Level 19

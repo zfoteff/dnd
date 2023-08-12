@@ -26,7 +26,6 @@ Learn *Druidic*: A secret language of Druids that allow them to speak in secret 
 * Level-up
 1. Learn Druid Alchemy and unlock latent abilities. Learn 1 [[id:b32b2d16-0b71-4af9-9464-b5575f720a99][Druid Cantrip]] [fn:1]
 2. Add 1d6 to your max HP. Enter a Druid Circle. Groups of druids pool their powers together to unlock a deeper connection with nature and themselves. This allows Druids to tap into the combined power of their circle to unlock new powers and abilities. Join one of the following:
-   - [[id:61851c34-70b6-488e-8a09-00afecf5f764][Circle of Dreams]]
    - [[id:92febd59-6eaa-4865-9d56-d774d2cc6242][Circle of Wildfire]]
    - [[id:3a7918b4-f554-49e8-a776-b61a2367c45e][Circle of Tempest]]
    - [[id:d4220018-171b-4cbe-8402-4400d683be28][Circle of Spores]]

@@ -11,12 +11,35 @@
 [[[id:7d419730-2064-41f9-80ee-f24ed9b01ac7][Main Menu]]] [[[id:69ef1740-156a-4e42-9493-49ec80a4ac26][Classes]]]
 #+END_CENTER
 -----
-Hack, slash, pummel, and dominate your enemies on the way to victory. Uses weapons primarily.
+Hack, slash, pummel, and dominate your enemies on the way to victory. Uses weapons primarily. To start as a Warrior, first choose a subclass: [[[id:2cbe3cbc-4959-44c9-9f33-a96424651355][Soldier]], [[id:83fe62a2-eb63-488d-897e-b5b439718f03][Rebel]], Brute]. These classes give you special traits and abilities that give you some distinct advantages.
+
+- _Initial Health_: Roll 1d8 and add it to your base HP. This is your Hit Die (HD). You will use this for healing.
+- Gain one talisman at start
 
 * Proficiencies
 | Armor | Weapons | Tools |
 |-------+---------+-------|
 |       |         |       |
 * Level-up
-1.
+1. Gain _Warrior Reactions_: Parry and Block. Success of parrying increases with lower damages (1% of your health = 99% parry chance, 50% of health = 0% parry chance). Block reduces damage in accordance with the Warrior Shield chart on passing a constitution save. Unsuccessful parries prevent parrying on the next turn.
+2. Add a subclass ability.
+3. Become proficient with a new class of weapon.
+4. Add +1 to Athletics and +1 to Strength.
+5. Gain an extra attack
+6. Gain _Last Stand_: The first attack that knocks you unconscious instead reduces you to 1 HP.
+7. Gain _Throw Weapon_: You may now throw any melee weapon you have at an enemy within 50 feet to deal 3x damage. Subtract -4 on rolls to hit.
+8.
+9.
+10. Gain _Duelist_: When fighting a one-on-one battle, deal 1.5x damage to your opponent.
+11. Gain _Rampage_: When you've taken damage from more than 1 enemy in the last turn, become able to attack every enemy in a thirty-foot radius with your actions.
+12. Unsuccessful parries no longer prevent a consecutive parry
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20. Multiclass
+
 * Footnotes

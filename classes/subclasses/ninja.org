@@ -8,31 +8,26 @@
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../../static/stylesheets/subclass-style.css" />
 
 #+BEGIN_CENTER
-[[[id:DND][Main Menu]]] [[[id:17a96883-cc40-409c-9fb5-80d5ab0c8379][Player Introduction Sheet]]] [[[id:campaign-classes][Classes]]] [[[id:7e784143-655d-4170-af49-68aceea59caa][Rogue]]]
+[[[id:7d419730-2064-41f9-80ee-f24ed9b01ac7][Main Menu]]] [[[id:f1eac65b-54c1-49f8-b117-e7d46f40b82c][Player Introduction]]] [[[id:69ef1740-156a-4e42-9493-49ec80a4ac26][Classes]]] [[[id:0b7f7671-c4de-41e9-b199-4a9ceb6352d2][Rogue]]]
 #+END_CENTER
 -----
 Use the shadows to your advantage, and gain more maneuverability when avoiding the gaze of the enemy.
 
 * Level 1
-Gain 20 shurikens. Shurikens deal 1d6 damage and you can throw two at the same target with one action. Easy to lose, and not readily acquired, be careful!
-
-Gain +2 to stealth
+- Gain 20 shurikens. Shurikens deal 1d6 damage and you can throw two at the same target with one action. Easy to lose, and not readily acquired, be careful!
+- Gain +2 to stealth
 * Level 2
-When attacking an enemy from behind, deal an extra 1d6 damage.
-
-When entering combat at night, gain an extra 15 move speed and deal an extra 1d6 damage on every attack
-
-You may now enter combat in a crowded area without anyone else noticing. This "secret combat" lasts for 3 turns, and in the result of a kill on turn one, you still have two to escape. Other players may not enter this combat without other NPCs noticing.
+- When attacking an enemy from behind, deal an extra 1d6 damage.
+- When entering combat at night, gain an extra 15 move speed and deal an extra 1d6 damage on every attack
+- You may now enter combat in a crowded area without anyone else noticing. This "secret combat" lasts for 3 turns, and in the result of a kill on turn one, you still have two to escape. Other players may not enter this combat without other NPCs noticing.
 * Level 5
-Attacks when falling, running, jumping, somersaulting, or any other sort of athletic move have an additional +2 to hit
-
-Gain +2 to acrobatics
+- Attacks when falling, running, jumping, somersaulting, or any other sort of athletic move have an additional +2 to hit
+- Gain +2 to acrobatics
 * Level 10
-Your maximum shuriken capacity increases to 35. You gain all shurikens back.
-
-Nighttime and damage from behind bonuses increase to 2d6
+- Your maximum shuriken capacity increases to 35. You gain all shurikens back.
+- Nighttime and damage from behind bonuses increase to 2d6
 * Level 15
-Deal 150% damage to lawful enemies
+- Deal 150% damage to lawful enemies
 * Level 19
-Gain Shadow Step: Become completely invisible to everything except Truesight for 3 turns once per combat encounter. During Shadow Step you gain an extra action. You dodge all attacks except those that critically strike during the duration of Shadow Step.
+- Gain Shadow Step: Become completely invisible to everything except Truesight for 3 turns once per combat encounter. During Shadow Step you gain an extra action. You dodge all attacks except those that critically strike during the duration of Shadow Step.
 -----

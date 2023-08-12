@@ -12,7 +12,9 @@
 #+END_CENTER
 -----
 * Level 1
+- Gain _Opportunist_: When participating in a riot, uprising, coup, assassination attempt, or other disturbance of normal civic activity, you deal 50% extra damage.
 * Level 2
+- Gain _Escape Artist_: You can
 * Level 5
 * Level 10
 * Level 15
