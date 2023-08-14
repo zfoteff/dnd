@@ -11,7 +11,15 @@
 [[[id:7d419730-2064-41f9-80ee-f24ed9b01ac7][Main Menu]]] [[[id:69ef1740-156a-4e42-9493-49ec80a4ac26][Classes]]]
 #+END_CENTER
 -----
-Defend the faith and the faithful with the might of your god. Uses heavy weapons and some spellcasting. To start as a paladin, first choose a subclass: [Holy Knight, Void Priest, [[id:5afcd93c-8342-4bb3-968c-1d7124b9d93d][Missionary]]]
+Defend the faith and the faithful with the might of your god. Uses heavy weapons and some spellcasting. To start as a paladin, first choose a subclass: [Holy Knight, [[id:df760c35-e021-4db3-ba72-4bf457d937fd][Void Priest]], [[id:5afcd93c-8342-4bb3-968c-1d7124b9d93d][Missionary]]]
+
+- Initial Health: Roll 1d8 and add it to your base HP. This is your Hit Die (HD). You will add the amount you roll to your base health every time you level up.
+
+* Proficiencies
+| Armor | Weapons | Tools |
+|-------+---------+-------|
+|       |         |       |
 * Level-up
+1. Gain one subclass ability and pick o.
 
 * Footnotes

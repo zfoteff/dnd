@@ -1,12 +1,23 @@
 :PROPERTIES:
 :ID:       df760c35-e021-4db3-ba72-4bf457d937fd
 :END:
-#+title: Void Priest
-#+author: zfoteff
-#+date: [2023-08-12 Sat]
-#+summary: Void Priest subclass for the Paladin class
+#+title:    Void Priest
+#+filetags: :DND:paladin:
+#+author:   zfoteff
+#+date:     [2023-08-12 Sat]
+#+summary:  Void Priest subclass for the Paladin class
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../../static/stylesheets/subclass-style.css" />
 #+BEGIN_CENTER
 [[[id:7d419730-2064-41f9-80ee-f24ed9b01ac7][Main Menu]]] [[[id:69ef1740-156a-4e42-9493-49ec80a4ac26][Classes]]] [[[id:940552be-47cf-48ff-8ca0-8c2b7f629052][Paladin]]]
 #+END_CENTER
 -----
+Embrace the call of the void and ignore the . Return the world to the state of entropy it longs to be in.
+* Level 1
+- Gain Darkvision to 120ft and the ability to see through magically-created darkness.
+* Level 2
+* Level 5
+Gain _Black Tendrils_:
+* Level 10
+Gain _Vacuum Shield_:
+* Level 15
+* Level 19

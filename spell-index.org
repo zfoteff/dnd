@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       49c66431-d9c7-4213-ae29-b62365fd32d4
+:END:
+#+title:    Spell Index
+#+author:   zfoteff
+#+date:     [2023-08-08 Tue]
+#+summary:  Spell index containing all spells and subsections of spells/cantrips
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="static/stylesheets/default-style.css" />
+
+* Cantrips
+** Druid Cantrips
+:PROPERTIES:
+:ID:       6d25c67e-615a-45ed-a675-fa7cbedb2941
+:END:
+- _*Befriend*_: Roll a charisma check. On 14 or higher, turn any non-intelligent creature you are on neutral terms with into an ally. This effect lasts for twenty minutes, after which the creature will enter a state of confusion with a 50% potential to lash out at the party.
+- _*Transform*_: When you first learn Druid Alchemy, select an animal. From now on, you can transform into this wild animal. Ask the DM about its statistics. One important difference from base DnD rules: the percentage of health that you have stays with you throughout the transformation.
+* Spells
+** Wizard Spells
+** Sorcerer Spells

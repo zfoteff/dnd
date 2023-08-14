@@ -6,6 +6,7 @@
 #+author:   zfoteff
 #+date:     [2023-08-08 Tue]
 #+summary:  Index of all spells organized into subclasses
+#+startup:  show2levels
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../static/stylesheets/default-style.css" />
 #+BEGIN_CENTER
 [ [[id:49c009a8-dbe3-4867-a616-60c55d87ed54][DM Menu]] ]

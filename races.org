@@ -2,13 +2,13 @@
 :ID:        e6b25898-e7dd-4444-b332-ef9fc3ea59bf
 :END:
 #+title:    Races
+#+filetags: :DND:
 #+author:   zfoteff
 #+date:     [2023-07-03 Mon]
 #+summary:  Campaign race details
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="static/stylesheets/subclass-style.css" />
-
 #+BEGIN_CENTER
-[[[id:cb783459-486f-42f7-874a-a16c2be8dd57][Main Menu]]] [[[id:17a96883-cc40-409c-9fb5-80d5ab0c8379][Player Intro Sheet]]] [[[id:campaign-classes][Classes]]]
+[[[id:7d419730-2064-41f9-80ee-f24ed9b01ac7][Main Menu]]] [[[id:f1eac65b-54c1-49f8-b117-e7d46f40b82c][Player Introduction]]] [[[id:69ef1740-156a-4e42-9493-49ec80a4ac26][Classes]]]
 #+END_CENTER
 -----
 #+CAPTION: Character Race Overview
@@ -33,6 +33,9 @@ Humans can quickly learn 1 other language, if they meet a good teacher.
 - +1 to any
 - -1 to any
 * Elf
+:PROPERTIES:
+:ID:       bf3ffb0d-c3fe-412a-a40a-4c5933d6320e
+:END:
 Graceful, beautiful, and intensely magical beings attuned to nature and the harmony of WORLD. Elves love nature, magic, art, and all good things in the world. Elves can live to be more than 700 years old, giving them a very broad and measured perspective on troubling events.
 
 Elves can speak Elvish:
@@ -41,15 +44,27 @@ Elves can speak Elvish:
 - Perception proficiency
 - Can't be lulled to sleep by magic
 * Orc
+:PROPERTIES:
+:ID:       3a2aa3c6-e063-47fb-ba4a-c385b9fe3916
+:END:
 Hulking, proud beings that tare
 * Demon
+:PROPERTIES:
+:ID:       9c1c2b45-1f2c-469a-b61a-8d21213fc495
+:END:
 * Hobbit
+:PROPERTIES:
+:ID:       b6aa2e4f-98c1-4c7a-bc9a-fc65a80e306c
+:END:
 Nobody quite knows how the hobbit came to be in WORLD. All that is known is that the race has seemly existed on the fringes of society, outlasting kingdoms and empires by avoiding notice and keeping to themselves. They're concerned with basic needs and simple pleasures, but have little patience for complex plans and grand designs.
 
 ** Racial traits
 - +1 to charisma
 - Lucky
 * Dwarf
+:PROPERTIES:
+:ID:       a0a931d4-798c-4ace-ae09-9b3cc0a7bc2e
+:END:
 Deep in the roots of WORLD's mountains, dwarven kingdoms have raised great treasures, and waged great wars against goblin kind. These skilled workers have superior skills with their hands and hammers, but aren't seen as particularly bright by the other races of WORLD.
 
 Accustomed to life underground, dwarves have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dimly light.
@@ -61,5 +76,11 @@ Dwarves can speak Dwarvish.
 - Tool proficiency
 - Dark vision
 * Elemental
+:PROPERTIES:
+:ID:       c840edb3-d480-4abd-be8a-6954af0b3b76
+:END:
 * Reptilian
+:PROPERTIES:
+:ID:       f3aea7e2-31c3-4e42-ac67-e98b10b7977b
+:END:
 -----

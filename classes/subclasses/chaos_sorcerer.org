@@ -2,13 +2,13 @@
 :ID:       ef16f314-677b-47af-957b-a1a29fe225de
 :END:
 #+title:    Chaos Sorcerer
+#+filetags: :DND:sorcerer:
 #+author:   zfoteff
 #+date:     [2023-07-17 Mon]
 #+summary:  Chaos sorcerer subclass description
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../../static/stylesheets/subclass-style.css" />
-
 #+BEGIN_CENTER
-[[[id:DND][Main Menu]]] [[[id:17a96883-cc40-409c-9fb5-80d5ab0c8379][Player Introduction Sheet]]] [[[id:campaign-classes][Classes]]] [[[id:f2323133-e17d-4cff-86db-415b72e6d42e][Sorcerer]]]
+[[[id:7d419730-2064-41f9-80ee-f24ed9b01ac7][Main Menu]]] [[[id:69ef1740-156a-4e42-9493-49ec80a4ac26][Classes]]] [[[id:f2323133-e17d-4cff-86db-415b72e6d42e][Sorcerer]]]
 #+END_CENTER
 -----
 Chaos sorcerers structure the future, and are able to frustrate enemies and allies alike by impeding their endeavors. They can grant powerful assistance to the party in times of need, but suffer from random damage debuffs.
@@ -22,7 +22,7 @@ Chaos sorcerers structure the future, and are able to frustrate enemies and alli
 - _*Premonition*_: Briefly see the future. Learn one possible path the future could follow (details up to DM discretion). You can only see what will happen to you, not your companions or other NPCs, unless you decide to focus on them, in which case you will have no knowledge of your future.
 - _*Coming Storm*_: Roll to hit one enemy within 50 feet. If successful, next turn that enemy will take 3d10 lightning damage. /Lawful enemies cannot be affected by Coming Storm/.
 * Level 3 Sorceries
-- _*Omen*_: Learn what typ eof damage all enemies are vulnerable to. For the rest of combat, all allies attacks that deal force damage deal that type of damage instead. All attacks against enemies deal 50% more damage for two turns.
+- _*Omen*_: Learn what type of damage all enemies are vulnerable to. For the rest of combat, all allies attacks that deal force damage deal that type of damage instead. All attacks against enemies deal 1.25% more damage for two turns.
 - _*Lockout*_: Accelerate the effects of all magical effects two turns. Next turn you are the only person able to use magic. /Some magic is not affected by *Lockout*. Consult with DM./
 * Level 4
 - _*Predestination*_: You now have the ability to cause predestination once. You may work with the DM to decide some aspect of the future that you would like to change. Because of the (broken) nature of this power, *Intervention* is highly limited, but can alter the course of a campaign. /You must visit a Temple of Order to regain the power/.

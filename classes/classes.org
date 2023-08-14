@@ -8,7 +8,7 @@
 #+summary:  Campaign classes submenu
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../static/stylesheets/subclass-style.css" />
 #+BEGIN_CENTER
-[[[id:7d419730-2064-41f9-80ee-f24ed9b01ac7][Main Menu]]]
+[[[id:7d419730-2064-41f9-80ee-f24ed9b01ac7][Main Menu]]] [[[id:f1eac65b-54c1-49f8-b117-e7d46f40b82c][Player Introduction]]]
 #+END_CENTER
 -----
 * [[id:8bb9a08a-97c0-4231-a002-ad7dcf83e4d8][Bard]]

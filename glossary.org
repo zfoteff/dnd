@@ -7,7 +7,6 @@
 #+date:     [2023-07-05 Wed]
 #+summary:  Glossary of common terms used during the game
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="static/stylesheets/default-style.css" />
-
 #+BEGIN_CENTER
 [ [[org:dnd/dnd.org][Main Menu]] ]
 #+END_CENTER

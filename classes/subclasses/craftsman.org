@@ -2,13 +2,13 @@
 :ID:       05331b42-b242-4866-a6e6-df9cdad306e7
 :END:
 #+title:    Craftsman
+#+filetags: :DND:bard:
 #+author:   zfoteff
 #+date:     [2023-07-12 Wed]
 #+summary:  Craftsman subclass summary
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../../static/stylesheets/subclass-style.css" />
-
 #+BEGIN_CENTER
-[[[id:DND][Main Menu]]] [[[id:campaign-classes][Character Selection]]] [[[id:campaign-classes][Classes]]] [[[id:8bb9a08a-97c0-4231-a002-ad7dcf83e4d8][Bard]]]
+[[[id:7d419730-2064-41f9-80ee-f24ed9b01ac7][Main Menu]]] [[[id:69ef1740-156a-4e42-9493-49ec80a4ac26][Classes]]] [[[id:8bb9a08a-97c0-4231-a002-ad7dcf83e4d8][Bard]]]
 #+END_CENTER
 -----
 * Level 1
@@ -16,7 +16,7 @@ Gain _Resourcefulness_: You can use the materials around you to build something 
 - The object cannot be overly technical (no computers, basic circuitry)
 - The materials cannot be unreasonably dangerous or difficult to move/transport/carry
 - You must have tools to build it
-- THe object must be used for utility and non-aesthetic purposes.
+- The object must be used for utility and non-aesthetic purposes.
 
 You gain an additional toolkit
 * Level 2
