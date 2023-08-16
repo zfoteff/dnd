@@ -1,29 +1,19 @@
 :PROPERTIES:
-:ID:       ef16f314-677b-47af-957b-a1a29fe225de
+:ID:       8cf16f81-68be-4205-9ff9-1c803443f6bc
 :END:
 #+title:    Chaos Sorcerer
-#+filetags: :DND:sorcerer:
 #+author:   zfoteff
 #+date:     [2023-07-17 Mon]
-#+summary:  Chaos sorcerer subclass description
+#+summary:  Order sorcery subclass
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../../static/stylesheets/subclass-style.css" />
+
 #+BEGIN_CENTER
 [[[id:7d419730-2064-41f9-80ee-f24ed9b01ac7][Main Menu]]] [[[id:69ef1740-156a-4e42-9493-49ec80a4ac26][Classes]]] [[[id:f2323133-e17d-4cff-86db-415b72e6d42e][Sorcerer]]]
 #+END_CENTER
 -----
-Chaos sorcerers structure the future, and are able to frustrate enemies and allies alike by impeding their endeavors. They can grant powerful assistance to the party in times of need, but suffer from random damage debuffs.
+Chaos sorcerers rearrange the past to confound enemies, but often rely on situational context to unleash their full potential.
 
-* Level 1 Sorceries
-- _*Delayed Gratification*_: Roll to hit two enemies within 20 feet. If successful, next turn both enemies will take 2d6 force damage.
-- _*Cripple*_: Roll to hit. If successful, an enemy's attack roll will be lowered by 4 for the next 3 turns. After one turn, they can try once to make a Constitution saving throw to escape the crippling.
-- _*Alter Future*_: Sacrifice your turn to grant an ally two turns the next time they are up in combat. This incantation does not need to roll to hit. If the ally is stunned or otherwise unable to move, your turn is refunded.
-* Level 2 Sorceries
-- _*Borrowed Luck*_: Grant all allies +3 on rolls next turn. This spell does not apply to you.
-- _*Premonition*_: Briefly see the future. Learn one possible path the future could follow (details up to DM discretion). You can only see what will happen to you, not your companions or other NPCs, unless you decide to focus on them, in which case you will have no knowledge of your future.
-- _*Coming Storm*_: Roll to hit one enemy within 50 feet. If successful, next turn that enemy will take 3d10 lightning damage. /Lawful enemies cannot be affected by Coming Storm/.
-* Level 3 Sorceries
-- _*Omen*_: Learn what type of damage all enemies are vulnerable to. For the rest of combat, all allies attacks that deal force damage deal that type of damage instead. All attacks against enemies deal 1.25% more damage for two turns.
-- _*Lockout*_: Accelerate the effects of all magical effects two turns. Next turn you are the only person able to use magic. /Some magic is not affected by *Lockout*. Consult with DM./
-* Level 4
-- _*Predestination*_: You now have the ability to cause predestination once. You may work with the DM to decide some aspect of the future that you would like to change. Because of the (broken) nature of this power, *Intervention* is highly limited, but can alter the course of a campaign. /You must visit a Temple of Order to regain the power/.
-- _**_: Roll to dictate the moves of all enemies for the next turn. You can force them to perform any action available to the character. However, you can only force them to perform actions you are aware of -- you do not gain complete insight into all enemy abilities. After the turn deal 1d12 damage to all enemies effected by **
+* Level 1 Sorceries:
+- _Reversion_: Move all people within a 20-foot radius to the location they were in the previous turn. This location can be more than 20-feet away from the caster. /You cannot send targets back to other realms with this spell./
+- _Vitality Drain_: Pick a target  within a 30-foot radius to make a CON saving throw. On failure decrease the target's maximum health by the amount of damage they took in the previous turn. Until combat is over, they are stuck with that maximum health and cannot be healed above it.
+* Level 2 Sorceries (5+):
