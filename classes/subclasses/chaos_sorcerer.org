@@ -2,6 +2,7 @@
 :ID:       8cf16f81-68be-4205-9ff9-1c803443f6bc
 :END:
 #+title:    Chaos Sorcerer
+#+filetags: :DND:sorcerer:
 #+author:   zfoteff
 #+date:     [2023-07-17 Mon]
 #+summary:  Order sorcery subclass
@@ -13,7 +14,24 @@
 -----
 Chaos sorcerers rearrange the past to confound enemies, but often rely on situational context to unleash their full potential.
 
+* Sorcery Traits:
+- /Chaotic Struggle/: Any damage you deal to Lawful enemies is increased by 50%.
+- /Rule Breaker/: Regardless of your actions within the campaign, you will be considered a Chaotic creature for the rest of the game by everyone you encounter, including the gods. Your deception modifier is permanently +2.
+- /Annoyance/: Once per long rest, become able to ask for an insight into what will frustrate one NPC of your choosing the most. Gain +3 on rolls pertaining to that action.
 * Level 1 Sorceries:
-- _Reversion_: Move all people within a 20-foot radius to the location they were in the previous turn. This location can be more than 20-feet away from the caster. /You cannot send targets back to other realms with this spell./
+- _Reversion_: Move all targets within a 20-foot radius to the location they were in the previous turn. This location can be more than 20-feet away from the caster. /You cannot send targets back to other realms with this spell./
 - _Vitality Drain_: Pick a target  within a 30-foot radius to make a CON saving throw. On failure decrease the target's maximum health by the amount of damage they took in the previous turn. Until combat is over, they are stuck with that maximum health and cannot be healed above it.
+- _Randomness_: On hit, deal 1d10 of a random type of damage to one target in a 30-foot radius
 * Level 2 Sorceries (5+):
+- _Retroactive Omen_: Learn what type of damage a target is vulnerable to. The last three attacks from your allies were now of that damage type. Adjust the target's health accordingly
+- _Return_: Teleport the party to a place you have been in the past 3 campaign sessions. /Return is non-reversible. You must return to a Temple of Chaos to use the spell again/.
+- _Confuse_: Force a target within a 50-foot radius to make a CON saving throw. On failure, deal 1d8 damage to them for three turns. For those three turns, the target is confused about who started the fight and will target a random ally of theirs.
+* Level 3 Sorceries (11+):
+- _Lingering Wound_: Roll to a hit a target within 30-feet of the caster. On hit, all damage an enemy has previously taken increases by 50%. Ex: If they have taken 10 damage, they take an additional 5 damage
+- _Makeover_: Change your race, or the race of a consenting ally. This effect does not wear off and only has three charges.
+* Level 4 Sorceries (16+):
+- _Back to the Future_: Permanently alter some aspect of the past. This spell has two charges, /you must return to a Temple of Chaos to regain charges/. You must work with the DM to decide how powerful this spell is, but you may change the circumstances of your present to include
+  - Revive an ally
+  - The death of any enemy that you reasonably could have defeated in combat
+  - The prevention of a minor/medium mistake you made
+- Variety!: On hit, deal 12d8 damage - 1d8 of each of the twelve types of damage

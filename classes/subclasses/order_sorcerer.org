@@ -11,8 +11,12 @@
 [[[id:7d419730-2064-41f9-80ee-f24ed9b01ac7][Main Menu]]] [[[id:69ef1740-156a-4e42-9493-49ec80a4ac26][Classes]]] [[[id:f2323133-e17d-4cff-86db-415b72e6d42e][Sorcerer]]]
 #+END_CENTER
 -----
-Order sorcerers structure the future, and are able to frustrate enemies and allies alike by impeding their endeavors. They can grant powerful assistance to the party in times of need, but suffer from random damage debuffs.
+Order sorcerers structure the future, and are able to frustrate enemies and allies alike by impeding their endeavors. They can grant powerful assistance to the party in times of need, but often require multiple turns to set up attacks.
 
+* Sorcery Traits:
+- /Lawful Struggle/: Any damage you deal to Chaotic enemies is increased by 50%.
+- /Rule Follower/: Regardless of your actions within the campaign, you will be considered a Lawful creature for the rest of the game by everyone you encounter, including the gods. Your persuasion modifier is permanently +2.
+- /Spirit of Justice/: Gain permanent insight into the rules and customs of any region that you enter. This insight may extend to the ordinary behavior of any inhabitants within the region.
 * Level 1 Sorceries
 - _*Delayed Gratification*_: Roll to hit two enemies within 20 feet. If successful, next turn both enemies will take 2d6 force damage.
 - _*Cripple*_: Roll to hit. If successful, an enemy's attack roll will be lowered by 4 for the next 3 turns. After one turn, they can try once to make a Constitution saving throw to escape the crippling.
@@ -20,10 +24,10 @@ Order sorcerers structure the future, and are able to frustrate enemies and alli
 * Level 2 Sorceries
 - _*Borrowed Luck*_: Grant all allies +3 on rolls next turn. This spell does not apply to you.
 - _*Premonition*_: Briefly see the future. Learn one possible path the future could follow (details up to DM discretion). You can only see what will happen to you, not your companions or other NPCs, unless you decide to focus on them, in which case you will have no knowledge of your future.
-- _*Coming Storm*_: Roll to hit one enemy within 50 feet. If successful, next turn that enemy will take 3d10 lightning damage. /Lawful enemies cannot be affected by Coming Storm/.
+- _*Coming Storm*_: Roll to hit one enemy within 50 feet. If successful, next turn that enemy will take 2d10 lightning damage. /Lawful enemies cannot be affected by Coming Storm/.
 * Level 3 Sorceries
 - _*Omen*_: Learn what type of damage all enemies are vulnerable to. For the rest of combat, all allies attacks that deal force damage deal that type of damage instead. All attacks against enemies deal 1.25% more damage for two turns.
 - _*Lockout*_: Accelerate the effects of all magical effects two turns. Next turn you are the only person able to use magic. /Some magic is not affected by *Lockout*. Consult with DM./
 * Level 4
-- _*Omniprecient*_: You now have the ability to become prescient of future events once per long rest. You may work with the DM to decide some aspect of the future that you would like to change. Because of the (broken) nature of this power, *Intervention* is highly limited, but can alter the course of a campaign. /You must visit a Temple of Order to regain the power/.
-- _*Predestination*_: Roll to dictate the moves of all enemies for the next turn. You can force them to perform any action available to the character. However, you can only force them to perform actions you are aware of -- you do not gain complete insight into all enemy abilities. After the turn deal 1d12 damage to all enemies effected by **
+- _*Omniprecient*_: You now have the ability to become prescient of all future events for a given quest or storyline. You may work with the DM to decide some aspect of the future that you would like to change. Because of the (broken) nature of this power, This spell is highly limited, but can alter the course of a campaign. /You must visit a Temple of Order to regain the power/.
+- _*Predestination*_: Roll to dictate the moves of all enemies for the next turn. You can force them to perform any action available to the character. However, you can only force them to perform actions you are aware of -- you do not gain complete insight into all enemy abilities. After the turn deal 2d12 damage to all affected enemies

@@ -25,3 +25,7 @@ table {
     display: none;
     visibility: hidden;
 }
+
+li {
+    margin-bottom: 1rem;
+}
