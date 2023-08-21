@@ -2,11 +2,15 @@
 :ID:       49c66431-d9c7-4213-ae29-b62365fd32d4
 :END:
 #+title:    Spell Index
+#+filetags: :DND:spells:guide:
 #+author:   zfoteff
 #+date:     [2023-08-08 Tue]
 #+summary:  Spell index containing all spells and subsections of spells/cantrips
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="static/stylesheets/default-style.css" />
-
+#+BEGIN_CENTER
+[[[id:7d419730-2064-41f9-80ee-f24ed9b01ac7][Main Menu]]]
+#+END_CENTER
+-----
 * Cantrips
 ** Druid Cantrips
 :PROPERTIES:
@@ -17,3 +21,20 @@
 * Spells
 ** Wizard Spells
 ** Sorcerer Spells
+*** Chaos Sorcerer
+*** Order Sorcerer
+*** Psychic Sorcerer
+**** Level 1
+- _*Migraine*_: Roll to hit. On hit, give a target a headache for three turns. Deal 1d8 madness damage on the first turn, 1d6 psychic damage, and 1d4 psychic damage.
+- _*Cursed Knowledge*_: Allow a party member to glimpse the insanity. Give this member +4 insight for the whole turn.
+- _*Discordant Whisper*_: You whisper a discordant melody that only one creature of your choice within range can hear, wracking it with terrible pain. The target must make a Wisdom saving throw. On a failed save, it takes 3d6 psychic damage and must immediately use its reaction, if available, to move as far as its speed allows away from you. The creature doesn’t move into obviously dangerous ground, such as a fire or a pit. On a successful save, the target takes half as much damage and doesn’t have to move away. A deafened creature automatically succeeds on the save.
+**** Level 2 (5+)
+- _*Jedi Mind Trick*_: You know the rules. This automatically succeeds on every creature with less than 13 INT. Creatures at or above 13 INT must roll a INT saving throw. /The extent of this ability is up to DM discretion/
+- _*Bad Memory*_: Force a target to make a WIS saving throw. On fail, they take 1d8 madness damage and attempt to run away and cry. If they cannot run away (due to stun, root, etc), they take an additional 2d8 madness damage
+- _*Confuse*_: Force a target to make a WIS saving throw. On fail, their next attack is against a random target in combat and the attack does half damage.
+**** Level 3 (11+)
+- _*Mind Reader*_: Twice per long rest, discern the exact intentions of a creature as well as one additional fact about them. This ability can be used only when engaged in conversation with the subject.
+- _*Delirium*_: Once per combat, force a target to make a CON saving throw. On failure, the target attacks one member of their party (or themselves if alone), run away, and suffer the effects of madness for a turn.
+**** Level 4 (15+)
+- _*Mind Control*_: Force any creature but one of the gods to make a WIS, CON, and INT saving throw. The extent to which you mind control this person depends on how many of the saving throws they succeed on. From then on, the creature will do you bidding (/with some DM intervention/). Gain one charge every 2 long rests.
+- _*Mass Hallucination*_: Change one facet of history forever. The practical outcome of the event will remain the same, but everyone will remember the event differently. How different will depend on how you'd like to change the event.

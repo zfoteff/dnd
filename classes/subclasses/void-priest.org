@@ -12,12 +12,18 @@
 #+END_CENTER
 -----
 Embrace the call of the void and ignore the . Return the world to the state of entropy it so longs to be in.
+* Paladin Traits
+- /Void Vision/: Gain night vision to 120ft and the ability to see through magically-created darkness.
+- /Gift of Gab/: For one reason or another, you're a enthralling speaker. Your persuasion attempts have advantage
+- //:
 * Level 1
-- Gain Darkvision to 120ft and the ability to see through magically-created darkness.
+- Gain _**_
 * Level 2
+- Gain _**_:
 * Level 5
-Gain _Black Tendrils_:
+- Gain _Black Tendrils_:
 * Level 10
-Gain _Vacuum Shield_:
+- Gain _Vacuum Shield_:
 * Level 15
+_- *Warping Implosion*_:
 * Level 19

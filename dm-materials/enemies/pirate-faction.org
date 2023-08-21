@@ -8,7 +8,7 @@
 #+summary:  Pirate faction enemy details and descriptions
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../../static/stylesheets/subclass-style.css" />
 #+BEGIN_CENTER
-[ [[id:49c009a8-dbe3-4867-a616-60c55d87ed54][DM Menu]] ] [ [[id:69fc67b6-3d4a-451e-ab1e-e23bc20215ba][Enemies]] ]
+[[[id:49c009a8-dbe3-4867-a616-60c55d87ed54][DM Menu]]] [[[id:69fc67b6-3d4a-451e-ab1e-e23bc20215ba][Enemies]]]
 #+END_CENTER
 -----
 * Basic Troops
@@ -19,10 +19,16 @@ _*CR*_ [fn:1]: 1/10
 _*HP*_: 14
 _*PP*_ [fn:2]: 11
 
+Ability Scores:
+- STR:
+- DEX:
+- CON:
+- INT:
+- WIS:
+
 | Armor          | Weapons                 | Items          |
 |----------------+-------------------------+----------------|
 | No armor 10 AC | Bronze Shortsword (1d8) | Bottle of Grog |
-|                |                         |                |
 * Commander Troops
 ** Cook
 ** First Mate
@@ -35,6 +41,13 @@ Captain of a pirate ship. Earned their crew's loyalty though brutality, promise 
 _*CR*_ [fn:1]: 4/10
 _*HP*_: 14
 _*PP*_ [fn:2]: 11
+
+Ability Scores:
+- STR:
+- DEX:
+- CON:
+- INT:
+- WIS:
 
 | Armor | Weapons | Items |
 |-------+---------+-------|

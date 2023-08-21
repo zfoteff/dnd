@@ -34,3 +34,20 @@
 :PROPERTIES:
 :ID:       00bc2086-0ef2-4750-b9c3-bf47ea234f67
 :END:
+*** Level 1:
+- _*Reversion*_: Move all targets within a 20-foot radius to the location they were in the previous turn. This location can be more than 20-feet away from the caster. /You cannot send targets back to other realms with this spell./
+- _*Vitality Drain*_: Pick a target  within a 30-foot radius to make a CON saving throw. On failure decrease the target's maximum health by the amount of damage they took in the previous turn. Until combat is over, they are stuck with that maximum health and cannot be healed above it.
+- _*Randomness*_: On hit, deal 1d10 of a random type of damage to one target in a 30-foot radius
+*** Level 2 (5+):
+- _*Retroactive Omen*_: Learn what type of damage a target is vulnerable to. The last three attacks from your allies were now of that damage type. Adjust the target's health accordingly
+- _*Return*_: Teleport the party to a place you have been in the past 3 campaign sessions. /Return is non-reversible. You must return to a Temple of Chaos to use the spell again/.
+- _*Confuse*_: Force a target within a 50-foot radius to make a CON saving throw. On failure, deal 1d8 damage to them for three turns. For those three turns, the target is confused about who started the fight and will target a random ally of theirs.
+*** Level 3 (11+):
+- _*Lingering Wound*_: Roll to a hit a target within 30-feet of the caster. On hit, all damage an enemy has previously taken increases by 50%. Ex: If they have taken 10 damage, they take an additional 5 damage
+- _*Makeover*_: Change your race, or the race of a consenting ally. This effect does not wear off and only has three charges.
+*** Level 4 (16+):
+- _*Back to the Future*_: Permanently alter some aspect of the past. This spell has two charges, /you must return to a Temple of Chaos to regain charges/. You must work with the DM to decide how powerful this spell is, but you may change the circumstances of your present to include
+  - Revive an ally
+  - The death of any enemy that you reasonably could have defeated in combat
+  - The prevention of a minor/medium mistake you made
+- _*Variety!*_: On hit, deal 10d8 damage - 1d8 of each of the twelve types of damage

@@ -13,7 +13,7 @@
 -----
 Manipulate the world around you in a manner of your choosing with latent powers imbued in the user. Uses spells primarily, cast using Wisdom.
 
-To begin playing as a Sorcerer, first choose a sorcery: [[[id:569f7d4d-5744-49e4-ac0d-bebbd1795992][Psychic]]]. Each sorcery comes with some special abilities as you get stronger, and a few distinct advantages right off the jump. All sorcerers can learn generic spells in the [[id:49c66431-d9c7-4213-ae29-b62365fd32d4][spell index]], generic sorceries, and sorcery spells matching their chosen sorcery type. Make sure to review the Magic Guide to get an understanding of the magic system.
+To begin playing as a Sorcerer, first choose a sorcery: [[[id:ca360c77-3d1d-43f3-9b6b-e65bb2b1f686][Order]], [[id:8cf16f81-68be-4205-9ff9-1c803443f6bc][Chaos]], [[id:569f7d4d-5744-49e4-ac0d-bebbd1795992][Psychic]]]. Each sorcery comes with some special abilities as you get stronger, and a few distinct advantages right off the jump. All sorcerers can learn generic spells in the [[id:49c66431-d9c7-4213-ae29-b62365fd32d4][spell index]], generic sorceries, and sorcery spells matching their chosen sorcery type. Make sure to review the Magic Guide to get an understanding of the magic system.
 
 Spells are cast using
 

@@ -15,14 +15,19 @@ Whether calling on the forces of nature, or emulating the creatures of the world
 
 To start as a Druid, choose a domain of nature to integrate with: [Plant, Animal, Stone, Cosmos]. Each domain offers the wielder a few distinct advantages right away. All Druids can learn druid cantrips and druids can learn druid spells through their Druid Circle.
 
-- _Initial Health_: Roll a 1d6 and add it to your base HP.
+- _Initial Health_: Roll a 1d8 and add it to your base HP. This is your Hit Die (HD). You will add the amount your rol lto your base health every time your level up.
 - Spells are cast using WIS + PROF (Wisdom modifier + Proficiency modifier)
 
 Learn *Druidic*: A secret language of Druids that allow them to speak in secret to other Druids, and hear whispers from nature around them.
 * Proficiencies
-| Armor | Weapons | Tools |
-|-------+---------+-------|
-|       |         |       |
+| Armor        | Weapons      | Tools         |
+|--------------+--------------+---------------|
+| Light armor  | Clubs        | Herbalism Kit |
+| Medium armor | Daggers      |               |
+| Shields      | Quarterstaff |               |
+|              | Sickle       |               |
+|              | Scimitar     |               |
+|              | Spear        |               |
 * Level-up
 1. Learn Druid Alchemy and unlock latent abilities. Learn 1 [[id:b32b2d16-0b71-4af9-9464-b5575f720a99][Druid Cantrip]] [fn:1]
 2. Add 1d6 to your max HP. Enter a Druid Circle. Groups of druids pool their powers together to unlock a deeper connection with nature and themselves. This allows Druids to tap into the combined power of their circle to unlock new powers and abilities. Join one of the following:
