@@ -12,16 +12,16 @@
 #+END_CENTER
 -----
 #+CAPTION: Character Race Overview
-| Name      | Base HP | Advantages | Disadvantages | Bonuses |
-|-----------+---------+------------+---------------+---------|
-| Human     |       6 | +1 to any  | -1 to any     |         |
-| Elf       |       6 |            |               |         |
-| Orc       |       8 | +2 to STR  |               |         |
-| Demon     |       5 |            |               |         |
-| Hobbit    |       5 |            |               |         |
-| Dwarf     |       7 |            |               |         |
-| Elemental |       5 |            |               |         |
-| Reptilian |       7 |            |               |         |
+| Name      | Base HP | Advantages    | Disadvantages | Bonuses                       |
+|-----------+---------+---------------+---------------+-------------------------------|
+| Human     |       6 | +1 any        | -1 any        |                               |
+| Elf       |       6 | +1 WIS +1 INT | -1 CON        | Elvish, Cold Weakness         |
+| Orc       |       8 | +2 STR +2 CHA | -2 INT        |                               |
+| Demon     |       5 | +2 CHA        | -1 STR        |                               |
+| Hobbit    |       5 | +1 to CHA     | -2 CON        | Lucky                         |
+| Dwarf     |       7 | +1 CON +1 DEX | -2 WIS        |                               |
+| Elemental |       5 | +1 CON        | -1 DEX        | Special Move                  |
+| Reptilian |       7 | +5 AC +1 INT  | -3 CHA        | Waterbreathing, Cold Weakness |
 * Human
 :PROPERTIES:
 :ID:       7f74cf77-b5ce-4119-9bdf-bc0415d66c84
