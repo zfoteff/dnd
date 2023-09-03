@@ -14,24 +14,24 @@
 #+CAPTION: Character Race Overview
 | Name      | Base HP | Advantages    | Disadvantages | Bonuses                       |
 |-----------+---------+---------------+---------------+-------------------------------|
-| Human     |       6 | +1 any        | -1 any        |                               |
+| Human     |       6 | +2 any        | -2 any        | Extra Language                |
 | Elf       |       6 | +1 WIS +1 INT | -1 CON        | Elvish, Cold Weakness         |
-| Orc       |       8 | +2 STR +2 CHA | -2 INT        |                               |
+| Orc       |       8 | +2 STR +2 CON | -2 INT -2 CHA | Orc, Savage Attacks           |
 | Demon     |       5 | +2 CHA        | -1 STR        |                               |
 | Hobbit    |       5 | +1 to CHA     | -2 CON        | Lucky                         |
-| Dwarf     |       7 | +1 CON +1 DEX | -2 WIS        |                               |
+| Dwarf     |       7 | +2 CON +1 STR | -2 WIS        | Darkvision, Tool proficiency  |
 | Elemental |       5 | +1 CON        | -1 DEX        | Special Move                  |
 | Reptilian |       7 | +5 AC +1 INT  | -3 CHA        | Waterbreathing, Cold Weakness |
 * Human
 :PROPERTIES:
 :ID:       7f74cf77-b5ce-4119-9bdf-bc0415d66c84
 :END:
-The white bread of WORLD's races. Not particularly good at anything, not incompetent either.
+The white bread of lineages. Not particularly good at anything, not incompetent either.
 
 Humans can quickly learn 1 other language, if they meet a good teacher.
 ** Racial traits
-- +1 to any
-- -1 to any
+ - Language proficiency
+ - You gain +2 to any ability score, and -2 to to any ability score (can be split among 2 different abilities)
 * Elf
 :PROPERTIES:
 :ID:       bf3ffb0d-c3fe-412a-a40a-4c5933d6320e
@@ -40,18 +40,28 @@ Graceful, beautiful, and intensely magical beings attuned to nature and the harm
 
 Elves can speak Elvish:
 ** Racial traits
-- +2 to dexterity
 - Perception proficiency
+- Weakness to cold
 - Can't be lulled to sleep by magic
 * Orc
 :PROPERTIES:
 :ID:       3a2aa3c6-e063-47fb-ba4a-c385b9fe3916
 :END:
-Hulking, proud beings that tare
+Hulking, proud beings that fight to protect those they choose to be in their clan. Many venture from their tribe seeking adventure a glory for their mighty deeds. The fury of an Orc is not to be trifled with.
+
+Orcs can speak Orc and read Dwarvish.
+** Racial traits
+- Darkvision
+- Intimidation Proficiency
+- _Savage Attacks_: When you score a critical hit with a melee weapon attack, you can roll one of the weapon's damage dice one additional time and add it to the extra damage of the critical hit.
 * Demon
 :PROPERTIES:
 :ID:       9c1c2b45-1f2c-469a-b61a-8d21213fc495
 :END:
+Straight from the fires of Hell, demons blend into the world, causing strife and mischief wherever they see fit. They depend on their skills in deception and their innate magical attunement to compensate for their lack of durability.
+
+** Racial Traits
+- Resistant to fire
 * Hobbit
 :PROPERTIES:
 :ID:       b6aa2e4f-98c1-4c7a-bc9a-fc65a80e306c
@@ -59,28 +69,31 @@ Hulking, proud beings that tare
 Nobody quite knows how the hobbit came to be in WORLD. All that is known is that the race has seemly existed on the fringes of society, outlasting kingdoms and empires by avoiding notice and keeping to themselves. They're concerned with basic needs and simple pleasures, but have little patience for complex plans and grand designs.
 
 ** Racial traits
-- +1 to charisma
-- Lucky
+- _Brave_: You have advantage on saving throws against being frightened
+- _Lucky_: When you roll a 1 on an attack roll, ability check, or saving throw, you can reroll the die. You must use the new result.
 * Dwarf
 :PROPERTIES:
 :ID:       a0a931d4-798c-4ace-ae09-9b3cc0a7bc2e
 :END:
-Deep in the roots of WORLD's mountains, dwarven kingdoms have raised great treasures, and waged great wars against goblin kind. These skilled workers have superior skills with their hands and hammers, but aren't seen as particularly bright by the other races of WORLD.
-
-Accustomed to life underground, dwarves have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dimly light.
+Deep in the roots of mountains, dwarven kingdoms have raised great treasures, and waged great wars. These skilled workers have superior skills with their hands and hammers, but aren't usually seen as particularly bright.
 
 Dwarves can speak Dwarvish.
 ** Racial traits
-- +2 to constitution
-- +1 to strength
 - Tool proficiency
 - Dark vision
 * Elemental
 :PROPERTIES:
 :ID:       c840edb3-d480-4abd-be8a-6954af0b3b76
 :END:
+
 * Reptilian
 :PROPERTIES:
 :ID:       f3aea7e2-31c3-4e42-ac67-e98b10b7977b
 :END:
+Reptilian inhabitants of a foreign land that have made their first strides towards integrating into greater society. Covered in scaly armor and possessing the ability to breath underwater, this species has had a difficult time operating in extreme cold but gets advantages on their actions in extreme heat.
+
+** Racial Traits
+Waterbreathing
+Weakness to cold
+Heat advantage
 -----
