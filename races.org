@@ -12,16 +12,16 @@
 #+END_CENTER
 -----
 #+CAPTION: Character Race Overview
-| Name      | Base HP | Advantages    | Disadvantages | Bonuses                       |
-|-----------+---------+---------------+---------------+-------------------------------|
-| Human     |       6 | +2 any        | -2 any        | Extra Language                |
-| Elf       |       6 | +1 WIS +1 INT | -1 CON        | Elvish, Cold Weakness         |
-| Orc       |       8 | +2 STR +2 CON | -2 INT -2 CHA | Orc, Savage Attacks           |
-| Demon     |       5 | +2 CHA        | -1 STR        |                               |
-| Hobbit    |       5 | +1 to CHA     | -2 CON        | Lucky                         |
-| Dwarf     |       7 | +2 CON +1 STR | -2 WIS        | Darkvision, Tool proficiency  |
-| Elemental |       5 | +1 CON        | -1 DEX        | Special Move                  |
-| Reptilian |       7 | +5 AC +1 INT  | -3 CHA        | Waterbreathing, Cold Weakness |
+| Name      | Base HP | Advantages    | Disadvantages | Bonuses                                       |
+|-----------+---------+---------------+---------------+-----------------------------------------------|
+| Human     |       6 | +2 any        | -2 any        | Extra Language                                |
+| Elf       |       6 | +1 WIS +1 INT | -1 CON        | Elvish, Cold Weakness                         |
+| Orc       |       8 | +2 STR +2 CON | -2 INT -2 CHA | Orc, Savage Attacks                           |
+| Demon     |       5 | +2 CHA        | -1 STR        | Heat Resistance,                              |
+| Hobbit    |       5 | +1 to CHA     | -2 CON        | Lucky, Brave                                  |
+| Dwarf     |       7 | +2 CON +1 STR | -2 WIS        | Darkvision, Tool proficiency                  |
+| Elemental |       5 | +1 CON        | -1 DEX        | Special Move                                  |
+| Reptilian |       7 | +5 AC +1 INT  | -3 CHA        | Waterbreathing, Cold Weakness, Heat Advantage |
 * Human
 :PROPERTIES:
 :ID:       7f74cf77-b5ce-4119-9bdf-bc0415d66c84
@@ -61,7 +61,8 @@ Orcs can speak Orc and read Dwarvish.
 Straight from the fires of Hell, demons blend into the world, causing strife and mischief wherever they see fit. They depend on their skills in deception and their innate magical attunement to compensate for their lack of durability.
 
 ** Racial Traits
-- Resistant to fire
+- Fire Resistance
+- _Foul Creature_: Other races will view you with disdain
 * Hobbit
 :PROPERTIES:
 :ID:       b6aa2e4f-98c1-4c7a-bc9a-fc65a80e306c
@@ -85,15 +86,19 @@ Dwarves can speak Dwarvish.
 :PROPERTIES:
 :ID:       c840edb3-d480-4abd-be8a-6954af0b3b76
 :END:
-
+A creature native to the elemental plains. Some creatures are little more than animated masses of their respective elements, others are biological forms infused with elemental energy.
+** Racial Traits
+- _Special Move_: Work with DM to create a special move using your elemental powers.
 * Reptilian
 :PROPERTIES:
 :ID:       f3aea7e2-31c3-4e42-ac67-e98b10b7977b
 :END:
 Reptilian inhabitants of a foreign land that have made their first strides towards integrating into greater society. Covered in scaly armor and possessing the ability to breath underwater, this species has had a difficult time operating in extreme cold but gets advantages on their actions in extreme heat.
 
+Reptilians speak Lizard.
 ** Racial Traits
-Waterbreathing
-Weakness to cold
-Heat advantage
+- Waterbreathing
+- Weakness to cold
+- Heat advantage
+- _Foul Creature_: Other races will view you with disdain
 -----
