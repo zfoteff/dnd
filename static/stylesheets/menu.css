@@ -1,0 +1,28 @@
+body {
+    margin: 2.5em;
+    font-family: 'Fira Code';
+    font-size: 18px;
+}
+
+#postamble.status {
+    display: none;
+    visibility: hidden;
+}
+
+#table-of-contents {
+    display: none;
+    visibility: hidden;
+}
+
+.menu {
+    padding-top: 10%;
+    margin-bottom: 10%;
+    height: 35vh;
+    text-align: center;
+}
+
+.section-number-2 {
+    /* Remove the numbers from section headers */
+    display: none;
+    visibility: hidden;
+}

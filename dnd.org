@@ -6,9 +6,9 @@
 #+author:   zfoteff
 #+date:     [2023-07-05 Wed]
 #+summary:  Landing page for DnD content
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="static/stylesheets/default-style.css" />
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="static/stylesheets/menu.css" />
 -----
-#+BEGIN_CENTER
+#+begin_menu
 [[file:character-sheet.pdf][Blank Character Sheet]]
 
 World Overview
@@ -22,5 +22,5 @@ World Overview
 [[id:b1b752cb-445c-4902-999d-443c83d5113a][Spell Index]]
 
 [[id:a3719559-2b06-443a-b75a-96c9aa3f3b26][Glossary]]
-#+END_CENTER
+#+end_menu
 -----
