@@ -8,7 +8,7 @@
 #+summary:  Campaign race details
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="static/stylesheets/subclass-style.css" />
 #+BEGIN_CENTER
-[[[id:7d419730-2064-41f9-80ee-f24ed9b01ac7][Main Menu]]] [[[id:f1eac65b-54c1-49f8-b117-e7d46f40b82c][Player Introduction]]] [[[id:69ef1740-156a-4e42-9493-49ec80a4ac26][Classes]]]
+[[[id:7d419730-2064-41f9-80ee-f24ed9b01ac7][Main Menu]]]
 #+END_CENTER
 -----
 #+CAPTION: Character Race Overview
@@ -67,7 +67,7 @@ Straight from the fires of Hell, demons blend into the world, causing strife and
 :PROPERTIES:
 :ID:       b6aa2e4f-98c1-4c7a-bc9a-fc65a80e306c
 :END:
-Nobody quite knows how the hobbit came to be in WORLD. All that is known is that the race has seemly existed on the fringes of society, outlasting kingdoms and empires by avoiding notice and keeping to themselves. They're concerned with basic needs and simple pleasures, but have little patience for complex plans and grand designs.
+Nobody quite knows how the hobbit came to be. All that is known is that the race has seemly existed on the fringes of society, outlasting kingdoms and empires by avoiding notice and keeping to themselves. They're concerned with basic needs and simple pleasures, but have little patience for complex plans and grand designs.
 
 ** Racial traits
 - _Brave_: You have advantage on saving throws against being frightened
