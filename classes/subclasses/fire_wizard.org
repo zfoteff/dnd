@@ -13,31 +13,24 @@
 -----
 Even though they require an existing source of fire for the first few levels. Until the Pyromancer trait is learned (or the Cursed Fire spell), they will often have to expend a turn to light a fire or mak sure a fire exists to be useful in combat.
 
-* Elemental Traits
-_*Fire Immunity*_: Become immune to fire damage for the rest of the game. You will still take half damage if the fire damage is paired with another type of damage.
-
-_*Pyromancer*_: Become able to create fire on any inanimate object within a ten foot radius as a bonus action. If placed on a living creatures clothing, they may use a turn to remove the clothing before being affected by fire damage.
+* Wizard Traits
+- _/Fire Immunity/_: Become immune to fire damage for the rest of the game. You will still take half damage if the fire damage is paired with another type of damage.
 * Level 1 Spells
-_*Sear*_: Heat a non-living object to 100 degrees Celsius by laying a hand on it. The object stays at this temperature for one minute and cools down to its normal temperature over the next 5 minutes. This spell can destroy objects. Creatures who touch the object take 2d8 fire damage if heated to full temperature and 1d8 damage in the cooldown period.
-
-_*Flame Throw *_: Roll to hit. On a roll of over 11, throw an already existing flame (that you can see) from one location to another. The projectile is a ball with a 3-inch radius, and upon impact deals 1d10 fire damage to everyone within a two-foot radius. This requires the existence of a flame in the environment (size does not matter), meaning that occasionally Fire Wizards will have to expend a turn to light a fire before using flame through.
-
-_*Combust*_: Enlarge an existing flame that you can see to have a ten foot radius. Everyone within the radius takes 2d8 fire damage as long as they are in the zone, or half upon a constitution save. Combust does not create a new flame. The fire lasts for two minutes.
+- _*Sear*_: Heat a non-living object to 100 degrees Celsius by laying a hand on it. The object stays at this temperature for one minute and cools down to its normal temperature over the next 5 minutes. This spell can destroy objects. Creatures who touch the object take 2d8 fire damage if heated to full temperature and 1d8 damage in the cooldown period.
+- _*Flame Throw*_: Roll to hit. On a roll of over 11, throw an already existing flame (that you can see) from one location to another. The projectile is a ball with a 3-inch radius, and upon impact deals 1d10 fire damage to everyone within a two-foot radius. This requires the existence of a flame in the environment (size does not matter), meaning that occasionally Fire Wizards will have to expend a turn to light a fire before using flame through.
+- _*Combust*_: Enlarge an existing flame that you can see to have a ten foot radius. Everyone within the radius takes 2d8 fire damage as long as they are in the zone, or half upon a constitution save. Combust does not create a new flame. The fire lasts for two minutes.
 * Level 2 Spells
-_*Ignite*_: Roll to hit. On success, set a living creature within 50 feet on fire. They take 2d12 fire damage per turn until they put the fire out.
-
-_*Snuff Out*_: Put out all fire within a 100-foot radius.
-
-_*Cursed Fire*_: Create a small orb of cursed flame in your hand. This lasts for five turns and cannot be destroyed without strong magic or the Snuff Out spell. Cursed fire can be manipulated in the same way as normal fire. It deals 1d10 extra damage to people touching the cursed flame.
+- _*Ignite*_: Roll to hit. On success, set a living creature within 50 feet on fire. They take 2d12 fire damage per turn until they put the fire out.
+- _*Pyromancer*_: Become able to create fire on any inanimate object within a ten foot radius as a bonus action. If placed on a living creatures clothing, they may use a turn to remove the clothing before being affected by fire damage.
+- _*Snuff Out*_: Put out all fire within a 100-foot radius.
+- _*Cursed Fire*_: Create a small orb of cursed flame in your hand. This lasts for five turns and cannot be destroyed without strong magic or the Snuff Out spell. Cursed fire can be manipulated in the same way as normal fire. It deals 1d10 extra damage to people touching the cursed flame.
 * Level 3 Spells
-_*Inferno*_: Cast a whirlwind of fire (20ft radius) in any location in a 150ft radius. The inferno lasts for 3 turns and deals 3d10 fire damage per turn to all creatures, allies included. All people affected may roll a constitution save to take half damage. No roll to hit required.
-
-_*Summon Fire Elemental*_: Summon a fire elemental to fight for you for six turns. The elemental has 50 health, deals 2d8 damage on hit, and has a 15 AC. If it lands the killing blow on an enemy, it stays around for an additional three turns. The fire elemental can only be summoned if there is some sort of fire nearby and the party is in combat.
+- _*Inferno*_: Cast a whirlwind of fire (20ft radius) in any location in a 150ft radius. The inferno lasts for 3 turns and deals 3d10 fire damage per turn to all creatures, allies included. All people affected may roll a constitution save to take half damage. No roll to hit required.
+- _*Summon Fire Elemental*_: Summon a fire elemental to fight for you for six turns. The elemental has 50 health, deals 2d8 damage on hit, and has a 15 AC. If it lands the killing blow on an enemy, it stays around for an additional three turns. The fire elemental can only be summoned if there is some sort of fire nearby and the party is in combat.
 * Level 4 Spells
-_*Damnation*_: Cast one creature (demigods included) of your choosing into Hell. While there, they take a extreme amount of damage (depending on the current state of Hell), see unspeakable horrors, and come back with the Fear, Horror, Curse, and Damned debuffs. Add an additional +5 on roll to hit.
-
-_*Meteor*_: Summon a massive meteor to land in a location that you can see. Most terrain (except that protected by strong or divine magic) is destroyed by the meteor. Allies take damage from the meteor as well. All targets taking damage from the meteor may roll a constition saving throw to take 1/2 damage. No roll to hit is required.
-- 1000-foot radius: 15d12 fire / force damage. Become crushed under the meteor and become unable to move until excavated.
-- 500-foot radius: 10d12 fire / force damage
-- 250-foot radius: 5d12 fire / force damage
-- 100-foot radius: 2d12 fire / force damage
+- _*Damnation*_: Cast one creature (demigods included) of your choosing into Hell. While there, they take a extreme amount of damage (depending on the current state of Hell), see unspeakable horrors, and come back with the Fear, Horror, Curse, and Damned debuffs. Add an additional +5 on roll to hit.
+- _*Meteor*_: Summon a massive meteor to land in a location that you can see. Most terrain (except that protected by strong or divine magic) is destroyed by the meteor. Allies take damage from the meteor as well. All targets taking damage from the meteor may roll a constition saving throw to take 1/2 damage. No roll to hit is required.
+  - 1000-foot radius: 15d12 fire / force damage. Become crushed under the meteor and become unable to move until excavated.
+  - 500-foot radius: 10d12 fire / force damage
+  - 250-foot radius: 5d12 fire / force damage
+  - 100-foot radius: 2d12 fire / force damage

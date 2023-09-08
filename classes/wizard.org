@@ -17,6 +17,12 @@ To begin as a wizard, choose an element to subclass into: [[[id:7141f6ab-b3bc-4e
 
 - _Initial Health_: Roll 1d6 and add it to your base HP.
 
+* Proficiencies
+| Armor | Weapons       | Tools |
+|-------+---------------+-------|
+|       | Staffs        |       |
+|       | Daggers       |       |
+|       | Quarterstaffs |       |
 * Level-up guide
 1. Pick one generic spell, one wizard spell, and one elemental spell (consult your subclass page). You begin the game with three level one spell slots (Total: 3 lvl1, 0 lvl2, 0 lvl3, 0 lvl4). All three reset on every long rest. Spell slots are only used up during combat encounters.
 2. Add one generic spell and one wizard spell to your spell list. Add 1d6 to your health.

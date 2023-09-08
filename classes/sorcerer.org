@@ -22,9 +22,11 @@ Spells are cast using
 - Gain +1 Crafting
 
 * Proficiencies
-| Armor | Weapons | Tools |
-|-------+---------+-------|
-|       |         |       |
+| Armor | Weapons       | Tools |
+|-------+---------------+-------|
+|       | Staffs        |       |
+|       | Daggers       |       |
+|       | Quarterstaffs |       |
 * Level-up guide
 1. Pick one generic spell, one sorcerer spell, and one sorcery (consult your subclass page). You begin the game with three level one spell slots (Total: 3 lvl1, 0 lvl2, 0 lvl3, 0 lvl4). All three reset on every long rest. Spell slots are only used up during combat encounters.
 2. Add one generic spell and one sorcerer spell to your spell list. Roll 1d6 and add to your health.

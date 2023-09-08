@@ -22,13 +22,21 @@ Defend the faith and the faithful with the might of your god. Whether sworn befo
 |           | Swords   |       |
 |           | Lances   |       |
 |           | Halberds |       |
+|           | Fists    |       |
 * Level-up
 1. Gain one subclass ability and pick one spell.
 
    Also gain _Divine Sense_. The presence of strong evil registers on your senses like a harsh sound and powerful good rings like heavenly music. As an action, you can open your awareness to detect such. You can use this feature a number of times equal to 1 + your CHA modifier. You regain all uses on a long rest.
-2. Learn a _Fighting Style_
+2. Learn a _Fighting Style_. You can't take a Fighting Style option more than once, even if you later get to choose again.
+   - Blind Fighting: You have blindsight with a range of 10 feet. Within that range, you can effectively see anything that isn't behind total cover, even if you're blinded or in darkness. Moreover, you can see an invisible creature within that range, unless the creature successfully hides from you.
+   - Dueling: When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.
+   - Great Weapon Fighting. When you roll a 1 or 2 on a damage die for an attack you make with a melee weapon that you are wielding with two hands, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2.
+   - Unarmed Fighting (UA). Your unarmed strikes can deal bludgeoning damage equal to 1d6 + your Strength modifier. If you strike with two free hands, the d6 becomes a d8. When you successfully start a grapple, you can deal 1d4 bludgeoning damage to the grappled creature. Until the grapple ends, you can also deal this damage to the creature whenever you hit it with a melee attack.
 3. Gain _Divine Smite_: When you hit a creature with a melee weapon attack, you can expend one spell slot to deal Radiant damage to the target in addition to the weapon's regular damage. The extra damage is 2d8 for a 1st-level spell slot, plus 1d8 for each spell level higher than 1st, to a max of 5d8. The damage increases by 1d8 if the target is undead.
 4. Gain +1 to any. Gain one subclass ability. Become proficient in an additional class of weapon.
 5. Gain a subclass ability. Gain +1 INT and +1 CHA
-6.
+
+#+BEGIN_CENTER
+--- 🚧 Under Construction 🚧 ---
+#+END_CENTER
 * Footnotes

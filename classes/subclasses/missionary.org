@@ -11,16 +11,27 @@
 [[[id:7d419730-2064-41f9-80ee-f24ed9b01ac7][Main Menu]]] [[[id:69ef1740-156a-4e42-9493-49ec80a4ac26][Classes]]] [[[id:940552be-47cf-48ff-8ca0-8c2b7f629052][Paladin]]]
 #+END_CENTER
 -----
-Brainless devotee of their faith. Absolute conversation-killers. Casts spells with Intelligence primarily. Does not require a catalyst to cast spells, can instead cast spells entirely with the power of their blind faith.
+Brainless devotee of their faith. Absolute conversation-killers. Casts spells with Charisma primarily. Does not require a catalyst to cast spells, can instead cast spells entirely with the power of their blind faith.
 
+* Paladin Traits
+- _/Ass Kisser/_: Regardless of your actions in the campaign, you will be considered Good creature by everyone you encounter, including the gods. Good for you.
 * Level 1
-- Gain _Judgment_:
+- Gain _*Judgment*_:
+- Gain _**_:
 * Level 2
-- Gain _Evangelism_: Convince low level INT targets around you to your faith by singing the praises of your God and preaching to the people. The power of your sermon will determine how many you can convince to ally with you in your endeavors.
-- Gain Bake Sale
+- Gain _*Evangelism*_: Convince low level INT targets around you to your faith by singing the praises of your God and preaching to the people. The power of your sermon will determine how many you can convince to ally with you in your endeavors.
+- Gain _*Bake Sale*_
 * Level 5
+- Gain _*Rebuke*_: Shun a non-believer and make them cower in the light of your lord. The target can take no actions and has -2 AC for 5 turns
+- Gain _**_:
 * Level 10
+- Gain _*Memorize Scripture*_: Decipher a written spell (such as a scroll) once per day without needing to know the language or needing to remove any magical obfuscation.
+- Gain _*Never Ending Sermon*_: Hold the attention of all targets that fail a Religion check
 * Level 15
-- Gain _Repentance_: Repent for an in-game sin that you committed and gain the following buffs for 3 turns:
+- Increase the power of _*Evangelism*_ so that you simply have to be in the presence of most mid to low level INT targets to convince them to join your cause.
+- Gain _*Repentance*_: Repent for an in-game sin that you committed and gain the following buffs for 3 turns:
   - +3 INT
+  - +3 CHA
+  - +5 AC
 * Level 19
+- Gain _*Judgment Day*_: Call on the gods to judge a target of your choosing. If they success in judgment, they will receive the Blessed buff and are healed to half health. If they fail judgment, they take 15d10 radiant damage.

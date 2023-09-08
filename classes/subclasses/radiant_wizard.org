@@ -11,3 +11,22 @@
 [[[id:7d419730-2064-41f9-80ee-f24ed9b01ac7][Main Menu]]] [[[id:69ef1740-156a-4e42-9493-49ec80a4ac26][Classes]]] [[[id:3e1b93b3-f1ad-4148-bb16-5313b376a707][Wizard]]]
 #+END_CENTER
 -----
+Radiant Wizards operate in the middle ground between Wizard and Bard, occasionally acting as a healer for the rest of the party. However, they have the capability to deal extreme amounts of damage under specific conditions. They can grant buffs and debuffs to allies and enemies, but are limited in their abilities against Good NPCs.
+
+* Wizard Traits
+- _/Ass Kisser/_: Regardless of your actions in the campaign, you will be considered Good creature by everyone you encounter, including the gods. Good for you.
+- _/Healer/_: From now on, all healing in your party that takes place within 50 feet of you receives a 1d6 bonus.
+* Level 1 Spells
+- _*Bless*_: Grant an ally the Blessed buff and heal them for 1d8 health. This cannot revive them from the dead.
+- _*Blind*_: Deal 1d8 radiant damage to all enemies within 50ft that can see you. All effected enemies get the Blinded debuff for two turns. /Once blinded, an enemy cannot be blinded again by this spell in the same combat encounter/.
+- _*Divine Guidance*_: If pursuing a goal the DM determines to be Good in nature, recieve a minor bit of advice, healing for 1d8 health, or the answer to a minor dilemma. /Can only be cast once per long rest/.
+* Level 2 Spells
+- _*Grace*_: Heal 2 allies below half health to half health, or revive one unconscious ally to 5 health. You do not need to roll to hit for this spell.
+- _*Smite*_: Deal 3d8 Radiance damage to all Neutral or Evil enemies in a 50ft radius. They receive a Cursed debuff if they are Evil. /Can only be used once per combat encounter/.
+- _*Illuminate*_: Reveal any hidden or camouflaged traps or enemies within 100ft. Everyone in the party gains +4 Insight rolls for the next 2 turns.
+* Level 3 Spells
+- _*Summon Angel*_: Summon an Angel to fight in combat for you for five turns. The Angel had 50HP, 15 AC, and deals 3d8 damage on hit. The Angel will only attack Evil or Neutral enemies.
+- _*Shackles*_
+* Level 4 Spells
+- _*Beatification*_: Send a creature of your choosing to Heaven. They return from Heaven fully healed, fully rested, and with a variety of buffs. No roll is necessary to perform this spell. /This spell has two charges, and must be recharged with a University Ritual/.
+- _*Judgment Day*_: All Evil and Neutral creatures in the vicinity will have their lives judged by the Gods. If they success in judgment, they will recieve the Blessed buff and are healed to half health. If they fail judgment, they take 15d10 radiant damage.
