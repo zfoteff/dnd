@@ -1,53 +1,134 @@
 :PROPERTIES:
-:ID:       b1b752cb-445c-4902-999d-443c83d5113a
+:ID:       49c66431-d9c7-4213-ae29-b62365fd32d4
 :END:
 #+title:    Spell Index
-#+filetags: :DND:spells:
+#+filetags: :DND:spells:guide:
 #+author:   zfoteff
 #+date:     [2023-08-08 Tue]
-#+summary:  Index of all spells organized into subclasses
-#+startup:  show2levels
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../static/stylesheets/default-style.css" />
+#+summary:  Spell index containing all spells and subsections of spells/cantrips
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../static/stylesheets/index-style.css" />
 #+BEGIN_CENTER
-[ [[id:49c009a8-dbe3-4867-a616-60c55d87ed54][DM Menu]] ]
+[[[id:7d419730-2064-41f9-80ee-f24ed9b01ac7][Main Menu]]]
 #+END_CENTER
 -----
 * Cantrips
-:PROPERTIES:
-:ID:       cf1edede-9c94-407b-bfeb-517afcef0ceb
-:END:
 ** Druid Cantrips
 :PROPERTIES:
-:ID:       b32b2d16-0b71-4af9-9464-b5575f720a99
+:ID:       6d25c67e-615a-45ed-a675-fa7cbedb2941
 :END:
 - _*Befriend*_: Roll a charisma check. On 14 or higher, turn any non-intelligent creature you are on neutral terms with into an ally. This effect lasts for twenty minutes, after which the creature will enter a state of confusion with a 50% potential to lash out at the party.
-- _*Transform*_: Select an animal. From now on, you can transform into this wild animal. Ask the DM about its statistics. One important difference from base DnD rules: the percentage of health that you have stays with you throughout the transformation.
+- _*Transform*_: When you first learn Druid Alchemy, select an animal. From now on, you can transform into this wild animal. Ask the DM about its statistics. One important difference from base DnD rules: the percentage of health that you have stays with you throughout the transformation.
+-----
 * Spells
-:PROPERTIES:
-:ID:       9e96d3e7-866f-4393-8ac0-c51a7fcc2500
-:END:
 ** Wizard Spells
-:PROPERTIES:
-:ID:       59b1702f-8c0c-4152-835f-28689599e262
-:END:
+*** Generic Spells
+**** Level 1
+**** Level 2 (5+)
+**** Level 3 (11+)
+**** Level 4 (15+)
+-----
+*** [[id:7141f6ab-b3bc-4eeb-9e7e-071452bfc673][Fire Wizard]]
+**** Level 1
+- _*Sear*_: Heat a non-living object to 100 degrees Celsius by laying a hand on it. The object stays at this temperature for one minute and cools down to its normal temperature over the next 5 minutes. This spell can destroy objects. Creatures who touch the object take 2d8 fire damage if heated to full temperature and 1d8 damage in the cooldown period.
+- _*Flame Throw*_: Roll to hit. On a roll of over 11, throw an already existing flame (that you can see) from one location to another. The projectile is a ball with a 3-inch radius, and upon impact deals 1d10 fire damage to everyone within a two-foot radius. This requires the existence of a flame in the environment (size does not matter), meaning that occasionally Fire Wizards will have to expend a turn to light a fire before using flame through.
+- _*Combust*_: Enlarge an existing flame that you can see to have a ten foot radius. Everyone within the radius takes 2d8 fire damage as long as they are in the zone, or half upon a constitution save. Combust does not create a new flame. The fire lasts for two minutes.
+**** Level 2 (5+)
+- _*Ignite*_: Roll to hit. On success, set a living creature within 50 feet on fire. They take 2d12 fire damage per turn until they put the fire out.
+- _*Pyromancer*_: Become able to create fire on any inanimate object within a ten foot radius as a bonus action. If placed on a living creatures clothing, they may use a turn to remove the clothing before being affected by fire damage.
+- _*Snuff Out*_: Put out all fire within a 100-foot radius.
+- _*Cursed Fire*_: Create a small orb of cursed flame in your hand. This lasts for five turns and cannot be destroyed without strong magic or the Snuff Out spell. Cursed fire can be manipulated in the same way as normal fire. It deals 1d10 extra damage to people touching the cursed flame.
+**** Level 3 (11+)
+- _*Inferno*_: Cast a whirlwind of fire (20ft radius) in any location in a 150ft radius. The inferno lasts for 3 turns and deals 3d10 fire damage per turn to all creatures, allies included. All people affected may roll a constitution save to take half damage. No roll to hit required.
+- _*Summon Fire Elemental*_: Summon a fire elemental to fight for you for six turns. The elemental has 50 health, deals 2d8 damage on hit, and has a 15 AC. If it lands the killing blow on an enemy, it stays around for an additional three turns. The fire elemental can only be summoned if there is some sort of fire nearby and the party is in combat.
+**** Level 4 (15+)
+- _*Damnation*_: Cast one creature (demigods included) of your choosing into Hell. While there, they take a extreme amount of damage (depending on the current state of Hell), see unspeakable horrors, and come back with the Fear, Horror, Curse, and Damned debuffs. Add an additional +5 on roll to hit.
+- _*Meteor*_: Summon a massive meteor to land in a location that you can see. Most terrain (except that protected by strong or divine magic) is destroyed by the meteor. Allies take damage from the meteor as well. All targets taking damage from the meteor may roll a CON saving throw to take 1/2 damage. No roll to hit is required.
+  - 1000-foot radius: 15d12 fire / force damage. Become crushed under the meteor and become unable to move until excavated.
+  - 500-foot radius: 10d12 fire / force damage
+  - 250-foot radius: 5d12 fire / force damage
+  - 100-foot radius: 2d12 fire / force damage
+-----
+*** [[id:4ebd35da-05f7-456f-88b8-c8865a270b8f][Storm Wizard]]
+**** Level 1
+- _*Rainstorm*_: It begins raining in a half-mile radius around the caster. This rainstorm may take up to five minutes to begin, depending on the caster's environment. Does not work in Hell.
+- _*Freeze*_: Roll to hit. On hit, freeze a living creature. While frozen, they cannot move, but can still cast spells and attack enemies within 5 feet. They must roll a constitution save to become unfrozen.
+- _*Icicle Hand*_: Transform your dominant hand into an icicle. You may stab people without fear of it breaking. The icicle deals 1d10 freeze / piercing damage. This lasts for three turns, and if you successfully stab the same enemy all three turns, they take an extra 2d6 freeze damage.
+**** Level 2 (5+)
+- _*Lightning Bolt*_: Roll to hit. On hit, summon a lightning bolt from the heavens to strike a target you can see. They take 3d8 lightning damage, and are stunned for one turn if they fail a constitution check.
+- _*Electric Rain*_: If it's raining, charge raindrops with electricity. Everyone in the rainstorm (allies included) takes 1d8 lightning damage per turn for 8 turns. /This spell cannot be canceled once cast/.
+- _*Flood*_: Create a wave of water to sweep through the area you designate. The wave begins in the first area out of your eyesight, and gains a foot in size for every 25 feet it travels. At a certain distance away you may be unable to control the size and/or damage of the spell, so use it wisely. /The flood deals half damage to the allies/.
+**** Level 3 (11+)
+- _*Summon Store Elemental*_: Use your action to summon a storm elemental to fight for you for 6 turns. It has 50 health, deals 2d8 damage on hit, and it has 15 AC. If it lands the killing blow to a target, it stays around for an additional three turns. The storm elemental can only be summoned if there is some sort of water nearby and the party is in combat.
+- _*Tornado*_: Create a tornado within a 20-foot radius that you are able to control for three turns. It deals 3d8 force damage per turn, but enemies can still avoid damage on a constitution saving throw. /If it is raining during the creation of the tornado, it deals 4d8 force damage instead/. You must concentrate to control the tornado so you cannot move from your position, and if your concentration is broken, it will vanish after the current turn.
+**** Level 4 (15+)
+- _*Entomb*_: Seal a creature within ice for the next month. This only takes effect if they fail a constitution saving throw (DC 18). During this time, they drop to one health, but do not die and are conscious of the events around them. Entomb instantly kills fire-based creatures. /Huge creatures cannot be entombed/.
+- _*Hurricane*_: Create a hurricane in any place that /you have been before/. The hurricane lasts for ten turns and deals d10 ice / force damage per turn to all people who fail a constitution saving throw. Its radius is 500 feet. If a creature is damaged by the hurricane twice in a row, they also take the preceding turn's damage.
+-----
+*** [[id:8153acaf-ac20-4b00-8ac0-fa423c4ff5ce][Radiant Wizard]]
+**** Level 1
+- _*Bless*_: Grant an ally the Blessed buff and heal them for 1d8 health. This cannot revive them from the dead.
+- _*Blind*_: Deal 1d8 radiant damage to all enemies within 50ft that can see you. All effected enemies get the Blinded debuff for two turns. /Once blinded, an enemy cannot be blinded again by this spell in the same combat encounter/.
+- _*Divine Guidance*_: If pursuing a goal the DM determines to be Good in nature, receive a minor bit of advice, healing for 1d8 health, or the answer to a minor dilemma. /Can only be cast once per long rest/.
+**** Level 2 (5+)
+- _*Grace*_: Heal 2 allies below half health to half health, or revive one unconscious ally to 5 health. You do not need to roll to hit for this spell.
+- _*Smite*_: Deal 3d8 Radiance damage to all Neutral or Evil enemies in a 50ft radius. They receive a Cursed debuff if they are Evil. /Can only be used once per combat encounter/.
+- _*Illuminate*_: Reveal any hidden or camouflaged traps or enemies within 100ft. Everyone in the party gains +4 Insight rolls for the next 2 turns.
+**** Level 3 (11+)
+- _*Summon Angel*_: Summon an Angel to fight in combat for you for five turns. The Angel had 50HP, 15 AC, and deals 3d8 damage on hit. The Angel will only attack Evil or Neutral enemies.
+- _*Shackles*_: Bind a target to the ground with blessed shackles. The target must make a CON saving throw to escape the shackles. The target takes 2d6 radiant damage from the shackles until they escape.
+**** Level 4 (15+)
+- _*Beatification*_: Send a creature of your choosing to Heaven. They return from Heaven fully healed, fully rested, and with a variety of buffs. No roll is necessary to perform this spell. /This spell has two charges, and must be recharged with a University Ritual/.
+- _*Judgment Day*_: All Evil and Neutral creatures in the vicinity will have their lives judged by the Gods. If they success in judgment, they will receive the Blessed buff and are healed to half health. If they fail judgment, they take 15d10 radiant damage.
+-----
 ** Sorcerer Spells
-:PROPERTIES:
-:ID:       00bc2086-0ef2-4750-b9c3-bf47ea234f67
-:END:
-*** Level 1:
+*** [[id:8cf16f81-68be-4205-9ff9-1c803443f6bc][Chaos Sorcerer]]
+**** Level 1:
 - _*Reversion*_: Move all targets within a 20-foot radius to the location they were in the previous turn. This location can be more than 20-feet away from the caster. /You cannot send targets back to other realms with this spell./
 - _*Vitality Drain*_: Pick a target  within a 30-foot radius to make a CON saving throw. On failure decrease the target's maximum health by the amount of damage they took in the previous turn. Until combat is over, they are stuck with that maximum health and cannot be healed above it.
 - _*Randomness*_: On hit, deal 1d10 of a random type of damage to one target in a 30-foot radius
-*** Level 2 (5+):
+**** Level 2 (5+):
 - _*Retroactive Omen*_: Learn what type of damage a target is vulnerable to. The last three attacks from your allies were now of that damage type. Adjust the target's health accordingly
 - _*Return*_: Teleport the party to a place you have been in the past 3 campaign sessions. /Return is non-reversible. You must return to a Temple of Chaos to use the spell again/.
 - _*Confuse*_: Force a target within a 50-foot radius to make a CON saving throw. On failure, deal 1d8 damage to them for three turns. For those three turns, the target is confused about who started the fight and will target a random ally of theirs.
-*** Level 3 (11+):
+**** Level 3 (11+):
 - _*Lingering Wound*_: Roll to a hit a target within 30-feet of the caster. On hit, all damage an enemy has previously taken increases by 50%. Ex: If they have taken 10 damage, they take an additional 5 damage
 - _*Makeover*_: Change your race, or the race of a consenting ally. This effect does not wear off and only has three charges.
-*** Level 4 (16+):
+**** Level 4 (15+):
 - _*Back to the Future*_: Permanently alter some aspect of the past. This spell has two charges, /you must return to a Temple of Chaos to regain charges/. You must work with the DM to decide how powerful this spell is, but you may change the circumstances of your present to include
   - Revive an ally
   - The death of any enemy that you reasonably could have defeated in combat
   - The prevention of a minor/medium mistake you made
 - _*Variety!*_: On hit, deal 10d8 damage - 1d8 of each of the twelve types of damage
+-----
+*** [[id:ca360c77-3d1d-43f3-9b6b-e65bb2b1f686][Order Sorcerer]]
+**** Level 1
+- _*Delayed Gratification*_: Roll to hit two enemies within 20 feet. If successful, next turn both enemies will take 2d6 force damage.
+- _*Cripple*_: Roll to hit. If successful, an enemy's attack roll will be lowered by 4 for the next 3 turns. After one turn, they can try once to make a Constitution saving throw to escape the crippling.
+- _*Alter Future*_: Sacrifice your turn to grant an ally two turns the next time they are up in combat. This incantation does not need to roll to hit. If the ally is stunned or otherwise unable to move, your turn is refunded.
+**** Level 2 (5+)
+- _*Borrowed Luck*_: Grant all allies +3 on rolls next turn. This spell does not apply to you.
+- _*Premonition*_: Briefly see the future. Learn one possible path the future could follow (details up to DM discretion). You can only see what will happen to you, not your companions or other NPCs, unless you decide to focus on them, in which case you will have no knowledge of your future.
+- _*Coming Storm*_: Roll to hit one enemy within 50 feet. If successful, next turn that enemy will take 2d10 lightning damage. /Lawful enemies cannot be affected by Coming Storm/.
+**** Level 3 (11+)
+- _*Omen*_: Learn what type of damage all enemies are vulnerable to. For the rest of combat, all allies attacks that deal force damage deal that type of damage instead. All attacks against enemies deal 1.25% more damage for two turns.
+- _*Lockout*_: Accelerate the effects of all magical effects two turns. Next turn you are the only person able to use magic. /Some magic is not affected by *Lockout*. Consult with DM./
+**** Level 4 (15+)
+- _*Omniprecient*_: You now have the ability to become prescient of all future events for a given quest or storyline. You may work with the DM to decide some aspect of the future that you would like to change. Because of the (broken) nature of this power, This spell is highly limited, but can alter the course of a campaign. /You must visit a Temple of Order to regain the power/.
+- _*Predestination*_: Roll to dictate the moves of all enemies for the next turn. You can force them to perform any action available to the character. However, you can only force them to perform actions you are aware of -- you do not gain complete insight into all enemy abilities. After the turn deal 2d12 damage to all affected enemies
+-----
+*** [[id:569f7d4d-5744-49e4-ac0d-bebbd1795992][Psychic Sorcerer]]
+**** Level 1
+- _*Migraine*_: Roll to hit. On hit, give a target a headache for three turns. Deal 1d8 madness damage on the first turn, 1d6 psychic damage, and 1d4 psychic damage.
+- _*Cursed Knowledge*_: Allow a party member to glimpse the insanity. Give this member +4 insight for the whole turn.
+- _*Discordant Whisper*_: You whisper a discordant melody that only one creature of your choice within range can hear, wracking it with terrible pain. The target must make a Wisdom saving throw. On a failed save, it takes 3d6 psychic damage and must immediately use its reaction, if available, to move as far as its speed allows away from you. The creature doesn’t move into obviously dangerous ground, such as a fire or a pit. On a successful save, the target takes half as much damage and doesn’t have to move away. A deafened creature automatically succeeds on the save.
+**** Level 2 (5+)
+- _*Jedi Mind Trick*_: You know the rules. This automatically succeeds on every creature with less than 13 INT. Creatures at or above 13 INT must roll a INT saving throw. /The extent of this ability is up to DM discretion/
+- _*Bad Memory*_: Force a target to make a WIS saving throw. On fail, they take 1d8 madness damage and attempt to run away and cry. If they cannot run away (due to stun, root, etc), they take an additional 2d8 madness damage
+- _*Confuse*_: Force a target to make a WIS saving throw. On fail, their next attack is against a random target in combat and the attack does half damage.
+**** Level 3 (11+)
+- _*Mind Reader*_: Twice per long rest, discern the exact intentions of a creature as well as one additional fact about them. This ability can be used only when engaged in conversation with the subject.
+- _*Delirium*_: Once per combat, force a target to make a CON saving throw. On failure, the target attacks one member of their party (or themselves if alone), run away, and suffer the effects of madness for a turn.
+**** Level 4 (15+)
+- _*Mind Control*_: Force any creature but one of the gods to make a WIS, CON, and INT saving throw. The extent to which you mind control this person depends on how many of the saving throws they succeed on. From then on, the creature will do you bidding (/with some DM intervention/). Gain one charge every 2 long rests.
+- _*Mass Hallucination*_: Change one facet of history forever. The practical outcome of the event will remain the same, but everyone will remember the event differently. How different will depend on how you'd like to change the event.
+-----

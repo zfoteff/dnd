@@ -40,3 +40,29 @@ return f"(modifier) {modifier}{escape_text}{escape_text.join(map(str,dice_set))}
 : =	14
 
 #+NAME: Roll D20 with Advantage
+* Stat Generation
+#+NAME: Generate Stats
+#+BEGIN_SRC python :var challenge_rating=1 :var num_to_generate
+from random import randint
+
+class Foe:
+    def _set_stats(self, challenge_rating: float) -> None:
+        pass
+
+    def __init__(self, challenge_rating: float) -> None:
+        self.challenge_rating = challenge_rating
+        self.health_points = 0
+        self.strength = 0
+        self.
+
+        self._set_stats()
+
+    def __str__(self) -> str:
+        return f"{}"
+
+def main():
+    pass
+
+if __name__ == "__main__":
+    main()
+#+END_SRC

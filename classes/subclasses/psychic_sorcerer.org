@@ -16,7 +16,6 @@ Something in your mind has unhinged, and in an absolute fluke this has unlocked 
 * Sorcerer Traits
 - /Gift of Gab/: For one reason or another, you're a enthralling speaker. Your persuasion attempts have advantage
 - /Schizoid/:
-- //:
 * Level 1 Sorceries
 - _*Migraine*_: Roll to hit. On hit, give a target a headache for three turns. Deal 1d8 madness damage on the first turn, 1d6 psychic damage, and 1d4 psychic damage.
 - _*Cursed Knowledge*_: Allow a party member to glimpse the insanity. Give this member +4 insight for the whole turn.

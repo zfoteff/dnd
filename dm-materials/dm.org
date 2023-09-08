@@ -21,7 +21,6 @@
 :ID:       f84862af-5972-48b4-a67f-9144377efd29
 :END:
 - [[id:23919bd5-7bb0-4743-ae81-f07566ccd236][Damage Guide]]
-- [[id:b1b752cb-445c-4902-999d-443c83d5113a][Spell Index]]
 - [[id:f10dc3fb-122b-4842-8b68-22aa974d9a57][Alchemy Index]]
 - [[id:628c4f0e-762b-428b-9a2c-03f97bb24737][Druid Circles]]
 - [[id:23919bd5-7bb0-4743-ae81-f07566cad236][Material Guide]]

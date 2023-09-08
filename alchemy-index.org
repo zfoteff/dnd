@@ -1,9 +1,0 @@
-#+title: Alchemy Index
-#+author: zfoteff
-#+date: [2023-08-08 Tue]
-#+summary: Alchemy index containing all alchemy
-
-* Druid Alchemy
-:PROPERTIES:
-:ID:       6dd939cd-d9bc-4221-9f79-a70e94c6337f
-:END:

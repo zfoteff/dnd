@@ -68,18 +68,24 @@ Your proficiency bonus +2 to start
 Your speed is 30 to start
 ** Pick your starting gear
 Select your equipment based on various difficulty levels. Don't worry, this gear will quickly be replaced, but it should get you to level 3 easily. Record these values in their appropriate places on your character sheet.
-#+CAPTION: Warrior / Monk Loadout Selection
+#+CAPTION: Warrior Loadout Selection
 | Category    | Easy Loadout                                  | Recommended Loadout                      | Challenge Loadout   |
 |-------------+-----------------------------------------------+------------------------------------------+---------------------|
 | Armor       | Studded Leather Armor: 12 AC                  | Leather Armor: 11 AC                     | No Armor: 10 AC     |
 | Weapon      | Steel Longsword - 2d6 / slashing (PROF + STR) | Iron Spear - 1d8 / piercing (PROF + DEX) | Dagger - 1d4 (PROF) |
 | Bonus Items | One set of tools                              |                                          |                     |
-#+CAPTION: Wizard / Sorcerer / Druid / Warlock Loadout Selection
-| Category    | Easy Loadout                                   | Recommended Loadout            | Challenge Loadout            |
-|-------------+------------------------------------------------+--------------------------------+------------------------------|
-| Armor       | Enchanted Robe: 11 AC                          | Enchanted Robe: 11 AC          | No Armor: 10 AC              |
-| Weapon      | Iron shortsword - 1d6 / slashing (PROF + STR)  | Dagger - 1d4 / piercing (PROF) | Unarmed strike - 1 + STR     |
-| Bonus Items | One set of tools, One spell slot refill potion | One spell slot refill potion   | One spell slot refill potion |
+#+CAPTION: Paladin Loadout Selection
+| Category    | Easy Loadout                                           | Recommended Loadout                      | Challenge Loadout            |
+|-------------+--------------------------------------------------------+------------------------------------------+------------------------------|
+| Armor       | Iron Plate Armor: 15 AC                                | Rusted Studded Leather Armor: 12 AC      | Cassock 10 AC                |
+| Weapon      | Iron Greatsword 2d6 / slashing (PROF + STR)            | Iron Mace 1d6 / bludgeoning (PROF + STR) | Wooden Club 1d4 (PROF + STR) |
+| Bonus Items | One Priest's Pack, Holy Symbol, One full-health potion | Holy Symbol                              |                              |
+#+CAPTION: Wizard / Sorcerer / Druid Loadout Selection
+| Category    | Easy Loadout                                         | Recommended Loadout                | Challenge Loadout        |
+|-------------+------------------------------------------------------+------------------------------------+--------------------------|
+| Armor       | Enchanted Robe: 11 AC                                | Enchanted Robe: 11 AC              | No Armor: 10 AC          |
+| Weapon      | Iron shortsword - 1d6 / slashing (PROF + STR)        | Dagger - 1d4 / piercing (PROF)     | Unarmed strike - 1 + STR |
+| Bonus Items | One set of tools, One minor spell slot refill potion | One minor spell slot refill potion |                          |
 #+CAPTION: Bard / Merchant / Prophet
 | Category    | Easy Loadout                                                      | Recommended Loadout                      | Challenge Loadout        |
 |-------------+-------------------------------------------------------------------+------------------------------------------+--------------------------|
@@ -87,19 +93,15 @@ Select your equipment based on various difficulty levels. Don't worry, this gear
 | Weapon      | Iron shortsword - 1d6 / slashing (PROF + STR)                     | Dagger - 1d4 / piercing (PROF)           | Unarmed strike - 1 + STR |
 | Bonus Items | Two sets of tools, One full-health potion, One half-health potion | One set of tools, One full-health potion | One half-health potion   |
 #+CAPTION: Rogue Loadout Selection
-| Category    | Easy Loadout                        | Recommended Loadout                            | Challenge Loadout |
-|-------------+-------------------------------------+------------------------------------------------+-------------------|
-| Armor       | Leather armor: 11 AC                | Leather armor: 11 AC                           | No armor: 10 AC   |
-| Weapon      | Steel shortsword 1d8 / slashing     | Shank - 1d6 / slashing + piercing (PROF + DEX) |                   |
-| Bonus Items | Dagger - 1d4 / piercing (DEX + STR) |                                                |                   |
-#+CAPTION: Ranger Loadout Selection
-| Category    | Easy Loadout                                             | Recommended Loadout                                      | Challenge Loadout                                        |
-|-------------+----------------------------------------------------------+----------------------------------------------------------+----------------------------------------------------------|
-| Armor       | Leather armor: 11 AC                                     | Leather armor: 11 AC                                     | No armor: 10 AC                                          |
-| Weapon      | Wood longbow - 1d6 piercing (DEX + STR) + 10 Wood arrows | Wood longbow - 1d6 piercing (DEX + STR) + 10 Wood arrows | Wood longbow - 1d6 piercing (DEX + STR) + 10 Wood arrows |
-| Bonus Items | Iron shortsword - 1d6 / slashing (PROF + STR)            |                                                          |                                                          |
+| Category    | Easy Loadout                        | Recommended Loadout                                      | Challenge Loadout                              |
+|-------------+-------------------------------------+----------------------------------------------------------+------------------------------------------------|
+| Armor       | Leather armor: 11 AC                | Leather armor: 11 AC                                     | No armor: 10 AC                                |
+| Weapon      | Steel shortsword 1d8 / slashing     | Wood longbow - 1d6 piercing (DEX + STR) + 10 Wood arrows | Shank - 1d6 / slashing + piercing (PROF + DEX) |
+| Bonus Items | Dagger - 1d4 / piercing (DEX + STR) |                                                          |                                                |
 ** Create a background for your character
 This part is all up to you. Who do you want to be in this world?
+** Submit Character Sheet to DM
+Once its complete, send your character sheet to your DM so that they can help you complete any missing portions of your sheet and set up for your first adventure!
 -----
 * Footnotes
 [fn:1] Glossary: [[id:a3719559-2b06-443a-b75a-96c9aa3f3b26][Races]]

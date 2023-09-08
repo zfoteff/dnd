@@ -15,58 +15,129 @@
 ** Grunt Pirate
 Pirates use single-shot pistols that deal high damage with low accuracy. Loyal to the crew, but can be convinced to jump ship for a better deal if the winds of change blow in the opposite direction. Pretty stupid.
 
-_*CR*_ [fn:1]: 1/10
-_*HP*_: 14
-_*PP*_ [fn:2]: 11
-
-Ability Scores:
-- STR:
-- DEX:
-- CON:
-- INT:
-- WIS:
-
-| Armor          | Weapons                 | Items          |
-|----------------+-------------------------+----------------|
-| No armor 10 AC | Bronze Shortsword (1d8) | Bottle of Grog |
+#+BEGIN_CENTER
+_*CR*_[fn:1]: 2
+_*HP*_: 11
+_*PP*_[fn:2]: 10
+#+END_CENTER
+** Ability Scores
+| Ability | Score | Bonus | Related Skills                                           |
+|---------+-------+-------+----------------------------------------------------------|
+| CON     |    14 |    +1 |                                                          |
+| STR     |    12 |    +3 | Athletics                                                |
+| DEX     |    17 |    +2 | Acrobatics, Sleight of Hand, Stealth                     |
+| INT     |    10 |    +0 | Arcana, History, Investigation, Religion                 |
+| WIS     |    11 |    +1 | Animal Handling, Insight, Medicine, Perception, Survival |
+| CHA     |    10 |    +0 | Deception, Intimidation, Performance, Persuasion         |
+** Inventory
+| Armor          | Weapons                                             | Items                         |
+|----------------+-----------------------------------------------------+-------------------------------|
+| Rags 12 AC     | Bronze Scimitar (1d6) / slashing damage +3 to hit   | Bottle of Grog, Thieves Tools |
+|                | Flintlock Pistol (1d8) / piercing damage +1 to hit  |                               |
+** Special Traits
+** Actions
+- _*Multi-attack*_: Make two attacks with the equipped weapon
 * Commander Troops
 ** Cook
+:PROPERTIES:
+:ID:       ad433008-e7f7-4dc2-ba2f-cb6205f65df7
+:END:
+The cook of a pirate ship. Probably the only person the crew is truely loyal to, so he will inspire great confidence in them if he is torn away from this work into the battlefield.
+#+BEGIN_CENTER
+_*CR*_[fn:1]: 4/10
+_*HP*_: 14
+_*PP*_[fn:2]: 11
+#+END_CENTER
+
+*** Ability Scores
+| Ability | Score | Bonus | Related Skills                                           |
+|---------+-------+-------+----------------------------------------------------------|
+| CON     |    18 |    +4 |                                                          |
+| STR     |    20 |    +5 | Athletics                                                |
+| DEX     |    15 |    +2 | Acrobatics, Sleight of Hand, Stealth                     |
+| INT     |    10 |    +0 | Arcana, History, Investigation, Religion                 |
+| WIS     |    13 |    +2 | Animal Handling, Insight, Medicine, Perception, Survival |
+| CHA     |    12 |    +1 | Deception, Intimidation, Performance, Persuasion         |
+*** Inventory
+| Armor | Weapons | Items |
+|-------+---------+-------|
+|       |         |       |
+*** Special Traits
+*** Actions
 ** First Mate
+:PROPERTIES:
+:ID:       afa2e807-0771-46bb-98eb-0b77f24da57f
+:END:
 ** Pirate Captain
 :PROPERTIES:
 :ID:       f6a4850c-0ca5-4a17-befb-b7e0e4bc7a72
 :END:
 Captain of a pirate ship. Earned their crew's loyalty though brutality, promise of treasure, or a healthy mixture of both.
 
-_*CR*_ [fn:1]: 4/10
+#+BEGIN_CENTER
+_*CR*_[fn:1]: 4/10
 _*HP*_: 14
-_*PP*_ [fn:2]: 11
+_*PP*_[fn:2]: 11
+#+END_CENTER
 
-Ability Scores:
-- STR:
-- DEX:
-- CON:
-- INT:
-- WIS:
-
+*** Ability Scores
+| Ability | Score | Bonus | Related Skills                                           |
+|---------+-------+-------+----------------------------------------------------------|
+| CON     |    14 |    +1 |                                                          |
+| STR     |    12 |    +3 | Athletics                                                |
+| DEX     |    17 |    +2 | Acrobatics, Sleight of Hand, Stealth                     |
+| INT     |    10 |    +0 | Arcana, History, Investigation, Religion                 |
+| WIS     |    11 |    +1 | Animal Handling, Insight, Medicine, Perception, Survival |
+| CHA     |    10 |    +0 | Deception, Intimidation, Performance, Persuasion         |
+*** Inventory
 | Armor | Weapons | Items |
 |-------+---------+-------|
 |       |         |       |
+*** Special Traits
+*** Actions
 * Boss Troops
 ** Pirate Admiral
-_*CR*_ [fn:1]: 10/10
+#+BEGIN_CENTER
+_*CR*_[fn:1]: 10/10
 _*HP*_: 14
-_*PP*_ [fn:2]: 11
+_*PP*_[fn:2]: 11
+#+END_CENTER
+*** Ability Scores
+| Ability | Score | Bonus | Related Skills                                           |
+|---------+-------+-------+----------------------------------------------------------|
+| CON     |    14 |    +1 |                                                          |
+| STR     |    12 |    +3 | Athletics                                                |
+| DEX     |    17 |    +2 | Acrobatics, Sleight of Hand, Stealth                     |
+| INT     |    10 |    +0 | Arcana, History, Investigation, Religion                 |
+| WIS     |    11 |    +1 | Animal Handling, Insight, Medicine, Perception, Survival |
+| CHA     |    10 |    +0 | Deception, Intimidation, Performance, Persuasion         |
+*** Inventory
 | Armor | Weapons | Items |
 |-------+---------+-------|
 |       |         |       |
+*** Special Traits
+*** Actions
 ** Fleet Commander
-_*CR*_ [fn:1]: 10/10
+#+BEGIN_CENTER
+_*CR*_[fn:1]: 10/10
 _*HP*_: 14
-_*PP*_ [fn:2]: 11
+_*PP*_[fn:2]: 11
+#+END_CENTER
+*** Ability Scores
+| Ability | Score | Bonus | Related Skills                                           |
+|---------+-------+-------+----------------------------------------------------------|
+| CON     |    14 |    +1 |                                                          |
+| STR     |    12 |    +3 | Athletics                                                |
+| DEX     |    17 |    +2 | Acrobatics, Sleight of Hand, Stealth                     |
+| INT     |    10 |    +0 | Arcana, History, Investigation, Religion                 |
+| WIS     |    11 |    +1 | Animal Handling, Insight, Medicine, Perception, Survival |
+| CHA     |    10 |    +0 | Deception, Intimidation, Performance, Persuasion         |
+*** Inventory
 | Armor | Weapons | Items |
 |-------+---------+-------|
 |       |         |       |
+*** Special Traits
+*** Actions
 ** Pirate Lord
 :PROPERTIES:
 :ID:       3ce27f9d-8b83-4004-9515-b83826d7262e
@@ -75,13 +146,26 @@ Leader of all pirate factions in the world. Commands unquestioning loyalty due t
 
 One-of-a-kind boss in the world.
 
-_*CR*_ [fn:1]: 10/10
+#+BEGIN_CENTER
+_*CR*_[fn:1]: 10/10
 _*HP*_: 14
-_*PP*_ [fn:2]: 11
-
+_*PP*_[fn:2]: 11
+#+END_CENTER
+*** Ability Scores
+| Ability | Score | Bonus | Related Skills                                           |
+|---------+-------+-------+----------------------------------------------------------|
+| CON     |    14 |    +1 |                                                          |
+| STR     |    12 |    +3 | Athletics                                                |
+| DEX     |    17 |    +2 | Acrobatics, Sleight of Hand, Stealth                     |
+| INT     |    10 |    +0 | Arcana, History, Investigation, Religion                 |
+| WIS     |    11 |    +1 | Animal Handling, Insight, Medicine, Perception, Survival |
+| CHA     |    10 |    +0 | Deception, Intimidation, Performance, Persuasion         |
+*** Inventory
 | Armor | Weapons | Items |
 |-------+---------+-------|
 |       |         |       |
+*** Special Traits
+*** Actions
 -----
 * Footnotes
 [fn:1] Glossary: [[id:a3719559-2b06-443a-b75a-96c9aa3f3b26][Challenge Rating]]
