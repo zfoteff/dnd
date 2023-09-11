@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       86991f3b-d12e-47a4-9410-535986210ee8
+:END:
+#+title:    World Overview
+#+filetags: :DND:
+#+author:   zfoteff
+#+date:     [2023-09-08 Fri]
+#+summary:  Overview of the campaign world, including some backstory about the environment and the people of the world
+
+* Introduction
+No witness to the long history of the Small Domain can agree on anything, except for this: powerful men and women come and go, cities rise and fall, whole societies will appear and disappear -- the Earth remains, slightly modified. Empires long past have separated and divided the known world into shattered remnant's, clinging to their unique cultures and prejudices as their only link to their past selves.

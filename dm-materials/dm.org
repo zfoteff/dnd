@@ -22,6 +22,7 @@
 :END:
 - [[id:23919bd5-7bb0-4743-ae81-f07566ccd236][Damage Guide]]
 - [[id:f10dc3fb-122b-4842-8b68-22aa974d9a57][Alchemy Index]]
+- [[id:49c66431-d9c7-4213-ae29-b62365fd32d4][Spell Index]]
 - [[id:628c4f0e-762b-428b-9a2c-03f97bb24737][Druid Circles]]
 - [[id:23919bd5-7bb0-4743-ae81-f07566cad236][Material Guide]]
 -----
