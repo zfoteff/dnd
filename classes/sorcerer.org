@@ -17,9 +17,8 @@ To begin playing as a Sorcerer, first choose a sorcery: [[[id:ca360c77-3d1d-43f3
 
 Spells are cast using
 
-- _Initial Health_: Roll 1d6 and add it to your base HP. This is your hit die.
+- _Initial Health_: Roll a 1d6 and add it to your base HP. This is your Hit Die (HD). You will add the amount your roll to your base health every time your level up.
 - _Spell Save DC_: 8 + WIS + PROF
-- Gain +1 Crafting
 
 * Proficiencies
 | Armor | Weapons       | Tools |

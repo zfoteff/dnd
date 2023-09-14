@@ -13,20 +13,15 @@
 -----
 * Level 1
 - Gain _Perfect Duel Wielding_: You suffer no reduction in bonuses that everyone else does when wielding a weapon in both hands
-- Gain +1 to Intimidation modifier
-* Level 2
+- Gain _Forgotten Past_: You gain an additional bit of backstory that grants you some sort of bonus to a skill -- work with DM to determine what it is.
+* Level 2 (5+)
 - Gain _Valor_: If you are the last combatant standing, and there are two or less enemies, you gain the following bonuses
   - +2 AC
   - +2 to hit
   - +3 damage on every attack
-  - +2 STR []
+  - +2 STR
   - +2 CON
-* Level 5
+* Level 3 (11+)
 - Gain _Soldier's Duel_: If you are the only one targeting an enemy (and they are the only one targeting you) gain advantage on all Reaction and Bonus actions. You also gain +2 to hit.
-- Gain _Forgotten Past_: You gain an additional bit of backstory that grants you some sort of bonus to a skill -- work with DM to determine what it is.
-* Level 10
+* Level 4 (15+)
 - Upgrade _Valor_: If you are the last combatant standing, and there are 5 or less enemies, you gain the following bonuses
-* Level 15
-- Gain _Endurance_
-- Your speed in combat increases by
-* Level 19

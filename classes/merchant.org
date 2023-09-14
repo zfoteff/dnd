@@ -6,10 +6,32 @@
 #+author:   zfoteff
 #+date:     [2023-07-26 Wed]
 #+summary:  Merchant class
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../static/stylesheets/subclass-style.css" />
+#+BEGIN_CENTER
+[[[id:7d419730-2064-41f9-80ee-f24ed9b01ac7][Main Menu]]] [[[id:69ef1740-156a-4e42-9493-49ec80a4ac26][Classes]]]
+#+END_CENTER
 -----
 Buy low, sell high! Focus on acquiring as much money as possible; making trades and building a reputation across the cities of the world.
 
-- _Initial Health_: Roll 1d6 and add it to your base HP.
+- _Initial Health_: Roll 1d6 and add it to your base HP. This is your Hit Die (HD). You will add the amount you roll to your base health every time you level up.
+- Start with 30 Silver, 15 Gold, and 3 Dragon Pesos
 
+* Proficiencies
+| Armor       | Weapons  | Tools   |
+|-------------+----------+---------|
+| Light Armor | Dagger   | Ledger  |
+|             | Crossbow | Abbacus |
+* Merchant Traits
+- _/Heavy Sleeper/_: Whenever you take a long rest, you cannot be woken up halfway through no matter what happens. This can include your death. In exchange, an hour after you wake up, your AC is increased by 2, you get +2 to CHA, your health is increased by 15, and you get +3 to Deception and Insight.
+- _/Wholesale Prices/_: You get a shopping discount of 10% * your reputation modifier on all purchases.
 * Level-up guide
 1.
+* Merchant Skills
+** Level 1
+- _*Seedy*_: When fighting in an urban area, gain an extra attack, as well as advantage if you're the first person to move in a round.
+- _*Never Shit a Shitter*_: Gain +2 to persuasion when trying to persuade someone who has a lower net worth than you do.
+** Level 2 (5+)
+- _*Capitalist*_: If you have lackeys (consult with DM to get definition of this term), they taunt whatever enemy you are attacking, forcing them to attack your wage slaves before targeting any member of the party. /Maximum of 3 lackeys can be used in combat/.
+** Level 3 (11+)
+** Level 4 (15+)
+- _*Advanced Bartering*_:

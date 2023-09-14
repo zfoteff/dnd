@@ -11,11 +11,19 @@ Sneak, steal, deceive, and assassinate those who oppose your endeavors.
 
 To begin as a rogue, chose a subclass [[[id:befa4d8e-52ce-4195-9f97-06aee49da164][Ninja]], [[id:072dbba0-dd37-4c57-ae44-959867358be8][Con man]]]. These classes give you special traits that increase in power as you get stronger, and a few distinct advantages right off the bat.
 
+- _Initial Health_: Roll 1d6 and add it to your base HP. This is your Hit Die (HD). You will add the amount you roll to your base health every time you level up.
 - Gain 1 toolkit
-- _Initial Health_: Roll 1d6 and add it to your base HP.
 
+* Proficiencies
+| Armor       | Weapons     | Tools           |
+|-------------+-------------+-----------------|
+| Light Armor | Daggers     | Thieves Tools   |
+|             | Bows        | Lockpicking Kit |
+|             | Crossbows   |                 |
+|             | Spears      |                 |
+|             | Shortswords |                 |
 * Level-up
-1. Gain the ability to Sneak Attack. If invisible or hidden, gain an extra 1d6 damage on the next attack.
+1. Gain Sneak Attack. If invisible or hidden, gain an extra 1d6 damage on the next attack.
 2. Add 1d6 health.
 3. Become proficient with a new class of weapon. Your next purchase of this class of weapon is discounted by 50%. Add 1d6 health.
 4. You are now able to hide in plain sight upon passing a deception check that surpasses a perception check made by your enemy. Your Deception modifier is + 3.

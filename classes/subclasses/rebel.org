@@ -5,17 +5,28 @@
 #+filetags: :DND:warrior:
 #+author:   zfoteff
 #+date:     [2023-08-11 Fri]
-#+summary:  Soldier subclass for the Warrior class
+#+summary:  Rebel subclass for the Warrior class
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../../static/stylesheets/subclass-style.css" />
 #+BEGIN_CENTER
 [[[id:7d419730-2064-41f9-80ee-f24ed9b01ac7][Main Menu]]] [[[id:69ef1740-156a-4e42-9493-49ec80a4ac26][Classes]]] [[[id:1846aace-7d40-41af-95e6-4a4d72044af5][Warrior]]]
 #+END_CENTER
 -----
+Fight the power. Front line soldier empowered with the revolutionary spirit.
+* Rebel Traits
+- _/Opportunist/_: When participating in a riot, uprising, coup, assassination attempt, or other disturbance of normal civic activity, you deal 50% extra damage.
+- _/Escape Artist/_: You can escape from all non-magical bindings while avoiding all detection.
 * Level 1
-- Gain _Opportunist_: When participating in a riot, uprising, coup, assassination attempt, or other disturbance of normal civic activity, you deal 50% extra damage.
-* Level 2
-- Gain _Escape Artist_: You can
-* Level 5
-* Level 10
-* Level 15
-* Level 19
+- _*Idealist*_: Stand by your convictions and raise your attack
+- _*Brave*_: You gain advantage on saving throws against being frightened or intimidated
+- _*Rhetoric*_: You can learn another language and you gain +2 to your persuasion skill.
+* Level 2 (5+)
+- _*Underdog*_ Once per long rest, increase your parties hit rolls by +3
+- _*Camaraderie*_: You make a 1-minute speech or other display of camaraderie. Any allied creature that can see or hear you gains a number of temporary hit points equal to 1d8 + your Charisma modifier.
+* Level 3 (11+)
+- _*Guerrilla Warfare*_: If your party is all undetected before ambushing an enemy or group of enemies, all targets will have the shocked debuff applied to them for the duration of the combat encounter.
+- _*Coordinated Strike*_: Once every long rest, when your character attacks an allied creature within 30ft can also attack in the same turn.
+- _*Ringleader*_: Your renown and ideology are widespread. If there are creatures friendly to your revolutionary ideology in a populated area, you can spend 8 hours gathering rumors and following leads to find a dedicated espionage agent.
+* Level 4 (15+)
+- _*Rebel Leader*_: You become immune to magic that can detect your thoughts or emotions, unless you choose to be affected. You also can communicate telepathically with a creature with whom you share a soul covenant with at any distance on the same plane of existence.
+-----
+* Footnotes

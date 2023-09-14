@@ -15,7 +15,8 @@ Become a powerful channel of the magical elements. Use spells primarily, cast us
 
 To begin as a wizard, choose an element to subclass into: [[[id:7141f6ab-b3bc-4eeb-9e7e-071452bfc673][Fire]] 🔥, [[id:4ebd35da-05f7-456f-88b8-c8865a270b8f][Storm]] 🌩, [[id:8153acaf-ac20-4b00-8ac0-fa423c4ff5ce][Radiant]] ✨]. Each element comes with some special abilities as you get stronger, and a few distinct advantages right off the bat. All wizards can learn generic spells in the spell index, wizard specific spells, and elemental spells matching their selected element. Be sure you apply your level 1 bonuses from your subclass. Make sure to review the Magic Guide to get an understanding of the magic system.
 
-- _Initial Health_: Roll 1d6 and add it to your base HP.
+- _Initial Health_: Roll a 1d6 and add it to your base HP. This is your Hit Die (HD). You will add the amount your roll to your base health every time your level up.
+- Spells are cast using INT + PROF (Wisdom modifier + Proficiency modifier)
 
 * Proficiencies
 | Armor | Weapons       | Tools |

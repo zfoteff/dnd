@@ -13,16 +13,16 @@
 -----
 Defend the faith and the faithful with the might of your god. Whether sworn before a god's alter in a pristine temple, or in a moment of desperation and grief, a paladin's oath is a powerful bond. Uses heavy weapons and some spellcasting using WIS, CHA, and a holy symbol. To start as a paladin, first choose a subclass: [[[id:60eb64e5-82ae-42d0-9b3f-e0a662fda360][Holy Knight]], [[id:df760c35-e021-4db3-ba72-4bf457d937fd][Void Priest]], [[id:5afcd93c-8342-4bb3-968c-1d7124b9d93d][Missionary]]]
 
-- Initial Health: Roll 1d10 and add it to your base HP. This is your Hit Die (HD). You will add the amount you roll to your base health every time you level up.
+- _Initial Health_: Roll a 1d10 and add it to your base HP. This is your Hit Die (HD). You will add the amount your roll to your base health every time your level up.
 
 * Proficiencies
-| Armor     | Weapons  | Tools |
-|-----------+----------+-------|
-| All armor | Maces    |       |
-|           | Swords   |       |
-|           | Lances   |       |
-|           | Halberds |       |
-|           | Fists    |       |
+| Armor     | Weapons  | Tools        |
+|-----------+----------+--------------|
+| All armor | Maces    | Holy Symbol  |
+|           | Swords   | Priests Pack |
+|           | Lances   |              |
+|           | Halberds |              |
+|           | Fists    |              |
 * Level-up
 1. Gain one subclass ability and pick one spell.
 
