@@ -8,4 +8,4 @@
 #+summary:  Overview of the campaign world, including some backstory about the environment and the people of the world
 
 * Introduction
-No witness to the long history of the Small Domain can agree on anything, except for this: powerful men and women come and go, cities rise and fall, whole societies will appear and disappear -- the Earth remains, slightly modified. Empires long past have separated and divided the known world into shattered remnant's, clinging to their unique cultures and prejudices as their only link to their past selves.
+No witness to the long history of the Domain can agree on anything, except for this: powerful men and women come and go, cities rise and fall, whole societies will appear and disappear -- the Earth remains, slightly modified. Empires long past have separated and divided the known world into shattered remnant's of civilizations, clinging to their unique cultures and prejudices as their only link to their past selves.

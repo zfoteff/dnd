@@ -7,6 +7,73 @@
 #+date:     [2023-07-25 Tue]
 #+summary:  Adventure 1 script for the journey and all events that could take place during play
 
+* Adventure Structure
+#+BEGIN_SRC plantuml
+@startuml
+title Adventure #1 Flow Diagram
+
+partition Pirate Ship {
+    start
+    :Player introductions;
+    repeat
+    switch (explore)
+    case (Travel to Deck)
+      :Deck;
+    case (Travel to Galley)
+      :Galley;
+      switch (explore)
+      case (Talk to Cook)
+        #palegreen:Cook;
+      case (Talk to Hooded Stranger)
+        #lightyellow:Hooded Stranger;
+      endswitch
+    case (Travel to Cargo Hold)
+      :Cargo Hold;
+      switch (4 doors)
+        case (Door 1)
+          :Grog Store;
+        case (Door 2)
+          :Crew Hold;
+        case (Door 3)
+          :Floating Box;
+        case (Door 4)
+          #lightyellow:Prisoner;
+      endswitch
+    case (Travel to Captains quarters)
+      :Captains Quarters;
+    endswitch
+    repeat while (keep exploring?) is (yes)
+    -> no;
+    :Go to sleep;
+    :Captured on Deck;
+    :Ship Explosion;
+}
+
+partition Shipwreck {
+    if (Aquired Lifeboat?) then (yes)
+      :Take 1d10 exposure damage;
+    else (no)
+      if (Grabbed Debris?) then (yes)
+        :Take 1d10 exposure damage\nand roll > 8 to avoid 1d10 drowning damage;
+      else (no)
+        :Swiiming;
+      endif
+    endif
+}
+
+partition Shattered Realm Beach {
+    :Landing on the Severed Realm;
+}
+
+:pirate ship;
+:shipwreck;
+stop
+@enduml
+#+END_SRC
+
+#+RESULTS:
+: /tmp/babel-CZtfzr/plantuml-XoJ2GN.png
+
 * Intro Narration
 ** TODO
 * Setting 1 Pirate Ship

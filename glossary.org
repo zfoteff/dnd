@@ -11,6 +11,8 @@
 [ [[org:dnd/dnd.org][Main Menu]] ]
 #+END_CENTER
 -----
+_*Cantrip*_:
+
 _*Charisma*_: Measure of ability to interact with others. It helps define a characters confidence and eloquence, and reflects a commanding personality. Applies in situations when the user is attempting to convincingly hide the truth, verbally or through actions, or intimidate other characters.
 
 _*Class*_: A archetype of skills and experience a user's character fits into. Every character will fit differently into the definition of a class, no single character can define a class in its entirety.
