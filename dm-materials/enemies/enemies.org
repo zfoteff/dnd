@@ -15,3 +15,5 @@
 Elves Faction
 
 Human Faction
+
+Dwarven Faction

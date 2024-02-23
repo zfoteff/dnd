@@ -17,27 +17,27 @@ return f"(modifier) {modifier}{escape_text}{escape_text.join(map(str,dice_set))}
 
 #+RESULTS: Dice
 : (modifier) 0
-: +	2
+: +	6
 : __________
-: =	2
+: =	6
 
 #+NAME: Roll D10
 #+CALL: Dice(dice_max_value=10)
 
 #+RESULTS: Roll D10
 : (modifier) 0
-: +	9
+: +	4
 : __________
-: =	9
+: =	4
 
 #+NAME: Roll D20
 #+CALL: Dice(dice_max_value=20)
 
 #+RESULTS: Roll D20
 : (modifier) 0
-: +	14
+: +	19
 : __________
-: =	14
+: =	19
 
 #+NAME: Roll D20 with Advantage
 * Stat Generation
@@ -49,16 +49,15 @@ class Foe:
     def _set_stats(self, challenge_rating: float) -> None:
         pass
 
-    def __init__(self, challenge_rating: float) -> None:
-        self.challenge_rating = challenge_rating
-        self.health_points = 0
-        self.strength = 0
-        self.
+    def __init__(self, challenge_rating: float = 0.1, health_points: int = 0, **kwargs) -> None:
+        self.__challenge_rating = challenge_rating
+        self.__health_points = 0
+        self.__name = name
 
         self._set_stats()
 
     def __str__(self) -> str:
-        return f"{}"
+        return f"{self.name} | {} {} {} {} {} {} {}"
 
 def main():
     pass

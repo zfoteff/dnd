@@ -18,6 +18,13 @@ To begin playing a Bard, first choose a subclass: [[[id:6a8efa65-451d-4eac-a069-
 - _Spell attack bonus_: PROF + INT
 - _Initial Health_: Roll 1d6 and add it to your base HP. This is your Hit Die (HD). You will add the amount you roll to your base health every time you level up.
 
+* Proficiencies
+| Armor       | Weapons       | Tools                                |
+|-------------+---------------+--------------------------------------|
+| Light armor | Daggers       | 3 musical instruments of your choice |
+|             | Shortsword    |                                      |
+|             | Longsword     |                                      |
+|             | Hand crossbow |                                      |
 * Level-up
 1. Gain _*Life Force Manipulation*_. At any time, you may use your turn to deal 1d6 decay damage to an enemy or heal an ally for 1d6. This can only be used in combat, but you can use it once after combat to heal if necessary. Gain one subclass ability.
 2. Gain a subclass ability.

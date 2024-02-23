@@ -1,14 +1,17 @@
 :PROPERTIES:
 :ID:       49c009a8-dbe3-4867-a616-60c55d87ed54
 :END:
+:HEADERS:
 #+title:    DM Resources
 #+filetags: :DM:DND:
 #+author:   zfoteff
 #+date:     [2023-07-25 Tue]
 #+summary:  DM resources related to all campaigns
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../static/stylesheets/menu.css" />
+:END:
 -----
 * [[id:18a96883-cc40-409c-9fb5-80d5ab0c8379][Campaign DM Scripts]]
+* [[id:e6b25898-e7dd-4444-b332-ef9fc3ea59bf][Races]]
 * [[id:69fc67b6-3d4a-451e-ab1e-e23bc20215ba][Enemies]]
 * Campaigns
 :PROPERTIES:

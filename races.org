@@ -14,8 +14,8 @@
 #+CAPTION: Character Race Overview
 | Name      | Base HP | Advantages    | Disadvantages | Bonuses                                       |
 |-----------+---------+---------------+---------------+-----------------------------------------------|
-| Human     |       6 | +2 any        | -2 any        | Extra Language                                |
-| Elf       |       6 | +1 WIS +1 INT | -1 CON        | Elvish, Cold Weakness                         |
+| Human     |       6 | +1 all        | -2 any        | Extra Language                                |
+| Elf       |       6 | +1 DEX +1 INT | -1 CON        | Elvish, Cold Weakness                         |
 | Orc       |       8 | +2 STR +2 CON | -2 INT -2 CHA | Orc, Savage Attacks                           |
 | Demon     |       5 | +2 CHA        | -1 STR        | Heat Resistance,                              |
 | Hobbit    |       5 | +1 to CHA     | -2 CON        | Lucky, Brave                                  |
@@ -31,7 +31,7 @@ The white bread of lineages. Not particularly good at anything, not incompetent 
 Humans can quickly learn 1 other language, if they meet a good teacher.
 ** Racial traits
  - Language proficiency
- - You gain +2 to any ability score, and -2 to to any ability score (can be split among 2 different abilities)
+ - You gain +1 to all ability scores, and -2 to to any ability score (can be split among 2 different abilities)
 * Elf
 :PROPERTIES:
 :ID:       bf3ffb0d-c3fe-412a-a40a-4c5933d6320e
