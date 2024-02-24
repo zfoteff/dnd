@@ -1,12 +1,14 @@
 :PROPERTIES:
 :ID:        69ef1740-156a-4e42-9493-49ec80a4ac26
 :END:
+:HEADER:
 #+title:    Campaign Classes
 #+filetags: :DND:
 #+author:   zfoteff
 #+date:     [2023-07-03 Mon]
 #+summary:  Campaign classes submenu
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../static/stylesheets/subclass-style.css" />
+:END:
 #+BEGIN_CENTER
 [[[id:7d419730-2064-41f9-80ee-f24ed9b01ac7][Main Menu]]] [[[id:f1eac65b-54c1-49f8-b117-e7d46f40b82c][Player Introduction]]]
 #+END_CENTER

@@ -1,12 +1,14 @@
 :PROPERTIES:
 :ID:        7d419730-2064-41f9-80ee-f24ed9b01ac7
 :END:
+:HEADER:
 #+title:    DnD Landing Page
 #+filetags: :DND:
 #+author:   zfoteff
 #+date:     [2023-07-05 Wed]
 #+summary:  Landing page for DnD content
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="static/stylesheets/menu.css" />
+:END:
 -----
 #+begin_menu
 [[file:character-sheet.pdf][Blank Character Sheet]]

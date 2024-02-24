@@ -1,12 +1,13 @@
 :PROPERTIES:
 :ID:       f1eac65b-54c1-49f8-b117-e7d46f40b82c
 :END:
+:HEADER:
 #+title:    Player Introduction
 #+author:   zfoteff
 #+date:     [2023-07-03 Mon]
 #+summary:  Player introduction page with initial character setup instructions
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="static/stylesheets/default-style.css" />
-
+:END:
 #+BEGIN_CENTER
 [ [[id:7d419730-2064-41f9-80ee-f24ed9b01ac7][Main Menu]] ][ [[file:character-sheet.pdf][Blank Character Sheet]] ]
 #+END_CENTER
@@ -21,10 +22,12 @@ Complete these five steps and you'll be ready to play your first adventure. Have
 Please pick something you'd like to role play as in a long running story, not just a character with the best stats. Each class will have a description of their advantages, disadvantages, class abilities, and other details about a given race in the universe.
 
 Please complete the instructions on the race sheet to select your race and set your hit points.
+
 ** Pick a [[id:69ef1740-156a-4e42-9493-49ec80a4ac26][Class]] [fn:2]
 Similarly, please pick something you'd like to role play as in a long running story, not just the easiest class to fight with. There are many other important parts of the game to consider! Each class also has a set of subclasses that can help you specialize your character. All characters will start at level 1 and will gain all level 1 abilities when the character is created.
 
 Please complete the instructions on the class sheet to select your class and subclass. Once you select your class, save that page. It will tell you what to do at each level as your character gains experience. You should also save your subclass page, it will show you what subclass-specific abilities you gain as you level up.
+
 ** Roll dice to determine ability scores
 You'd think this would be uncomplicated. Its not. Sorry. Please keep your character sheet handy and follow along to set your ability scores.
 
@@ -39,7 +42,7 @@ On the left hand side of your character sheet there are 6 ability scores:
 These are your most valuable attributes; with a combination of luck and your choice, these scores will help determine the possible success of any action you take in the game. A score of 10 or 11 is the normal human average, but adventurers and monsters are a cut above average in most abilities. Adventurers can have scores as high as 20, and monsters and Gods can have scores as high 30.
 
 Repeat the following process 6 times to set your ability scores:
-1. Roll 4d6
+1. Roll 4d6 (4 six-sided dice)
 2. Pick out the highest 3 dice
 3. Record the sum of those 3 dice on a sheet of paper
 
@@ -66,6 +69,7 @@ Repeat the same process with your saving throws (directly above the skills table
 
 Your proficiency bonus +2 to start
 Your speed is 30 to start
+
 ** Pick your starting gear
 Select your equipment based on various difficulty levels. Don't worry, this gear will quickly be replaced, but it should get you to level 3 easily. Record these values in their appropriate places on your character sheet.
 #+CAPTION: Warrior Loadout Selection
@@ -100,8 +104,10 @@ Select your equipment based on various difficulty levels. Don't worry, this gear
 | Bonus Items | Dagger - 1d4 / piercing (DEX + STR) |                                                          |                                                |
 ** Create a background for your character
 This part is all up to you. Who do you want to be in this world?
+
 ** Submit Character Sheet to DM
 Once its complete, send your character sheet to your DM so that they can help you complete any missing portions of your sheet and set up for your first adventure!
+
 -----
 * Footnotes
 [fn:1] Glossary: [[id:a3719559-2b06-443a-b75a-96c9aa3f3b26][Races]]

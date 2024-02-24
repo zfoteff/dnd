@@ -1,12 +1,14 @@
 :PROPERTIES:
 :ID:       940552be-47cf-48ff-8ca0-8c2b7f629052
 :END:
+:PALADIN:
 #+title:    Paladin
 #+filetags: :DND:paladin:
 #+author:   zfoteff
 #+date:     [2023-08-09 Wed]
 #+summary:  Paladin class
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../static/stylesheets/subclass-style.css" />
+:END:
 #+BEGIN_CENTER
 [[[id:7d419730-2064-41f9-80ee-f24ed9b01ac7][Main Menu]]] [[[id:69ef1740-156a-4e42-9493-49ec80a4ac26][Classes]]]
 #+END_CENTER
@@ -39,4 +41,5 @@ Defend the faith and the faithful with the might of your god. Whether sworn befo
 #+BEGIN_CENTER
 --- 🚧 Under Construction 🚧 ---
 #+END_CENTER
+
 * Footnotes

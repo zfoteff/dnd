@@ -1,12 +1,14 @@
 :PROPERTIES:
 :ID:       4d617f28-180d-4610-ad0e-a280e5c6b117
 :END:
+:MERCHANT:
 #+title:    Merchant
 #+filetags: :DND:
 #+author:   zfoteff
 #+date:     [2023-07-26 Wed]
 #+summary:  Merchant class
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../static/stylesheets/subclass-style.css" />
+:END:
 #+BEGIN_CENTER
 [[[id:7d419730-2064-41f9-80ee-f24ed9b01ac7][Main Menu]]] [[[id:69ef1740-156a-4e42-9493-49ec80a4ac26][Classes]]]
 #+END_CENTER
@@ -25,13 +27,41 @@ Buy low, sell high! Focus on acquiring as much money as possible; making trades 
 - _/Heavy Sleeper/_: Whenever you take a long rest, you cannot be woken up halfway through no matter what happens. This can include your death. In exchange, an hour after you wake up, your AC is increased by 2, you get +2 to CHA, your health is increased by 15, and you get +3 to Deception and Insight.
 - _/Wholesale Prices/_: You get a shopping discount of 10% * your reputation modifier on all purchases.
 * Level-up guide
-1.
+1. Gain 1 Merchant skill
+2.
+3.
+4. Increase one ability score of your choosing by +2, or two ability scores by +1
+5.
+6. You decide its time to open your ears to new international opportunities! Learn 1 new language of your choice.
+7.
+8. Increase one ability score of your choosing by +2, or two ability scores by +1
+9.
+10.
+11.
+12. Increase one ability score of your choosing by +2, or two ability scores by +1
+13.
+14.
+15.
+16. Increase one ability score of your choosing by +2, or two ability scores by +1
+17.
+18.
+19. Increase one ability score of your choosing by +2, or two ability scores by +1
+20. You now have the option to only pay half of the money for any action that requires a payment
+
+#+BEGIN_CENTER
+--- 🚧 Under Construction 🚧 ---
+#+END_CENTER
 * Merchant Skills
 ** Level 1
 - _*Seedy*_: When fighting in an urban area, gain an extra attack, as well as advantage if you're the first person to move in a round.
-- _*Never Shit a Shitter*_: Gain +2 to persuasion when trying to persuade someone who has a lower net worth than you do.
+- _*Insider Trading*_: You are aware of knowledge of the supply chain most other customers are not. When talking to the merchant, you are able to buy one rare item that is not on the store's inventory list
+- _*Always Hiring*_: Many neutral NPCs will desire to join your party based on your Reputation modifier.
 ** Level 2 (5+)
-- _*Capitalist*_: If you have lackeys (consult with DM to get definition of this term), they taunt whatever enemy you are attacking, forcing them to attack your wage slaves before targeting any member of the party. /Maximum of 3 lackeys can be used in combat/.
+- _*Never Shit a Shitter*_: Gain +2 to persuasion when trying to persuade someone who has a lower net worth than you do.
+- _*Rich Get Richer*_: Roll a luck check every time you kill an enemy to see if they will drop double gold. This luck check is 17 - your Reputation modifier.
 ** Level 3 (11+)
+- _*Capitalist*_: If you have lackeys (consult with DM to get definition of this term), they taunt whatever enemy you are attacking, forcing them to attack your wage slaves before targeting any member of the party. /Maximum of 3 lackeys can be used in combat/.
+- _*Edge of a Coin*_: As an action, roll 1d4. On 1-2, your next attact does -4 damage. On 3-4, your next attack does +4 damage
 ** Level 4 (15+)
-- _*Advanced Bartering*_:
+- _*Advanced Bartering*_: From now on, you can try to convince any enemy to stop fighting with you for a price. The price may be extremely high in some scenarios, but it may also be worth it
+- _*Skip the Bill*_: Whenever you take an action that requires money, roll 1d20. If the number is >= 19, you can do the action without spending money

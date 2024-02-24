@@ -1,12 +1,14 @@
 :PROPERTIES:
 :ID: 8bb9a08a-97c0-4231-a002-ad7dcf83e4d8
 :END:
+:BARD:
 #+title:    Bard
 #+filetags: :DND:bard:
 #+author:   zfoteff
 #+date:     [2023-07-05 Wed]
 #+summary:  Bard class summary
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../static/stylesheets/subclass-style.css" />
+:END:
 #+BEGIN_CENTER
 [[[id:7d419730-2064-41f9-80ee-f24ed9b01ac7][Main Menu]]] [[[id:69ef1740-156a-4e42-9493-49ec80a4ac26][Classes]]]
 #+END_CENTER
@@ -25,6 +27,7 @@ To begin playing a Bard, first choose a subclass: [[[id:6a8efa65-451d-4eac-a069-
 |             | Shortsword    |                                      |
 |             | Longsword     |                                      |
 |             | Hand crossbow |                                      |
+
 * Level-up
 1. Gain _*Life Force Manipulation*_. At any time, you may use your turn to deal 1d6 decay damage to an enemy or heal an ally for 1d6. This can only be used in combat, but you can use it once after combat to heal if necessary. Gain one subclass ability.
 2. Gain a subclass ability.

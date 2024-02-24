@@ -1,11 +1,13 @@
 :PROPERTIES:
 :ID:       3ffd4641-5357-4b49-822a-cc23c9b9e627
 :END:
+:PROPHET:
 #+title:    Prophet
 #+filetags: :DND:
 #+author:   zfoteff
 #+date:     [2023-07-25 Tue]
 #+summary:  Prophet class description
+:END:
 #+BEGIN_CENTER
 [[[id:7d419730-2064-41f9-80ee-f24ed9b01ac7][Main Menu]]] [[[id:69ef1740-156a-4e42-9493-49ec80a4ac26][Classes]]]
 #+END_CENTER
@@ -13,3 +15,48 @@
 Chosen vessel of a particular God. Prophets do not know which God they channel at the beginning of the game. The prophet has a primary mission of discovering which God they are aligned to by learning about the religious system of the world.
 
 - _Initial Health_: Roll a 1d6 and add it to your base HP. This is your Hit Die (HD). You will add the amount your roll to your base health every time your level up.
+- _Spell Save DC_: 8 + FAI + PROF
+
+* Proficiencies
+| Armor | Weapons | Tools |
+|-------+---------+-------|
+|       |         |       |
+* Prophet Traits
+- /Blessed Attacks/: Your attacks have a 1 in 12 chance to be Blessed by your god, and will have bonus effects depending on your assigned god. Note: /This does not apply if you haven't determined which god you serve./
+- /Devout/:You may no longer enter religious sites of deities other than your god. However, when you first visit a holy site of your god, you grant the entire party a permanent bonus. /Each god has three holy sites- some are well known, some are secret, so keep looking/! As before, you must have determined which god you serve before this trait can apply to your character.
+* Level-up guide
+1. Pick two generic spells and one prophet trait (consult your subclass page). You begin the game with three level one spell slots (Total: 3 lvl1, 0 lvl2, 0 lvl3, 0 lvl4). All three reset on every long rest. Spell slots are only used up during combat encounters.
+2.
+3. Add one generic spell, and one sorcerer spell to your spell list.
+4. Increase one ability score of your choosing by +2, or two ability scores by +1
+5. Gain _*Giant Slayer*_: Your damage is increased against targets larger than your size. Add an additional 1d8
+6.
+7.
+8. Increase one ability score of your choosing by +2, or two ability scores by +1
+9.
+10. _*Giant Slayer*_ increases to additional 2d8 damage.
+11. Become one of the Elect. You are granted the ability to fly with a speed of 30 feet.
+12. Increase one ability score of your choosing by +2, or two ability scores by +1
+13.
+14.
+15.
+16. Increase one ability score of your choosing by +2, or two ability scores by +1
+17.
+18.
+19. Increase one ability score of your choosing by +2, or two ability scores by +1
+20. Become Functionally Immortal. You can't age, you no longer need food and water, and you no longer fall ill. You can still die due to damage though.
+
+#+BEGIN_CENTER
+--- 🚧 Under Construction 🚧 ---
+#+END_CENTER
+* Prophet Skills
+** Level 1
+- _*Speaking Tongues*_: Once every long rest, you can communicate with a creature in their tongue to sway them to your god's side. You understand all spoken languages and any creature that can understand that language can understand what you say
+** Level 2 (+5)
+- _*Empowered Strike*_
+- _*Prophetic Vision*_: Gain the ability to foresee a bit of the future every 3 long rests
+** Level 3 (+11)
+- _*Blessed*_: You can shrug off some of the damage they take. You gain Resistance to magic and spell-like abilities and you are now immune to necrotic damage.
+** Level 4 (+15)
+- _*Avatar*_: Perfectly align with your god, allowing them to use your body for various functions. They can speak through you to others at any time, and can inhabit your body for 1 hour to perform tasks with advantage before they are expelled. Once they leave your body, you fall unconscious for 2d6 hours. Every 10 minutes they wish to remain in your body, roll a constitution check. On success they stay, on failure you immediately disintegrate and cannot be revived, even with a wish or divine intervention.
+* Footnotes
