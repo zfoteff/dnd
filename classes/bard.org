@@ -28,25 +28,29 @@ To begin playing a Bard, first choose a subclass: [[[id:6a8efa65-451d-4eac-a069-
 |             | Longsword     |                                      |
 |             | Hand crossbow |                                      |
 
+Health Transfer increases to 20 health.
+
+
+
 * Level-up
 1. Gain _*Life Force Manipulation*_. At any time, you may use your turn to deal 1d6 decay damage to an enemy or heal an ally for 1d6. This can only be used in combat, but you can use it once after combat to heal if necessary. Gain one subclass ability.
-2. Gain a subclass ability.
-3. Your Intelligence and Wisdom scores both increase by 1.
-4. Gain _*Health Transfer*_. Twice per combat, you may transfer up to 10 health from yourself to an ally.
+2. Gain _*Health Transfer*_. Twice per combat, you may transfer up to 10 health from yourself to an ally.
+3. Your Intelligence and Wisdom scores bothss increase by 1.
+4. Increase one ability score of your choosing by +2, or two ability scores by +1
 5. Your Charisma is increased by +1. Gain one subclass ability.
 6. Life Force Manipulation’s strength increases to 1d10.
 7. Gain _*Transmutation*_. Learn about one of the following damage types of your choosing (Ice, Fire, Radiance, Energy, Force, Psychic). Once per round of combat, during an ally’s turn, you can change their damage dealt into damage of this type and add an additional 1d6 of this damage type.
-8. Your Strength and Constitution scores both increase by 1.
+8. Increase one ability score of your choosing by +2, or two ability scores by +1
 9. Gain a subclass ability.
 10. Gain _*Bard Buff*_. Once per combat, grant one of your allies the ability to use a bard action for the rest of combat. You can choose from your learned bard actions.
-11. _*Life Force Manipulation*_’s strength increases to 2d8. Gain a subclass ability
-12. Health Transfer’s strength increases to 20 health.
-13. Learn Upgraded Transmutation - gain one more damage type, and when applying transmutation, the damage increases to 2d6.
-14. Gain +1 of Any. Gain 1d6 health.
-15. Subclass Feature.
-16. You may now use Bard Buff twice per combat. Gain 1d6 health.
-17. Life Force Manipulation’s strength increases to 2d12.
-18. Gain +1 of Any and an additional +1 of Any (must be a different Ability Score than the first +1). Gain 1d6 health.
-19. Gain a subclass ability.
-20. Multiclass
+11. _*Life Force Manipulation's*_ strength increases to 2d8. Gain a subclass ability
+12. Increase one ability score of your choosing by +2, or two ability scores by +1
+13. Learn _*Upgraded Transmutation*_ - gain one more damage type, and when applying transmutation, the damage increases to 2d6.
+14. Health Transfer increases to 20 health.
+15. Gain a subclass ability
+16. Increase one ability score of your choosing by +2, or two ability scores by +1
+17. You may now use Bard Buff twice per combat. Gain 1d6 health.
+18. Life Force Manipulation’s strength increases to 2d12.
+19. Increase one ability score of your choosing by +2, or two ability scores by +1
+20. Multiclasss
 -----

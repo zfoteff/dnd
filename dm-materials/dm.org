@@ -12,6 +12,7 @@
 -----
 * [[id:18a96883-cc40-409c-9fb5-80d5ab0c8379][Campaign DM Scripts]]
 * [[id:e6b25898-e7dd-4444-b332-ef9fc3ea59bf][Races]]
+* [[id:69ef1740-156a-4e42-9493-49ec80a4ac26][Classes]]
 * [[id:69fc67b6-3d4a-451e-ab1e-e23bc20215ba][Enemies]]
 * Campaigns
 :PROPERTIES:
@@ -29,3 +30,42 @@
 - [[id:628c4f0e-762b-428b-9a2c-03f97bb24737][Druid Circles]]
 - [[id:23919bd5-7bb0-4743-ae81-f07566cad236][Material Guide]]
 -----
+* Campaign Todos
+** TODO Finish classes
+*** [ ] Bard
+**** [ ] Actor
+**** [ ] Muse
+**** [ ] Craftsmen
+*** [ ] Druid
+**** [ ] Plant
+**** [ ] Animal
+**** [ ] Stone
+**** [ ] Cosmic
+*** [ ] Wizard
+**** [ ] Fire
+**** [ ] Storm
+**** [ ] Radiance
+*** [ ] Paladin
+**** [ ] Holy Knight
+**** [ ] Void Priest
+**** [ ] Missionary
+*** [ ] Sorcerer
+**** [ ] Chaos
+**** [ ] Order
+**** [ ] Psychic
+*** [ ] Prophet
+*** [ ] Merchant
+*** [ ] Warrior
+**** [ ] Soldier
+**** [ ] Rebel
+**** [ ] Brute
+*** [ ] Rogue
+**** [ ] Ninja
+**** [ ] Con Man
+** TODO Complete spell index
+** TODO Figure out something for Druid circles
+** TODO Export newest version of all pages
+** TODO Complete enemy pages for pirate faction
+** TODO Script out C1A1 for starting adventure
+** TODO Skeleton the story for C1A2 with multiple options for the possible player choices in C1A1
+** IDEA Export script for org --> html

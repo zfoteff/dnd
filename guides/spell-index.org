@@ -18,8 +18,36 @@
 :END:
 - _*Befriend*_: Roll a charisma check. On 14 or higher, turn any non-intelligent creature you are on neutral terms with into an ally. This effect lasts for twenty minutes, after which the creature will enter a state of confusion with a 50% potential to lash out at the party.
 - _*Transform*_: When you first learn Druid Alchemy, select an animal. From now on, you can transform into this wild animal. Ask the DM about its statistics. One important difference from base DnD rules: the percentage of health that you have stays with you throughout the transformation.
+- _*Gust*_: Summon a persistant gust of wind for 1 minute that stretches 30 feet before getting weaker.
+- _*Lightning Lure*_:
 -----
 * Spells
+** Generic Spells
+_*Recast Recharge*_: If your spell hits an enemy, cast it again without using another spell slot. This ability can be used once per combat with no restrictions on the level of spell that can be recast.
+*** Level 1
+- _*Aura Blast*_: Deal 1d10 energy damage to a single target using a ray, orb, or shockwave.
+- _*Detect Magic*_: Detect the presence and type of magic around you in a 50 ft radius. Does not give you specifics about the spell being cast, just that it exists.
+- _*Illuminate*_: Create a light that illuminates your surroundings in a 30ft radius. The light source lasts for 1 minute and cannot be moved.
+- _*Energy Blade*_: Summon a energy blade to fight with. This blade deals 1d10 damage and vanishes at the end of combat. The weapon cannot be transferred to other characters.
+- _*Energy Armor*_: Increase your AC by 1 for the rest of combat. This can be cast multiple times to stack the modifier.
+- _*Translate Speech*_: For two minutes, become able to verbally communicate with any intelligent creature of your choosing (DM discretion on what is considered intelligent). Nonverbal creatures will be able to understand you if their intelligence is high enough.
+- _*Translate Writing*_: For 3 minutes, become able to read any text of your choosing. This does not apply to sacred runes, or encrypted texts.
+- _*Illusion*_: Roll deception. If a >= 10 is rolled, create a visual hallucination for one minute. Maximum size is a 5x5 meter cube with a maximum distance of 30 ft.
+- _*Shockwave*_: Deal 1d6 energy damage to all creatures within a 50 ft radius.
+*** Level 2 (5+)
+- _*Fortify*_: Grant everyone advantage on their next roll
+- _*Energize*_: Grant one member of your party the ability to perform two actions on their next turn
+- _*Chromatic Orb*_: Deal 2d10 energy damage to a single creature using an orb fired from your body
+- _*Chameleon*_: Disguise yourself as another type of creature until your long rest or decide to cancel the spell. Does not require concentration to cast. You cannot imitate specific beings, but you ma choose to belong to another one of the available [[id:e6b25898-e7dd-4444-b332-ef9fc3ea59bf][races]].
+*** Level 3 (11+)
+- _*Rejuvenate*_: Gain back all used spell slots including the one used to grant Rejuvenate. This may also be used on a n ally to restore their missing spell slots. Can only be used once per long rest.
+- _*Obliterate*_: Deal 3d12 energy damage as a beam. This hits all creatures in a straight line from the caster
+- _*Evaporate*_: Turn yourself and any number of allies into a gaseous form for 3 turns. During these turns your have 50 movement speed and are now able to move in any direction. You may not attack, cast spells, or use any other abilities during the period the spell is active.
+*** Level 4 (15+)
+- _*Freeze Time*_: Regain this turn, and gain two additional turns. You now have 3 actions (plus 3 bonus actions) that you can take before it is the next person's turn in combat.
+- _*Vampire's Witchcraft*_: Deal 5d12 damage to the next creature you touch. Regain 5d12 health on contact. One this spell is cast it cannot be uncast until you touch a creature or long rest.
+- _*The Oh Shit Spell*_: Deliver your party from combat immediately to a neutral dimension. While you technically have not succeeded in combat, you are no longer in danger of being attacked. From there, negotiate with DM as to your placement once the spell ends.
+-----
 ** Wizard Spells
 *** Generic Spells
 **** Level 1
@@ -55,6 +83,7 @@
 - _*Icicle Hand*_: Transform your dominant hand into an icicle. You may stab people without fear of it breaking. The icicle deals 1d10 freeze / piercing damage. This lasts for three turns, and if you successfully stab the same enemy all three turns, they take an extra 2d6 freeze damage.
 **** Level 2 (5+)
 - _*Lightning Bolt*_: Roll to hit. On hit, summon a lightning bolt from the heavens to strike a target you can see. They take 3d8 lightning damage, and are stunned for one turn if they fail a constitution check.
+- _*Lightning Lure*_: Create a lash of lightning that strikes at a target of your choice within 15 feet of you. The target must pass a STR check, or be pulled up to 10 feet in a straight line towards you and then take 1d8 lightning damage
 - _*Electric Rain*_: If it's raining, charge raindrops with electricity. Everyone in the rainstorm (allies included) takes 1d8 lightning damage per turn for 8 turns. /This spell cannot be canceled once cast/.
 - _*Flood*_: Create a wave of water to sweep through the area you designate. The wave begins in the first area out of your eyesight, and gains a foot in size for every 25 feet it travels. At a certain distance away you may be unable to control the size and/or damage of the spell, so use it wisely. /The flood deals half damage to the allies/.
 **** Level 3 (11+)
@@ -81,6 +110,13 @@
 - _*Judgment Day*_: All Evil and Neutral creatures in the vicinity will have their lives judged by the Gods. If they success in judgment, they will receive the Blessed buff and are healed to half health. If they fail judgment, they take 15d10 radiant damage.
 -----
 ** Sorcerer Spells
+*** Generic Spells
+**** Level 1
+_*Telekinesis*_: Pick one object that is no larger than your to move with your mind. It must be within 30 feet, and you may move it at 6 inches/sec. You may not move animals or NPCs, nor can you move objects in complicated ways (stretching, inverting, etc.)
+**** Level 2 (5+)
+- _*Soul Tremor*_: Deal 1d8 damage to all creatures within a 100 ft radius.
+**** Level 3 (11+)
+**** Level 4 (15+)
 *** [[id:8cf16f81-68be-4205-9ff9-1c803443f6bc][Chaos Sorcerer]]
 **** Level 1:
 - _*Reversion*_: Move all targets within a 20-foot radius to the location they were in the previous turn. This location can be more than 20-feet away from the caster. /You cannot send targets back to other realms with this spell./

@@ -43,5 +43,5 @@ To begin as a rogue, chose a subclass [[[id:befa4d8e-52ce-4195-9f97-06aee49da164
 18. Sneak Attack’s damage increases to 4d6.
 19. Subclass Feature. Add 1d6 health.
 20. Multiclass
+* Footnotes
 -----
-

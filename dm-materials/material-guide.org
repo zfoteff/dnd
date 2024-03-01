@@ -11,7 +11,7 @@
 [ [[id:49c009a8-dbe3-4867-a616-60c55d87ed54][DM Menu]] ]
 #+END_CENTER
 -----
-Material list [high to low]: cosmic -> meteor, mithryl -> iron -> stone -> wooden
+Material list [high to low]: cosmic -> brimstone -> meteor, mithryl -> iron -> stone -> wooden
 
 * Cosmic
 Highest tier. Highest damage potential, high critical damage chance, and will shatter the minds of weaker enemies who cannot comprehend the madness of the cosmos. Must be wielded by a highly skilled individual to ensure that wielding the weapon does not cause the user to go mad. The user will have to fight off the effects of the weapon as they use it, limiting the material to high level characters.
@@ -29,8 +29,9 @@ Elven metal. Cool stuff.
 
 Deals [[id:23919bd5-7bb0-4743-ae81-f07566ccd236][cold]] and [[id:23919bd5-7bb0-4743-ae81-f07566ccd236][radiance]] damage
 * Deep crystal
+Mysterious ore found in geodes far underground past the domain of the dwarves. Extremely effective weapons, but brittle, limiting their usage to only the most dire of situations.
 * Dwarven Smelt
-A strange mix of metals, crafted with skilled hands into reliable and strong weapons. Their composition gives their weapons a unique resonance, generating an electrical field when attacking enemies.
+A strange mix of metals, crafted with skilled hands into reliable and strong weapons. Its composition gives weapons made from it a unique resonance, generating an electrical field when attacking enemies.
 
 Deals [[id:23919bd5-7bb0-4743-ae81-f07566ccd236][shock]] damage
 * Steel

@@ -15,7 +15,7 @@
 -----
 Whether calling on the forces of nature, or emulating the creatures of the world, Druids are the embodiment of nature's resilience, bounty, and fury. They claim no mastery over nature, but see themselves as willing partners and extensions of nature's indomitable will.
 
-To start as a Druid, choose a domain of nature to integrate with: [Plant, Animal, Stone, Cosmos]. Each domain offers the wielder a few distinct advantages right away. All Druids can learn druid cantrips and druids can learn druid spells through their Druid Circle.
+To start as a Druid, choose a domain of nature to integrate with: [Plant, Animal, Stone, Cosmic]. Each domain offers the wielder a few distinct advantages right away. All Druids can learn druid cantrips and druids can learn druid spells through their Druid Circle.
 
 - _Initial Health_: Roll a 1d8 and add it to your base HP. This is your Hit Die (HD). You will add the amount your roll to your base health every time your level up.
 - Spells are cast using WIS + PROF (Wisdom modifier + Proficiency modifier)
