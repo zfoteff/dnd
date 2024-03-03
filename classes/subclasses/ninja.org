@@ -1,20 +1,21 @@
 :PROPERTIES:
 :ID:       befa4d8e-52ce-4195-9f97-06aee49da164
 :END:
+:NINJA:
 #+title:    Ninja
 #+author:   zfoteff
 #+date:     [2023-07-15 Sat]
 #+summary:  Ninja subclass description
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../../static/stylesheets/subclass-style.css" />
-
+:END:
 #+BEGIN_CENTER
-[[[id:7d419730-2064-41f9-80ee-f24ed9b01ac7][Main Menu]]] [[[id:f1eac65b-54c1-49f8-b117-e7d46f40b82c][Player Introduction]]] [[[id:69ef1740-156a-4e42-9493-49ec80a4ac26][Classes]]] [[[id:0b7f7671-c4de-41e9-b199-4a9ceb6352d2][Rogue]]]
+[[[id:7d419730-2064-41f9-80ee-f24ed9b01ac7][Main Menu]]] [[[id:69ef1740-156a-4e42-9493-49ec80a4ac26][Classes]]] [[[id:0b7f7671-c4de-41e9-b199-4a9ceb6352d2][Rogue]]]
 #+END_CENTER
 -----
 Use the shadows to your advantage, and gain more maneuverability when avoiding the gaze of the enemy.
 
 * Level 1
-- Gain 20 shurikens. Shurikens deal 1d6 damage and you can throw two at the same target with one action. Easy to lose, and not readily acquired, be careful!
+- Gain 20 iron shurikens. Shurikens deal 1d6 damage and you can throw two at the same target with one action. Easy to lose, and not readily acquired, be careful!
 - Gain +2 to stealth
 * Level 2
 - When attacking an enemy from behind, deal an extra 1d6 damage.
@@ -29,5 +30,5 @@ Use the shadows to your advantage, and gain more maneuverability when avoiding t
 * Level 15
 - Deal 150% damage to lawful enemies
 * Level 19
-- Gain Shadow Step: Become completely invisible to everything except Truesight for 3 turns once per combat encounter. During Shadow Step you gain an extra action. You dodge all attacks except those that critically strike during the duration of Shadow Step.
+- Gain _*Shadow Step*_: Become completely invisible to everything except Truesight for 3 turns once per combat encounter. During Shadow Step you gain an extra action. You dodge all attacks except those that critically strike during the duration of Shadow Step.
 -----

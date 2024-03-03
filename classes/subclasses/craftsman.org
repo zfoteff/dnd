@@ -12,22 +12,20 @@
 #+END_CENTER
 -----
 * Level 1
-Gain _Resourcefulness_: You can use the materials around you to build something of your choosing within the following limits
-- The object cannot be overly technical (no computers, basic circuitry)
-- The materials cannot be unreasonably dangerous or difficult to move/transport/carry
-- You must have tools to build it
-- The object must be used for utility and non-aesthetic purposes.
-
-You gain an additional toolkit
+- Gain _Resourcefulness_: You can use the materials around you to build something of your choosing within the following limits
+  - The object cannot be overly technical (no computers, basic circuitry)
+  - The materials cannot be unreasonably dangerous or difficult to move/transport/carry
+  - You must have tools to build it
+  - The object must be used for utility and non-aesthetic purposes.
+- You gain an additional toolkit and an additional action in combat when using a tool
 * Level 2
-Obtain an eternal, irrevocable, and unchangeable cultural side-quest from the Cultural Side-Quest Generator. Completion of the side-quest may result in additional awards, and will 1 result in the player being rewarded another cultural side-quest.
+- Obtain an eternal, irrevocable, and unchangeable cultural side-quest from the Cultural Side-Quest Generator. Completion of the side-quest may result in additional awards, and will 1 result in the player being rewarded another cultural side-quest.
 * Level 5
-Gain _Architect_: You are now an architect. You can build a safe shelter around you and your allies once per long rest that keeps you hidden (within reason) from enemies around you and will protect against significant attacks. The shelter does require some time to build, either a few minutes, or a single combat turn.
-
-You gain a5
+- Gain _Architect_: You are now an architect. You can build a safe shelter around you and your allies once per long rest that keeps you hidden (within reason) from enemies around you and will protect against significant attacks. The shelter does require some time to build, either a few minutes, or a single combat turn.
+- You gain a5
 * Level 10
 * Level 15
 * Level 19
-Become able to craft a _*Forgotten Object*_: Upon breaking the forgotten object, one of the Old Gods will descend upon you to initiate an end-game level encounter. This will result in significant rewards for the actor, and potentially other players in the party.
+Become able to craft a _*Lost Trinket*_: Upon breaking the Lost Trinket, one of the Old Gods will descend upon you to initiate an end-game level encounter. This will result in significant rewards for the actor, and potentially other players in the party.
 -----
 * Footnotes

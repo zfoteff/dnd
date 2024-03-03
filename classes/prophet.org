@@ -12,7 +12,7 @@
 [[[id:7d419730-2064-41f9-80ee-f24ed9b01ac7][Main Menu]]] [[[id:69ef1740-156a-4e42-9493-49ec80a4ac26][Classes]]]
 #+END_CENTER
 -----
-Chosen vessel of a particular God. Prophets do not know which God they channel at the beginning of the game. The prophet has a primary mission of discovering which God they are aligned to by learning about the religious system of the world.
+Chosen vessel of a particular God. Prophets do not know which God they channel at the beginning of the game. The prophet has a primary mission of discovering which God they are aligned to by learning about the religious system of the world. Be sure you apply your level 1 bonuses from your Prophet skills and pick 1 trait to apply to your character. Make sure to review the [[id:7521a020-4fd2-4b75-9e24-5aa4c2fb69e3][Spell Index]] for a full list of applicable spells Prophets can learn.
 
 - _Initial Health_: Roll a 1d6 and add it to your base HP. This is your Hit Die (HD). You will add the amount your roll to your base health every time your level up.
 - _Spell Save DC_: 8 + FAI + PROF
@@ -22,15 +22,15 @@ Chosen vessel of a particular God. Prophets do not know which God they channel a
 |-------+---------+-------|
 |       |         |       |
 * Prophet Traits
-- /Blessed Attacks/: Your attacks have a 1 in 12 chance to be Blessed by your god, and will have bonus effects depending on your assigned god. Note: /This does not apply if you haven't determined which god you serve./
-- /Devout/:You may no longer enter religious sites of deities other than your god. However, when you first visit a holy site of your god, you grant the entire party a permanent bonus. /Each god has three holy sites- some are well known, some are secret, so keep looking/! As before, you must have determined which god you serve before this trait can apply to your character.
+- _/Blessed Attacks/_: Your attacks have a 1 in 12 chance to be Blessed by your god, and will have bonus effects depending on your assigned god. Note: /This does not apply if you haven't determined which god you serve./
+- _/Devout/_: You may no longer enter religious sites of deities other than your god. However, when you first visit a holy site of your god, you grant the entire party a permanent bonus. /Each god has three holy sites- some are well known, some are secret, so keep looking/! As before, you must have determined which god you serve before this trait can apply to your character.
 * Level-up guide
 1. Pick two generic spells and one prophet trait (consult your subclass page). You begin the game with three level one spell slots (Total: 3 lvl1, 0 lvl2, 0 lvl3, 0 lvl4). All three reset on every long rest. Spell slots are only used up during combat encounters.
 2.
 3. Add one generic spell, and one sorcerer spell to your spell list.
 4. Increase one ability score of your choosing by +2, or two ability scores by +1
 5. Gain _*Giant Slayer*_: Your damage is increased against targets larger than your size. Add an additional 1d8
-6.
+6. Choose an additional trait to apply to your character.
 7.
 8. Increase one ability score of your choosing by +2, or two ability scores by +1
 9.

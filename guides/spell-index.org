@@ -23,6 +23,9 @@
 -----
 * Spells
 ** Generic Spells
+:PROPERTIES:
+:ID:       457d8210-b202-4c65-82f3-0baa098719ac
+:END:
 _*Recast Recharge*_: If your spell hits an enemy, cast it again without using another spell slot. This ability can be used once per combat with no restrictions on the level of spell that can be recast.
 *** Level 1
 - _*Aura Blast*_: Deal 1d10 energy damage to a single target using a ray, orb, or shockwave.
@@ -49,6 +52,9 @@ _*Recast Recharge*_: If your spell hits an enemy, cast it again without using an
 - _*The Oh Shit Spell*_: Deliver your party from combat immediately to a neutral dimension. While you technically have not succeeded in combat, you are no longer in danger of being attacked. From there, negotiate with DM as to your placement once the spell ends.
 -----
 ** Wizard Spells
+:PROPERTIES:
+:ID:       7521a020-4fd2-4b75-9e24-5aa4c2fb69e3
+:END:
 *** Generic Spells
 **** Level 1
 **** Level 2 (5+)
@@ -110,6 +116,9 @@ _*Recast Recharge*_: If your spell hits an enemy, cast it again without using an
 - _*Judgment Day*_: All Evil and Neutral creatures in the vicinity will have their lives judged by the Gods. If they success in judgment, they will receive the Blessed buff and are healed to half health. If they fail judgment, they take 15d10 radiant damage.
 -----
 ** Sorcerer Spells
+:PROPERTIES:
+:ID:       864019d0-e2a0-4983-b5a2-4cf12aea6515
+:END:
 *** Generic Spells
 **** Level 1
 _*Telekinesis*_: Pick one object that is no larger than your to move with your mind. It must be within 30 feet, and you may move it at 6 inches/sec. You may not move animals or NPCs, nor can you move objects in complicated ways (stretching, inverting, etc.)

@@ -1,12 +1,14 @@
 :PROPERTIES:
 :ID:       8153acaf-ac20-4b00-8ac0-fa423c4ff5ce
 :END:
+:RADIANT_WIZARD:
 #+title:    Radiant Wizard
 #+filetags: :DND:WIZARD:
 #+author:   zfoteff
 #+date:     [2023-07-12 Wed]
 #+summary:  Radiant Wizard subclass description
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../../static/stylesheets/subclass-style.css" />
+:END:
 #+BEGIN_CENTER
 [[[id:7d419730-2064-41f9-80ee-f24ed9b01ac7][Main Menu]]] [[[id:69ef1740-156a-4e42-9493-49ec80a4ac26][Classes]]] [[[id:3e1b93b3-f1ad-4148-bb16-5313b376a707][Wizard]]]
 #+END_CENTER
@@ -25,8 +27,8 @@ Radiant Wizards operate in the middle ground between Wizard and Bard, occasional
 - _*Smite*_: Deal 3d8 Radiance damage to all Neutral or Evil enemies in a 50ft radius. They receive a Cursed debuff if they are Evil. /Can only be used once per combat encounter/.
 - _*Illuminate*_: Reveal any hidden or camouflaged traps or enemies within 100ft. Everyone in the party gains +4 Insight rolls for the next 2 turns.
 * Level 3 (11+)
-- _*Summon Angel*_: Summon an Angel to fight in combat for you for five turns. The Angel had 50HP, 15 AC, and deals 3d8 damage on hit. The Angel will only attack Evil or Neutral enemies.
-- _*Shackles*_: Bind a target to the ground with blessed shackles. The target must make a CON saving throw to escape the shackles. THe target takes 2d6 radiant damage from the shackles until they escape.
+- _*Summon Angel*_: Summon an Angel to fight in combat for you for five turns. The Angel has 50HP, 15 AC, and deals 3d8 damage on hit. The Angel will only attack Evil or Neutral enemies.
+- _*Shackles*_: Bind a target to the ground with blessed shackles. The target must make a consitution saving throw to escape the shackles. The target takes 2d6 radiant damage from the shackles until they escape.
 * Level 4 (15+)
 - _*Beatification*_: Send a creature of your choosing to Heaven. They return from Heaven fully healed, fully rested, and with a variety of buffs. No roll is necessary to perform this spell. /This spell has two charges, and must be recharged with a University Ritual/.
 - _*Judgment Day*_: All Evil and Neutral creatures in the vicinity will have their lives judged by the Gods. If they success in judgment, they will receive the Blessed buff and are healed to half health. If they fail judgment, they take 15d10 radiant damage.

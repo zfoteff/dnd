@@ -1,20 +1,22 @@
 :PROPERTIES:
 :ID:       4ebd35da-05f7-456f-88b8-c8865a270b8f
 :END:
+:STORM_WIZARD:
 #+title:    Storm Wizard 🌩
 #+author:   zfoteff
 #+date:     [2023-07-12 Wed]
 #+summary:  Storm wizard subclass description and level up stats
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../../static/stylesheets/subclass-style.css" />
+:END:
 #+BEGIN_CENTER
 [[[id:7d419730-2064-41f9-80ee-f24ed9b01ac7][Main Menu]]] [[[id:69ef1740-156a-4e42-9493-49ec80a4ac26][Classes]]] [[[id:3e1b93b3-f1ad-4148-bb16-5313b376a707][Wizard]]]
 #+END_CENTER
 -----
-While storm wizards lack the sheer damage output capabilities of other wizards, Storm Wizards operate using ice and lightning damage. This gives them the flexibility to counter different immunities that a target may posses.
+While storm wizards lack the sheer damage output capabilities of other wizards, Storm Wizards operate using ice and lightning damage. This gives them the flexibility to counter different immunity's that a target may posses.
 
 * Elemental Traits
 - _/Ice Immunity/_: Become immune to ice damage for the rest of the game. You will take half damage if the ice damage is paired with another type of damage.
-- _/Ice Immunity/_: Become immune to lightning damage for the rest of the game. You will take half damage if the lightning damage is paired with another type of damage.
+- _/Lightning Immunity/_: Become immune to lightning damage for the rest of the game. You will take half damage if the lightning damage is paired with another type of damage.
 - _/Underwater Breathing/_: You can breathe underwater. Grant one ally of your choice the ability to breath underwater while you are submerged in water. This ends when you exit the water.
 * Level 1
 - _*Rainstorm*_: It begins raining in a half-mile radius around the caster. This rainstorm may take up to five minutes to begin, depending on the caster's environment. Does not work in Hell.

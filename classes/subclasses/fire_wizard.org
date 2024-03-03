@@ -11,13 +11,14 @@
 [[[id:7d419730-2064-41f9-80ee-f24ed9b01ac7][Main Menu]]] [[[id:69ef1740-156a-4e42-9493-49ec80a4ac26][Classes]]] [[[id:3e1b93b3-f1ad-4148-bb16-5313b376a707][Wizard]]]
 #+END_CENTER
 -----
-Even though they require an existing source of fire for the first few levels. Until the Pyromancer trait is learned (or the Cursed Fire spell), they will often have to expend a turn to light a fire or mak sure a fire exists to be useful in combat.
+Even though they require an existing source of fire for the first few levels. Until the Pyromancer trait is learned (or the Cursed Fire spell), they will often have to expend a turn to light a fire or make sure a fire exists to be useful in combat.
 
-* Wizard Traits
+* Fire Wizard Traits
 - _/Fire Immunity/_: Become immune to fire damage for the rest of the game. You will still take half damage if the fire damage is paired with another type of damage.
+- _/Pyromancer/_: Create fire from thin air and cast it to a combustable object. This fire will quickly extinguish if there is no fuel for it to consume.
 * Level 1
 - _*Sear*_: Heat a non-living object to 100 degrees Celsius by laying a hand on it. The object stays at this temperature for one minute and cools down to its normal temperature over the next 5 minutes. This spell can destroy objects. Creatures who touch the object take 2d8 fire damage if heated to full temperature and 1d8 damage in the cooldown period.
-- _*Flame Throw*_: Roll to hit. On a roll of over 11, throw an already existing flame (that you can see) from one location to another. The projectile is a ball with a 3-inch radius, and upon impact deals 1d10 fire damage to everyone within a two-foot radius. This requires the existence of a flame in the environment (size does not matter), meaning that occasionally Fire Wizards will have to expend a turn to light a fire before using flame through.
+- _*Flame Throw*_: Roll to hit. On a roll of over 11, throw an already existing flame (that you can see) from one location to another. The projectile is a ball with a 3-inch radius, and upon impact deals 1d10 fire damage to everyone within a two-foot radius. This requires the existence of a flame in the environment (size does not matter).
 - _*Combust*_: Enlarge an existing flame that you can see to have a ten foot radius. Everyone within the radius takes 2d8 fire damage as long as they are in the zone, or half upon a constitution save. Combust does not create a new flame. The fire lasts for two minutes.
 * Level 2 (5+)
 - _*Ignite*_: Roll to hit. On success, set a living creature within 50 feet on fire. They take 2d12 fire damage per turn until they put the fire out.

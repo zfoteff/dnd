@@ -1,17 +1,18 @@
 :PROPERTIES:
 :ID:       da305734-97ab-40f1-aacc-ad8c31ce25f4
 :END:
+:BRUTE:
 #+title:    Brute
 #+filetags: :DM:warrior:
 #+author:   zfoteff
 #+date:     [2023-09-11 Mon]
 #+summary:  Brute subclass for the Warrior class
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../static/stylesheets/subclass-style.css" />
+:END:
 #+BEGIN_CENTER
 [[[id:7d419730-2064-41f9-80ee-f24ed9b01ac7][Main Menu]]] [[[id:69ef1740-156a-4e42-9493-49ec80a4ac26][Classes]]] [[[id:1846aace-7d40-41af-95e6-4a4d72044af5][Warrior]]]
 #+END_CENTER
 -----
-
 * Brute Traits
 * Level 1
 * Level 2

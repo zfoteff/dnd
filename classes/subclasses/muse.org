@@ -22,11 +22,10 @@
 - Your enchanted instrument's base damages increases to 1d8.
 * Level 10
 - Gain _Spectral Manager_: The manager will keep you informed of any important cultural and political requests upon request. It may also send you concert invites, and give you a hookup for drugs.
-
 - Gain _Booking Agent_: Once per long rest, you many travel to any part of the world in a single day, and the agent will arrange travel free of cost.
 * Level 15
 - Gain a Patron Demigod. One of the Demigods will adopt you as their muse, and once every 3 combat sessions, you may summon the Demigod to assist you. Note: that not all Demigods are good fighters. Patron Demigods are automatically reassigned upon the death of the player's previous Demigod. Do with that what you will. There may be consequences if you disappoint your Patron with the music you play.
 * Level 19
-- Gain knowledge of the _*Eldrich Tunes*_: Upon playing the Eldrich Tunes to completion, one of the Old Gods will descend upon you to initiate an end-game level encounter. This will result in significant rewards for the actor, and potentially other players in the party.
+- Gain knowledge of the _*Eldrich Tune*_: Upon playing the Eldrich Tune to completion, one of the Old Gods will descend upon you to initiate an end-game level encounter. This will result in significant rewards for the actor, and potentially other players in the party.
 * Footnotes
 [fn:1] Glossary: [[id:a3719559-2b06-443a-b75a-96c9aa3f3b26][Intelligence]]

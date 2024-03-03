@@ -1,15 +1,19 @@
 :PROPERTIES:
 :ID: 0b7f7671-c4de-41e9-b199-4a9ceb6352d2
 :END:
+:ROGUE:
 #+title:    Rogue
 #+filetags: :DND:
 #+author:   zfoteff
 #+date:     [2023-07-05 Wed]
 #+summary: Rogue class description
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../static/stylesheets/subclass-style.css" />
-Sneak, steal, deceive, and assassinate those who oppose your endeavors.
-
-To begin as a rogue, chose a subclass [[[id:befa4d8e-52ce-4195-9f97-06aee49da164][Ninja]], [[id:072dbba0-dd37-4c57-ae44-959867358be8][Con man]]]. These classes give you special traits that increase in power as you get stronger, and a few distinct advantages right off the bat.
+:END:
+#+BEGIN_CENTER
+[[[id:7d419730-2064-41f9-80ee-f24ed9b01ac7][Main Menu]]] [[[id:69ef1740-156a-4e42-9493-49ec80a4ac26][Classes]]]
+#+END_CENTER
+-----
+Sneak, steal, deceive, and assassinate those who oppose your endeavors. To begin as a rogue, chose a subclass [[[id:befa4d8e-52ce-4195-9f97-06aee49da164][Ninja]], [[id:072dbba0-dd37-4c57-ae44-959867358be8][Con man]]]. These classes give you special traits that increase in power as you get stronger, and a few distinct advantages right off the bat.
 
 - _Initial Health_: Roll 1d6 and add it to your base HP. This is your Hit Die (HD). You will add the amount you roll to your base health every time you level up.
 - Gain 1 toolkit
@@ -24,24 +28,24 @@ To begin as a rogue, chose a subclass [[[id:befa4d8e-52ce-4195-9f97-06aee49da164
 |             | Shortswords |                 |
 * Level-up
 1. Gain Sneak Attack. If invisible or hidden, gain an extra 1d6 damage on the next attack.
-2. Add 1d6 health.
-3. Become proficient with a new class of weapon. Your next purchase of this class of weapon is discounted by 50%. Add 1d6 health.
-4. You are now able to hide in plain sight upon passing a deception check that surpasses a perception check made by your enemy. Your Deception modifier is + 3.
+2. Become proficient with a new class of weapon. Your next purchase of this class of weapon is discounted by 50%. Add 1d6 health.
+3. You are now able to hide in plain sight upon passing a deception check that surpasses a perception check made by your enemy. Your Deception modifier is +2.
+4. Increase one ability score of your choosing by +2, or two ability scores by +1
 5. Your Deception, Stealth, and Sleight of Hand modifiers all increase by 1. Your Dexterity modifier increases by 1.
-6. Sneak Attack’s damage increases to 2d6. Add 1d6 health.
-7. Subclass Feature. Add 1d6 health.
-8. Become proficient with a new class of weapon. Your next purchase of this class of weapon is discounted 50%. Add 1d6 health.
+6. Sneak Attack’s damage increases to 2d6
+7. Subclass Feature
+8. Increase one ability score of your choosing by +2, or two ability scores by +1
 9. Your Deception, Stealth, and Sleight of Hand modifiers all increase by 1. Your Dexterity score increases by 1.
 10. Gain Betrayal. If the creature you are attacking believes you to be their ally, you deal double damage.
-11. Sneak Attack now applies to enemies who did not target you on their last turn. Add 1d6 health.
-12. Sneak Attack’s damage increases to 3d6. Add 1d6 health.
-13. Subclass into an additional class.
-14. Your modifier for Hide in Plain Sight is now Deception + 5. Add 1d6 health.
+11. Sneak Attack now applies to enemies who did not target you on their last turn
+12. Increase one ability score of your choosing by +2, or two ability scores by +1
+13. Sneak Attack’s damage increases to 3d6
+14. Your modifier for Hide in Plain Sight is now Deception + 5
 15. Gain Assassinate. If you are not sensed by your enemy before attacking, you deal triple damage on your first attack and no longer have to roll to hit.
-16. Your Deception, Stealth, and Sleight of Hand modifiers all increase by 1. Your Dexterity score all increases by 1. Add 1d6 health.
-17. Your modifier for Hide in Plain Sight is now Deception - 2. Add 1d6 health.
+16. Increase one ability score of your choosing by +2, or two ability scores by +1
+17. Your modifier for Hide in Plain Sight is now Deception - 2
 18. Sneak Attack’s damage increases to 4d6.
-19. Subclass Feature. Add 1d6 health.
+19. Increase one ability score of your choosing by +2, or two ability scores by +1
 20. Multiclass
 * Footnotes
 -----

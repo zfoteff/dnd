@@ -33,35 +33,47 @@
 * Campaign Todos
 ** TODO Finish classes
 *** [ ] Bard
-**** [ ] Actor
-**** [ ] Muse
-**** [ ] Craftsmen
-*** [ ] Druid
-**** [ ] Plant
-**** [ ] Animal
-**** [ ] Stone
-**** [ ] Cosmic
-*** [ ] Wizard
-**** [ ] Fire
-**** [ ] Storm
-**** [ ] Radiance
-*** [ ] Paladin
-**** [ ] Holy Knight
-**** [ ] Void Priest
-**** [ ] Missionary
-*** [ ] Sorcerer
-**** [ ] Chaos
-**** [ ] Order
-**** [ ] Psychic
-*** [ ] Prophet
-*** [ ] Merchant
-*** [ ] Warrior
-**** [ ] Soldier
-**** [ ] Rebel
-**** [ ] Brute
-*** [ ] Rogue
-**** [ ] Ninja
-**** [ ] Con Man
+**** [X] Actor
+CLOSED: [2024-03-01 Fri 15:17]
+**** [X] Muse
+CLOSED: [2024-03-01 Fri 15:19]
+**** [-] Craftsmen
+*** [-] Druid
+**** [-] Plant
+**** [-] Animal
+**** [-] Stone
+**** [-] Cosmic
+*** [X] Wizard
+CLOSED: [2024-03-01 Fri 15:48]
+**** [X] Fire
+CLOSED: [2024-03-01 Fri 15:48]
+**** [X] Storm
+CLOSED: [2024-03-01 Fri 15:48]
+**** [X] Radiance
+CLOSED: [2024-03-01 Fri 15:48]
+*** [-] Paladin
+**** [-] Holy Knight
+**** [-] Void Priest
+**** [-] Missionary
+*** [X] Sorcerer
+CLOSED: [2024-03-01 Fri 16:14]
+**** [X] Chaos
+CLOSED: [2024-03-01 Fri 16:14]
+**** [X] Order
+CLOSED: [2024-03-01 Fri 16:14]
+**** [X] Psychic
+CLOSED: [2024-03-01 Fri 16:14]
+*** [-] Prophet
+*** [-] Merchant
+*** [-] Warrior
+**** [-] Soldier
+**** [X] Rebel
+CLOSED: [2024-03-01 Fri 16:22]
+**** [-] Brute
+*** [-] Rogue
+**** [-] Ninja
+**** [X] Con Man
+CLOSED: [2024-03-01 Fri 16:33]
 ** TODO Complete spell index
 ** TODO Figure out something for Druid circles
 ** TODO Export newest version of all pages

@@ -13,7 +13,7 @@
 [[[id:7d419730-2064-41f9-80ee-f24ed9b01ac7][Main Menu]]] [[[id:69ef1740-156a-4e42-9493-49ec80a4ac26][Classes]]]
 #+END_CENTER
 -----
-Defend the faith and the faithful with the might of your god. Whether sworn before a god's alter in a pristine temple, or in a moment of desperation and grief, a paladin's oath is a powerful bond. Uses heavy weapons and some spellcasting using WIS, CHA, and a holy symbol. To start as a paladin, first choose a subclass: [[[id:60eb64e5-82ae-42d0-9b3f-e0a662fda360][Holy Knight]], [[id:df760c35-e021-4db3-ba72-4bf457d937fd][Void Priest]], [[id:5afcd93c-8342-4bb3-968c-1d7124b9d93d][Missionary]]]
+Defend the faith and the faithful with the might of your god. Whether sworn into service before a god's alter in a pristine temple, or in a moment of desperation and grief, a paladin's oath is a powerful bond. Uses heavy weapons and some spellcasting using WIS, CHA, and a holy symbol. To start as a paladin, first choose a subclass: [[[id:60eb64e5-82ae-42d0-9b3f-e0a662fda360][Holy Knight]], [[id:df760c35-e021-4db3-ba72-4bf457d937fd][Void Priest]], [[id:5afcd93c-8342-4bb3-968c-1d7124b9d93d][Missionary]]]. Be sure you apply your level 1 bonuses from your subclass and pick 1 trait from your subclass to apply to your character. Make sure to review the [[id:7521a020-4fd2-4b75-9e24-5aa4c2fb69e3][Spell Index]] for a full list of applicable spells Paladin's can learn.
 
 - _Initial Health_: Roll a 1d10 and add it to your base HP. This is your Hit Die (HD). You will add the amount your roll to your base health every time your level up.
 
@@ -35,8 +35,9 @@ Defend the faith and the faithful with the might of your god. Whether sworn befo
    - Great Weapon Fighting. When you roll a 1 or 2 on a damage die for an attack you make with a melee weapon that you are wielding with two hands, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2.
    - Unarmed Fighting (UA). Your unarmed strikes can deal bludgeoning damage equal to 1d6 + your Strength modifier. If you strike with two free hands, the d6 becomes a d8. When you successfully start a grapple, you can deal 1d4 bludgeoning damage to the grappled creature. Until the grapple ends, you can also deal this damage to the creature whenever you hit it with a melee attack.
 3. Gain _Divine Smite_: When you hit a creature with a melee weapon attack, you can expend one spell slot to deal Radiant damage to the target in addition to the weapon's regular damage. The extra damage is 2d8 for a 1st-level spell slot, plus 1d8 for each spell level higher than 1st, to a max of 5d8. The damage increases by 1d8 if the target is undead.
-4. Gain +1 to any. Gain one subclass ability. Become proficient in an additional class of weapon.
-5. Gain a subclass ability. Gain +1 INT and +1 CHA
+4. Increase one ability score of your choosing by +2, or two ability scores by +1
+5. Gain one subclass ability. Become proficient in an additional class of weapon.
+6. Gain a subclass ability. Gain +1 INT and +1 CHA
 
 #+BEGIN_CENTER
 --- 🚧 Under Construction 🚧 ---

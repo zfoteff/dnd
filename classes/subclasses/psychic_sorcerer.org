@@ -14,8 +14,8 @@
 Something in your mind has unhinged, and in an absolute fluke this has unlocked a potent hidden magic that lies within the minds and hearts of all beings.
 
 * Sorcerer Traits
-- /Gift of Gab/: For one reason or another, you're a enthralling speaker. Your persuasion attempts have advantage on unintelligent creatures.
-- /Schizoid/:
+- _/Gift of Gab/_: For one reason or another, you're a enthralling speaker. Your persuasion attempts have advantage on unintelligent creatures.
+- _/Schizoid/_: Consult the voices in your head for insight into a situation. Just because you hear the truth doesn't mean that others will agree however.
 * Level 1 Sorceries
 - _*Migraine*_: Roll to hit. On hit, give a target a headache for three turns. Deal 1d8 madness damage on the first turn, 1d6 psychic damage, and 1d4 psychic damage.
 - _*Cursed Knowledge*_: Allow a party member to glimpse the beyond. Give this member +4 insight for the whole turn.

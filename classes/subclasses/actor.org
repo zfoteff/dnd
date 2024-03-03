@@ -12,23 +12,20 @@
 #+END_CENTER
 -----
 * Level 1
-You are famous. This makes you somewhat recognizable. NPC attitudes may vary towards you, and many will have a first impression of you. You are more likely to be recognized in more populated parts of the world.
+- You are famous. This makes you somewhat recognizable. NPC attitudes may vary towards you, and many will have a first impression of you. You are more likely to be recognized in more populated parts of the world.
 * Level 2
-Obtain an eternal, irrevocable, and unchangeable cultural side-quest from the Cultural Side-Quest Generator. Completion of the side-quest may result in additional awards, and will 1 result in the player being rewarded another cultural side-quest.
+- Obtain an eternal, irrevocable, and unchangeable cultural side-quest from the Cultural Side-Quest Generator. Completion of the side-quest may result in additional awards, and will result in the player being rewarded another cultural side-quest.
 * Level 5
-Gain _Attraction_: This trait places low Wisdom [fn:1] characters under the spell of your magnificent good looks twice per long rest. This can only effect *1 target at a time*. While attracted to you, this target is distracted from the actions of the rest of the party for three turns, but it *EXTREMELY* aware of your actions. They will not attack you unless put in extreme circumstances [fn:2].
-
-Gain _Perfect Memory_: Anything the DM has said to you before, the actor will remember perfectly twice per long request. The player has to consult the DM to determine what exact detail is to be remembered by the actor in exploration. The player has -5 to hit on memory related spells in combat.
+- Gain _Attraction_: This trait places low Wisdom [fn:1] characters under the spell of your magnificent good looks twice per long rest. This can only effect *1 target at a time*. While attracted to you, this target is distracted from the actions of the rest of the party for three turns, but it *EXTREMELY* aware of your actions. They will not attack you unless put in extreme circumstances [fn:2].
+- Gain _Perfect Memory_: Anything the DM has said to you before, the actor will remember perfectly twice per long request. The player has to consult the DM to determine what exact detail is to be remembered by the actor in exploration. The player has -5 to hit on memory related spells in combat.
 * Level 10
-Gain _Spectral Manager_: The manager will keep you informed of any important cultural and political requests upon request. It may also send you concert invites, and give you a hookup for drugs.
-
-Gain _Booking Agent_: Once per long rest, you many travel to any part of the world in a single day, and the agent will arrange travel free of cost.
+- Gain _Spectral Manager_: The manager will keep you informed of any important cultural and political requests upon request. It may also send you concert invites, and give you a hookup for drugs.
+- Gain _Booking Agent_: Once per long rest, you many travel to any part of the world in a single day, and the agent will arrange travel free of cost.
 * Level 15
-You can now perform a perfect impersonation of anyone, as long as that person themselves does not observe you. Targets will be convinced you are the other person and treat you as such.
-
-You gain a _Costume Kit_: Within reason, you can make the party appear as other characters in the game. The DM will impose some situation limits on what the party can impersonate.
+- You can now perform a perfect impersonation of anyone, as long as that person themselves does not observe you. Targets will be convinced you are the other person and treat you as such.
+- You gain a _Costume Kit_: Within reason, you can make the party appear as other characters in the game. The DM will impose some situation limits on what the party can impersonate.
 * Level 19
-Gain knowledge of the _*The Forgotten Act*_: Upon performing the Forgotten Act in its entirety, one of the Old Gods will descend upon you to initiate an end-game level encounter. This will result in significant rewards for the actor, and potentially other players in the party.
+- Gain knowledge of the _*The Forgotten Act*_: Upon performing the Forgotten Act in its entirety, one of the Old Gods will descend upon you to initiate an end-game level encounter. This will result in significant rewards for the actor, and potentially other players in the party.
 -----
 * Footnotes
 [fn:1] Glossary: [[id:a3719559-2b06-443a-b75a-96c9aa3f3b26][Wisdom]]

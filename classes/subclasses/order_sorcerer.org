@@ -14,9 +14,9 @@
 Order sorcerers structure the future, and are able to frustrate enemies and allies alike by impeding their endeavors. They can grant powerful assistance to the party in times of need, but often require multiple turns to set up attacks.
 
 * Sorcery Traits:
-- /Lawful Struggle/: Any damage you deal to Chaotic enemies is increased by 50%.
-- /Rule Follower/: Regardless of your actions within the campaign, you will be considered a Lawful creature for the rest of the game by everyone you encounter, including the gods. Your persuasion modifier is permanently +2.
-- /Spirit of Justice/: Gain permanent insight into the rules and customs of any region that you enter. This insight may extend to the ordinary behavior of any inhabitants within the region.
+- _/Lawful Struggle/_: Any damage you deal to Chaotic enemies is increased by 50%.
+- _/Rule Follower/_: Regardless of your actions within the campaign, you will be considered a Lawful creature for the rest of the game by everyone you encounter, including the gods. Your persuasion modifier is permanently +2.
+- _/Spirit of Justice/_: Gain permanent insight into the rules and customs of any region that you enter. This insight may extend to the ordinary behavior of any inhabitants within the region.
 * Level 1 Sorceries
 - _*Delayed Gratification*_: Roll to hit two enemies within 20 feet. If successful, next turn both enemies will take 2d6 force damage.
 - _*Cripple*_: Roll to hit. If successful, an enemy's attack roll will be lowered by 4 for the next 3 turns. After one turn, they can try once to make a Constitution saving throw to escape the crippling.

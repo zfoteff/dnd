@@ -13,7 +13,7 @@
 [[[id:7d419730-2064-41f9-80ee-f24ed9b01ac7][Main Menu]]] [[[id:69ef1740-156a-4e42-9493-49ec80a4ac26][Classes]]]
 #+END_CENTER
 -----
-Buy low, sell high! Focus on acquiring as much money as possible; making trades and building a reputation across the cities of the world.
+Buy low, sell high! Focus on acquiring as much money as possible; making trades and building a reputation across the cities of the world. Be sure to select one level 1 skill and 1 trait to apply to your character.
 
 - _Initial Health_: Roll 1d6 and add it to your base HP. This is your Hit Die (HD). You will add the amount you roll to your base health every time you level up.
 - Start with 30 Silver, 15 Gold, and 3 Dragon Pesos
@@ -31,8 +31,8 @@ Buy low, sell high! Focus on acquiring as much money as possible; making trades 
 2.
 3.
 4. Increase one ability score of your choosing by +2, or two ability scores by +1
-5.
-6. You decide its time to open your ears to new international opportunities! Learn 1 new language of your choice.
+5. You decide its time to open your ears to new international opportunities! Learn 1 new language of your choice.
+6. Choose an additional trait to apply to your character
 7.
 8. Increase one ability score of your choosing by +2, or two ability scores by +1
 9.

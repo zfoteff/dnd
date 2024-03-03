@@ -11,19 +11,18 @@
 [[[id:7d419730-2064-41f9-80ee-f24ed9b01ac7][Main Menu]]] [[[id:69ef1740-156a-4e42-9493-49ec80a4ac26][Classes]]] [[[id:940552be-47cf-48ff-8ca0-8c2b7f629052][Paladin]]]
 #+END_CENTER
 -----
-Embrace the call of the void and ignore the . Return the world to the state of entropy it so longs to be in.
+Embrace the call of the void. Return the world to the state of entropy it so longs to be in.
 * Paladin Traits
-- /Void Vision/: Gain night vision to 120ft and the ability to see through magically-created darkness.
-- /Gift of Gab/: For one reason or another, you're a enthralling speaker. Your persuasion attempts have advantage
-- //:
+- _/Void Vision/_: Gain night vision to 120ft and the ability to see through magically-created darkness.
+- _/Gift of Gab/_: For one reason or another, you're a enthralling speaker. Your persuasion attempts have advantage
 * Level 1
-- Gain _**_
+- _**_
 * Level 2
-- Gain _**_:
+- _**_:
 * Level 5
-- Gain _Black Tendrils_:
+- _Black Tendrils_:
 * Level 10
-- Gain _Vacuum Shield_:
+- _Vacuum Shield_:
 * Level 15
-_- *Warping Implosion*_:
+- _*Warping Implosion*_:
 * Level 19
