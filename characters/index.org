@@ -2,13 +2,15 @@
 :ID:       cbece3fd-fea4-423b-bb04-3771cd8cb3da
 :END:
 :HEADER:
-#+title: Index
+#+title:    Index
 #+filetags: :DND:
-#+author: zfoteff
-#+date: [2024-06-02 Sun]
-#+summary: Landing page for character content
+#+author:   zfoteff
+#+date:     [2024-06-02 Sun]
+#+summary:  Landing page for character content
 :END:
 -----
 #+begin_menu
+[[id:b6fbf6d4-e1c3-4b7b-a0d5-75488e3a7b70][Character Index]]
 
+Character Scratch Sheet
 #+end_menu

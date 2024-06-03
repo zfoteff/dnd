@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       be8f9976-9899-4996-a547-67c7f21b6166
+:END:
+:HEADER:
+#+title: Character Scratch
+#+filetag: :DND:
+#+author: zfoteff
+#+date: [2024-06-02 Sun]
+#+summary: Character index
+:END:
+-----
