@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       cbece3fd-fea4-423b-bb04-3771cd8cb3da
+:END:
+:HEADER:
+#+title: Index
+#+filetags: :DND:
+#+author: zfoteff
+#+date: [2024-06-02 Sun]
+#+summary: Landing page for character content
+:END:
+-----
+#+begin_menu
+
+#+end_menu
