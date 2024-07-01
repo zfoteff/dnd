@@ -11,19 +11,20 @@
 [ [[id:49c009a8-dbe3-4867-a616-60c55d87ed54][DM Menu]] ]
 #+END_CENTER
 -----
-Material list [high to low]: cosmic -> brimstone -> meteor, mithryl -> iron -> stone -> wooden
+Material list [high to low]:
 
 * Cosmic
 Highest tier. Highest damage potential, high critical damage chance, and will shatter the minds of weaker enemies who cannot comprehend the madness of the cosmos. Must be wielded by a highly skilled individual to ensure that wielding the weapon does not cause the user to go mad. The user will have to fight off the effects of the weapon as they use it, limiting the material to high level characters.
-Deals Chaos, Cosmic, and Madness damage to enemies
+
+Deals [[id:2c89e9eb-6f29-49f2-8487-fab55b0b6685][cosmic]], and [[id:f788200c-fef6-476c-8c49-81cd7cd157ce][madness]] damage to enemies
 * Brimstone
 Material crafted from the dregs of Hell. Exceedingly rare.
 
-Deals [[id:23919bd5-7bb0-4743-ae81-f07566ccd236][madness]] and [[id:23919bd5-7bb0-4743-ae81-f07566ccd236][fire]] damage to enemies
+Deals madness and [[id:23919bd5-7bb0-4743-ae81-f07566ccd236][fire]] damage to enemies
 * Meteor
 Metal salvaged from falling meteors. Its strange magical qualities result in extremely effective weapons.
 
-Deals fire and radiance damage
+Deals [[id:dff70272-1c1f-42cf-b7e0-d2d47e642b6c][fire]] and [[id:58a084fb-d343-4941-a9a3-83a47a2e27f5][radiance]] damage
 * Mithryl
 Elven metal. Cool stuff.
 
@@ -35,7 +36,7 @@ A strange mix of metals, crafted with skilled hands into reliable and strong wea
 
 Deals [[id:23919bd5-7bb0-4743-ae81-f07566ccd236][shock]] damage
 * Steel
-The standard. Lighter than iron, more flexible than iron, and far stronger than . An adventurers best choice of weapon.
+The standard. Lighter and more flexible than iron. An adventurers standard choice in weapon.
 * Iron
 Heavy smelted iron, especially strong and tough. Just don't leave them in water.
 * Stone

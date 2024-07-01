@@ -30,7 +30,6 @@ _*Recast Recharge*_: If your spell hits an enemy, cast it again without using an
 *** Level 1
 - _*Aura Blast*_: Deal 1d10 energy damage to a single target using a ray, orb, or shockwave.
 - _*Detect Magic*_: Detect the presence and type of magic around you in a 50 ft radius. Does not give you specifics about the spell being cast, just that it exists.
-- _*Illuminate*_: Create a light that illuminates your surroundings in a 30ft radius. The light source lasts for 1 minute and cannot be moved.
 - _*Energy Blade*_: Summon a energy blade to fight with. This blade deals 1d10 damage and vanishes at the end of combat. The weapon cannot be transferred to other characters.
 - _*Energy Armor*_: Increase your AC by 1 for the rest of combat. This can be cast multiple times to stack the modifier.
 - _*Translate Speech*_: For two minutes, become able to verbally communicate with any intelligent creature of your choosing (DM discretion on what is considered intelligent). Nonverbal creatures will be able to understand you if their intelligence is high enough.
@@ -41,11 +40,12 @@ _*Recast Recharge*_: If your spell hits an enemy, cast it again without using an
 - _*Fortify*_: Grant everyone advantage on their next roll
 - _*Energize*_: Grant one member of your party the ability to perform two actions on their next turn
 - _*Chromatic Orb*_: Deal 2d10 energy damage to a single creature using an orb fired from your body
-- _*Chameleon*_: Disguise yourself as another type of creature until your long rest or decide to cancel the spell. Does not require concentration to cast. You cannot imitate specific beings, but you ma choose to belong to another one of the available [[id:e6b25898-e7dd-4444-b332-ef9fc3ea59bf][races]].
+- _*Chameleon*_: Disguise yourself as another type of creature until your long rest or decide to cancel the spell. Does not require concentration to cast. You cannot imitate specific beings, but you may choose to belong to another one of the available [[id:e6b25898-e7dd-4444-b332-ef9fc3ea59bf][races]].
 *** Level 3 (11+)
-- _*Rejuvenate*_: Gain back all used spell slots including the one used to grant Rejuvenate. This may also be used on a n ally to restore their missing spell slots. Can only be used once per long rest.
-- _*Obliterate*_: Deal 3d12 energy damage as a beam. This hits all creatures in a straight line from the caster
+- _*Rejuvenate*_: Gain back all used spell slots including the one used to grant Rejuvenate. This may also be used on an ally to restore their missing spell slots. Can only be used once per long rest.
+- _*Obliterate*_: Deal 3d12 energy damage as a beam. This hits all creatures in a straight line from the caster.
 - _*Evaporate*_: Turn yourself and any number of allies into a gaseous form for 3 turns. During these turns your have 50 movement speed and are now able to move in any direction. You may not attack, cast spells, or use any other abilities during the period the spell is active.
+- _*Contact*_: Mentally commune with a being in the same realm as you. They must be open to the communication.
 *** Level 4 (15+)
 - _*Freeze Time*_: Regain this turn, and gain two additional turns. You now have 3 actions (plus 3 bonus actions) that you can take before it is the next person's turn in combat.
 - _*Vampire's Witchcraft*_: Deal 5d12 damage to the next creature you touch. Regain 5d12 health on contact. One this spell is cast it cannot be uncast until you touch a creature or long rest.
@@ -57,6 +57,7 @@ _*Recast Recharge*_: If your spell hits an enemy, cast it again without using an
 :END:
 *** Generic Spells
 **** Level 1
+- _**_
 **** Level 2 (5+)
 **** Level 3 (11+)
 **** Level 4 (15+)
@@ -121,10 +122,16 @@ _*Recast Recharge*_: If your spell hits an enemy, cast it again without using an
 :END:
 *** Generic Spells
 **** Level 1
-_*Telekinesis*_: Pick one object that is no larger than your to move with your mind. It must be within 30 feet, and you may move it at 6 inches/sec. You may not move animals or NPCs, nor can you move objects in complicated ways (stretching, inverting, etc.)
+- _*Telekinesis*_: Pick one object that is no larger than your to move with your mind. It must be within 30 feet, and you may move it at 6 inches/sec. You may not move animals or NPCs, nor can you move objects in complicated ways (stretching, inverting, etc.)
+- _*Illuminate*_: Create a light that illuminates your surroundings in a 30ft radius. The light source lasts for 1 minute and cannot be moved.
+- _*Feather Fall*_: Choose up to five falling creatures within 60 feet of the caster. The falling creatures rate of decent will slow to 60 feet per minute, and they will take no falling damage. Lasts for 1 minute.
 **** Level 2 (5+)
 - _*Soul Tremor*_: Deal 1d8 damage to all creatures within a 100 ft radius.
+- _*Portal Gap*_: Cast a 5 foot radius portal to a location you can see. You may cast a second portal to create a 2 way connection between the portals. Only two portals can exist at a time. If a player casts portal a third time, the oldest portal will vanish and be replaced by the new portal location. The portal lasts until the character decides to break the spell.
+- _*Seal*_: You fortify the fabric of the planes within a 30 ft cube you can see within range. In that area, portals close and can't be opened for the duration of the seal. The cube will remain motionless. Last for 24 hours or for 10 turns of combat, or character death.
 **** Level 3 (11+)
+- asddass
+- sdasdsd
 **** Level 4 (15+)
 *** [[id:8cf16f81-68be-4205-9ff9-1c803443f6bc][Chaos Sorcerer]]
 **** Level 1:
@@ -177,3 +184,27 @@ _*Telekinesis*_: Pick one object that is no larger than your to move with your m
 - _*Mind Control*_: Force any creature but one of the gods to make a WIS, CON, and INT saving throw. The extent to which you mind control this person depends on how many of the saving throws they succeed on. From then on, the creature will do you bidding (/with some DM intervention/). Gain one charge every 2 long rests.
 - _*Mass Hallucination*_: Change one facet of history forever. The practical outcome of the event will remain the same, but everyone will remember the event differently. How different will depend on how you'd like to change the event.
 -----
+
+* Novel Power
+:PROPERTIES:
+:ID:       962e9e76-de01-411b-a7ad-a9c27a18ec96
+:END:
+** Evolve
+:PROPERTIES:
+:ID:       c71ad684-889c-4db0-9a36-1a1d57314d73
+:END:
+If you are a wizard, pick a sorcery type. Learn two sorcerer spells and two sorceries of your choosing (level two or below). From now on you may learn spells from that sorcery as well as your magical element. Level restrictions and spell slots still apply.
+
+If you are a sorcerer, pick a magical element. Learn two wizard spells and two elemental spells of your choosing (level two or below). From now on, you may learn spells of that magical element as well as your sorcery. Level restrictions & spell slots still apply.
+** Mutate
+:PROPERTIES:
+:ID:       946d95bf-d17b-40b0-ba5f-5b631427ccc4
+:END:
+Pick a druid circle. Learn basic alchemy and two alchemy abilities from your chosen circle.
+** Ascend
+:PROPERTIES:
+:ID:       fc0b7ffc-5dae-4119-8da0-ed3c75d880a8
+:END:
+If you are a wizard, pick another element. Learn two elemental spells of that element. From now on, you may learn spells of that magical element. Level restrictions & spell slots still apply.
+
+If you are a sorcerer, pick another sorcery. Learn two sorcerer spells of that element. From now on, you may learn from that sorcery. Level restrictions & spell slots still apply.

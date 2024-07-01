@@ -12,22 +12,57 @@
 #+END_CENTER
 -----
 * Slashing Damage
+:PROPERTIES:
+:ID:       8ff25491-4949-4b62-8796-308d556e23bc
+:END:
 Any type of cut, gash, or laceration
 * Bludgeoning Damage
+:PROPERTIES:
+:ID:       9f5d4763-b79d-4dba-91f3-104ee00a15ac
+:END:
 Smacking with a hard/heavy object
 * Piercing Damage
+:PROPERTIES:
+:ID:       4ad1b3ec-6c60-4ccd-bc5d-14bf3a9a6f46
+:END:
 Poking holes with a sharp and pointy object
 * Fire Damage
+:PROPERTIES:
+:ID:       dff70272-1c1f-42cf-b7e0-d2d47e642b6c
+:END:
 Fire bad. Hot. Inflict injury by wielding flame, or guard your allies with its warmth
 * Cold Damage
+:PROPERTIES:
+:ID:       981aeacb-976c-4fac-b5a2-7c1672097736
+:END:
 Frigid pain and freezing effects caused by rapidly causing the temperature to drop in a contained area
+* Cosmic Damage
+:PROPERTIES:
+:ID:       2c89e9eb-6f29-49f2-8487-fab55b0b6685
+:END:
+Inflict the terrors of the void in physical form to a target. Does half damage to non-cosmic creatures, but 150% damage to cosmic creatures.
 * Poison Damage
+:PROPERTIES:
+:ID:       063739a4-6488-44f6-aa74-f99258ab30ac
+:END:
 Toxic substances whittle away at a target's heath. Both poison and venom can have the same effect on a target.
 * Acid Damage
+:PROPERTIES:
+:ID:       3dadef00-0a2c-4aaa-9356-2b4683800385
+:END:
 Break down most materials with strong acid, reducing armor effectiveness and damaging weapons.
 * Radiant Damage
+:PROPERTIES:
+:ID:       58a084fb-d343-4941-a9a3-83a47a2e27f5
+:END:
 Divine intervention from the heavens. Sears the skin and melts the eyeballs of non-believers
 * Shock Damage
+:PROPERTIES:
+:ID:       a9d10cee-25fa-455c-bd2a-75eb46a1a794
+:END:
 Electrocute enemies with currents of electricity.
 * Madness Damage
+:PROPERTIES:
+:ID:       f788200c-fef6-476c-8c49-81cd7cd157ce
+:END:
 A dangerous magical gamble. Inflict massive damage to feeble minded enemies and torment the minds of stronger enemies, at the cost to the wielders sanity.

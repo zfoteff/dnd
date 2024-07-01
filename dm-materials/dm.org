@@ -32,12 +32,14 @@
 -----
 * Campaign Todos
 ** TODO Finish classes
-*** [ ] Bard
+*** [X] Bard
+CLOSED: [2024-06-30 Sun 20:55]
 **** [X] Actor
 CLOSED: [2024-03-01 Fri 15:17]
 **** [X] Muse
 CLOSED: [2024-03-01 Fri 15:19]
-**** [-] Craftsmen
+**** [X] Craftsmen
+CLOSED: [2024-06-30 Sun 20:55]
 *** [-] Druid
 **** [-] Plant
 **** [-] Animal
@@ -64,14 +66,20 @@ CLOSED: [2024-03-01 Fri 16:14]
 **** [X] Psychic
 CLOSED: [2024-03-01 Fri 16:14]
 *** [-] Prophet
-*** [-] Merchant
-*** [-] Warrior
-**** [-] Soldier
+*** [X] Merchant
+CLOSED: [2024-06-30 Sun 20:56]
+*** [X] Warrior
+CLOSED: [2024-06-30 Sun 20:56]
+**** [X] Soldier
+CLOSED: [2024-06-30 Sun 20:55]
 **** [X] Rebel
 CLOSED: [2024-03-01 Fri 16:22]
-**** [-] Brute
-*** [-] Rogue
-**** [-] Ninja
+**** [X] Brute
+CLOSED: [2024-06-30 Sun 20:56]
+*** [X] Rogue
+CLOSED: [2024-06-30 Sun 20:56]
+**** [X] Ninja
+CLOSED: [2024-06-30 Sun 20:56]
 **** [X] Con Man
 CLOSED: [2024-03-01 Fri 16:33]
 ** TODO Complete spell index
