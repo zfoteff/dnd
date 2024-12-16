@@ -1,0 +1,42 @@
+:PROPERTIES:
+:ID:       82b1c834-3cfe-4d1b-87ab-4dc44d45f0fa
+:END:
+#+title:    Language Guide
+#+filetags: :guide:DND:
+#+author:   zfoteff
+#+date:     [2024-10-22 Sun]
+#+summary:  Descriptions of each damage type in the game
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../static/stylesheets/subclass-style.css" />
+#+BEGIN_CENTER
+[ [[id:49c009a8-dbe3-4867-a616-60c55d87ed54][DM Menu]] ]
+#+END_CENTER
+-----
+* Standard Languages
+:PROPERTIES:
+:ID:       f94b0da8-73b7-461b-bd63-b17705df34e9
+:END:
+| Language | Typical Speakers | Script   |
+|----------+------------------+----------|
+| Common   | Humans           | Common   |
+| Dwarvish | Dwarves          | Elvish   |
+| Elvish   | Elves            | Dwarvish |
+| Giant    | Ogres, Giants    | Dwarvish |
+| Gnomish  | Gnomes           | Dwarvish |
+| Goblin   | Goblinoids       | Dwarvish |
+| Halfling | Halflings        | Common   |
+| Orc      | Orcs             | Dwarvish |
+
+* Exotic Languages
+:PROPERTIES:
+:ID:       284c49f7-a9a3-40c7-9d4d-ea6b88b59e38
+:END:
+| Language    | Typical Speakers    | Script    |
+|-------------+---------------------+-----------|
+| Abyssal     | Demons              | Infernal  |
+| Celestial   | Celestials          | Celestial |
+| Draconic    | Dragons, dragonborn | Draconic  |
+| Deep Speech | Aboleths, cloakers  | -         |
+| Infernal    | Devils              | Infernal  |
+| Primordial  | Elementals          | Dwarvish  |
+| Sylvan      | Fey creatures       | Elvish    |
+| Undercommon | Underworld traders  | Elvish    |

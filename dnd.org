@@ -21,8 +21,6 @@
 
 [[id:69ef1740-156a-4e42-9493-49ec80a4ac26][Classes]]
 
-Characters
-
 [[id:49c66431-d9c7-4213-ae29-b62365fd32d4][Spell Index]]
 
 [[id:a3719559-2b06-443a-b75a-96c9aa3f3b26][Glossary]]

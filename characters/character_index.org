@@ -1,8 +1,0 @@
-:PROPERTIES:
-:ID:       b6fbf6d4-e1c3-4b7b-a0d5-75488e3a7b70
-:END:
-#+title: Character Index
-#+filetag: :DND:
-#+author: zfoteff
-#+date: [2024-06-02 Sun]
-#+summary: Character index

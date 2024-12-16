@@ -1,16 +1,12 @@
 :PROPERTIES:
-:ID:       cbece3fd-fea4-423b-bb04-3771cd8cb3da
+:ID:       b6fbf6d4-e1c3-4b7b-a0d5-75488e3a7b70
 :END:
-:HEADER:
-#+title:    Index
-#+filetags: :DND:
-#+author:   zfoteff
-#+date:     [2024-06-02 Sun]
-#+summary:  Landing page for character content
-:END:
------
-#+begin_menu
-[[id:b6fbf6d4-e1c3-4b7b-a0d5-75488e3a7b70][Character Index]]
+#+title: Characters
+#+filetag: :DND:
+#+author: zfoteff
+#+date: [2024-06-02 Sun]
+#+summary: Character index
 
-Character Scratch Sheet
+#+begin_menu
+[[id:be8f9976-9899-4996-a547-67c7f21b6166][Character Scratch Sheet]]
 #+end_menu
